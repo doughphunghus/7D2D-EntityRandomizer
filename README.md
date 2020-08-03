@@ -7,7 +7,7 @@ Currently generated Modlets:
   
 | Modlets  | Notes |
 | ------------- | ------------- |
-| Doughs-RandomizedEntities-For-a19-b173l  | There are 83 vanilla zombies in this game version. 332 random ones in the modlet |
+| Doughs-RandomizedEntities-For-a19-b173 | There are 83 vanilla zombies in this game version. 332 random ones in the modlet |
 
 Notes:
 - This is still in a *very experimental* stage of development.  
