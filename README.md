@@ -1,15 +1,19 @@
 # 7D2D-EntityRandomizer
 A 7 Days to Die modlet generator that makes copies of Entities and randomizes them.
+The randomizer script that generates the modlet *is not yet published here* as it is not ready for general use BUT
+modlets generated from it are being put here for use/comments to help polish the script for release.
 
 Currently generated Modlets:
-Doughs-RandomizedEntities-For-a19-b173 -> Note, there are 4 copies of each vanilla zed in this one.
-  There are 83 vanilla zombies in this game version so there are 332 random ones in the modlet
+  
+| Modlets  | Notes |
+| ------------- | ------------- |
+| Doughs-RandomizedEntities-For-a19-b173l  | There are 83 vanilla zombies in this game version. 332 random ones in the modlet |
 
 Notes:
-- This is still in a *very experimental* stage of development.  If a zombie in a modlet here is really bad, please submit an issue here with the name of the zombie
+- This is still in a *very experimental* stage of development.  
+  If a zombie in a modlet here is really bad, please submit an issue here with the name of the zombie
   Zombies names start with doughsR<number>
   You'll have to be in debug mode to see the name
-- The randomizer script taht generates the modlet is not yet published here as it is not ready for general use.
 - The generated entities are "generally" tougher/faster than the vanilla zombies. 
   The randomizer was tweaked to make slow/weak zeds more unlikely. They can still happen though.
 - The vanilla zombies are not removed from the game.  This just adds more copies of them
