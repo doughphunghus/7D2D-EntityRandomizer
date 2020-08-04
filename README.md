@@ -24,19 +24,29 @@ Notes:
   
 - At a high level, the randomizer script (currently) that generates the modlet attempts to do these things:
   1. Make a copy of the zombie entities in the game, giving them a new, unique name
+  
   2. For each entity, randomizes these characteristics:
     WalkType -> All walk types from 1-8 are given randomly EXCEPT if a zed was already a crawler, it will stay a crawler
+    
     Mass -> Generally ties to the size. Smaller zed would have less mass.  Maybe makes ragdolling more real?
+    
     Weight -> Generally ties to the size. Smaller zed would have less weight.  Maybe makes ragdolling more real?
+    
     Size -> Zeds generally tend to randomize sto be maller than vanilla ones.  Though some can be larger.  Why? Because!
-      Note: Some crawlers may be hand tuned after generation to generate small crawlers. Why? Because I wanted small crawlers.
+        Note: Some crawlers may be hand tuned after generation to generate small crawlers. Why? Because I wanted small crawlers.
+      
     LegCrawlerThreshold -> Done so some zeds may have a greater chance to drop and crawl when hit
+    
     MoveSpeed -> Zeds will tend to be faster than vanilla
+    
     MoveSpeedAggro -> Zeds will tend to be faster than vanilla
+    
     ExperienceGain -> Zeds will tend to give less EXP when killed than vanilla.
+    
     HealthMaxBase -> Zeds will tend to have more health than vanilla.
     
   3. Loops and runs again, so more random copies can be made of each zed.  
+  
   4. Writes out an XML modlet containing all the random entities, and adds them to all the entity groups they normally spawn in.
   
   Also note: 
