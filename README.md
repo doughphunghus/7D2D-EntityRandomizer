@@ -26,6 +26,7 @@ Notes:
   1. Make a copy of the zombie entities in the game, giving them a new, unique name
   
   2. For each entity, randomizes these characteristics:
+  
     WalkType -> All walk types from 1-8 are given randomly EXCEPT if a zed was already a crawler, it will stay a crawler
     
     Mass -> Generally ties to the size. Smaller zed would have less mass.  Maybe makes ragdolling more real?
@@ -53,6 +54,9 @@ Notes:
   The "randomness" is not completely random.  Each metric gets a different "randomness" varience, and some metrics are tweaked.
   For example:
   - If a zombie is a crawler type, the zomnie copy will not have a random walk type ( because a legless crawler can float in midair if its made to walk)
-  - I have chosen to make the "amount of randomness" usually center around the existing metric, e.g. if HealthMaxBase = 200, the "randomness" is centered around 200 usiong a "percentage. Like 200 +/- 30%.
+  
+  - I have chosen to make the "amount of randomness" usually center around the existing metric, e.g. if HealthMaxBase = 200, the "randomness" is centered around 200 using a "percentage. Like 200 +/- 30%.
+  
   - In some cases, where its not easy to get a metric, I have manually chosen a metric to center the randomness around.
-  - Some zombies may be "too big" to fit through doors ;)  generally i tried to center size randomness so they will not be.
+  
+  - Some zombies may be "too big" to fit through doors ;)  generally I tried to center size randomness so they will not be, but it may happen
