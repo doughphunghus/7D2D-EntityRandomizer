@@ -2,10 +2,12 @@
 A 7 Days to Die modlet generator that makes copies of Entities and randomizes them.
 The randomizer script that generates the modlet *is not yet published here* as it is not ready for general use BUT
 modlets generated from it are being put here for use/comments to help polish the script for release.
-  
-| Currently generated Modlet  | Notes |
+
+Note: Only load ONE of the modlets in the table below that's specific to your game version!
+| Currently generated Modlets  | Notes |
 | ------------- | ------------- |
-| Doughs-RandomizedEntities-For-a19-b173 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83)|
+| Doughs-RandomizedEntities-For-a19-b173 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
+| Doughs-RandomizedEntities-For-a19-b177 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 
 
 Notes:
