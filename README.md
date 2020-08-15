@@ -6,6 +6,7 @@ modlets generated from it are being put here for use/comments to help polish the
 Note: Only load ONE of the modlets in the table below that's specific to your game version!
 | Currently generated Modlets  | Notes |
 | ------------- | ------------- |
+| Doughs-RandomizedEntities-For-a19-b180 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 | Doughs-RandomizedEntities-For-a19-b178 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 | Doughs-RandomizedEntities-For-a19-b177 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 | Doughs-RandomizedEntities-For-a19-b173 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
