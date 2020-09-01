@@ -1,0 +1,277 @@
+{
+  "game_install_dir":"some path here/Steam/steamapps/common/7 Days To Die",
+  "game_saves_dir":"some path here/7DaysToDie/Saves",
+  "use_save_game":"",
+  "game_version":"a19_0",
+  "modlet_tag":"test_example",
+  "log_level":"2",
+  "config_file_format":"v1",
+  "unique_entity_prefix":"DoughsR",
+  "ignore_entity_list":{
+    "animalRabbit2":"Example how to not clone or make new copies an entity named animalRabbit2",
+    "animalDoe2":"Example how to not clone or make new copies an entity named animalDoe2",
+    "guppyRobotDog":"Follower animal"
+  },
+  "ConfigDefaults": {
+    "WalkType": {
+      "rand_function":"custom_WalkType"
+    },
+    "TintMaterial": {
+      "rand_function":"custom_TintMaterial"
+    },
+    "MassAndWeightAndSizeScale": {
+      "rand_function":"custom_MassAndWeightAndSizeScale",
+      "low_pct_int":"15",
+      "high_pct_int":"45",
+      "mass_default_int":"170",
+      "sizescale_default_two_dec":".85"
+    },
+    "HealthAndExperienceGain": {
+      "rand_function":"custom_HealthAndExperienceGain",
+      "pct_random_int":"50",
+      "experience_gain_default_int":"200"
+    },
+    "LegCrawlerThreshold": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.000",
+      "high":"0.150"
+    },
+    "Explosion.RadiusBlocks": {
+      "rand_function":"setcreate_one_range",
+      "low":"2",
+      "high":"7"
+    },
+  	"Explosion.RadiusEntities": {
+      "rand_function":"setcreate_one_range",
+      "low":"2",
+      "high":"7"
+    },
+  	"Explosion.BlockDamage": {
+      "rand_function":"setcreate_one_range",
+      "low":"4000",
+      "high":"6000"
+    },
+  	"Explosion.EntityDamage": {
+      "rand_function":"setcreate_one_range",
+      "low":"600",
+      "high":"1000"
+    },
+  	"Explosion.DamageBonus.earth": {
+      "rand_function":"setcreate_one_range",
+      "low":".1",
+      "high":"1"
+    },
+  	"ExplodeDelay": {
+      "rand_function":"setcreate_one_range",
+      "low":"0",
+      "high":"3"
+    },
+    "MoveSpeed": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.05",
+      "high":"2.00"
+    },
+    "MoveSpeedPanic":{
+      "rand_function":"setcreate_one_range",
+      "low":"0.05",
+      "high":"2.00"
+    },
+    "MoveSpeedAggro": {
+      "rand_function":"setcreate_two_range",
+      "low1":"0.4",
+      "low2":"1.2",
+      "high1":"1.5",
+      "high2":"3.0"
+    },
+    "AttackTimeoutDay": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.6",
+      "high":"2.0"
+    },
+    "AttackTimeoutNight": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.3",
+      "high":"1.5"
+    },
+    "DismemberMultiplierHead": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.6",
+      "high":"1.1"
+    },
+    "DismemberMultiplierArms": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.6",
+      "high":"1.1"
+    },
+    "DismemberMultiplierLegs": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.6",
+      "high":"1.1"
+    },
+    "KnockdownProneDamageThreshold": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.3",
+      "high":"0.7"
+    },
+    "KnockdownKneelDamageThreshold": {
+      "rand_function":"setcreate_one_range",
+      "low":"0.3",
+      "high":"0.5"
+    },
+    "JumpMaxDistance": {
+      "rand_function":"setcreate_two_range",
+      "low1":"1.8",
+      "low2":"3.4",
+      "high1":"3.5",
+      "high2":"6.0"
+    },
+    "KnockdownProneStunDuration": {
+      "rand_function":"setcreate_two_range",
+      "low1":"0.2",
+      "low2":"0.7",
+      "high1":"1.0",
+      "high2":"2.1"
+    },
+    "KnockdownKneelStunDuration": {
+      "rand_function":"setcreate_two_range",
+      "low1":"0.2",
+      "low2":"0.7",
+      "high1":"1.0",
+      "high2":"2.1"
+    },
+    "LookAtAngle": {
+      "rand_function":"setcreate_rand_around_percent",
+      "pct_random_int":"20",
+      "default":"60"
+    },
+    "MaxViewAngle": {
+      "rand_function":"setcreate_rand_around_percent",
+      "pct_random_int":"20",
+      "default":"180"
+    },
+    "AINoiseSeekDist": {
+      "rand_function":"setcreate_rand_around_percent",
+      "pct_random_int":"30",
+      "default":"8"
+    },
+    "SightRange": {
+      "rand_function":"setcreate_rand_around_percent",
+      "pct_random_int":"20",
+      "default":"30"
+    },
+    "SmellAlertThreshold": {
+      "rand_function":"setcreate_rand_around_percent",
+      "pct_random_int":"20",
+      "default":"40"
+    },
+    "MaxTurnSpeed": {
+      "rand_function":"setcreate_rand_around_percent",
+      "pct_random_int":"25",
+      "default":"250"
+    }
+  },
+  "ConfigEntityEnemyAnimal": {
+    "disable_randomizer":"0",
+    "num_generation_loops":"1",
+    "ignore_entity_list":{
+      "animalRabbit2":"Example how to not randomize an entity named animalRabbit2",
+      "animalDoe2":"Example how to not randomize an entity named animalDoe2"
+    },
+    "MassAndWeightAndSizeScale": {
+      "low_pct_int":"15",
+      "high_pct_int":"45",
+      "mass_default_int":"170",
+      "sizescale_default_two_dec":"1.00"
+    },
+    "HealthAndExperienceGain": {},
+    "MoveSpeed": {},
+    "MoveSpeedAggro": {},
+    "AttackTimeoutDay": {},
+    "AttackTimeoutNight": {},
+    "JumpMaxDistance": {},
+    "LookAtAngle": {
+      "pct_random_int":"20",
+      "default":"180"
+    },
+    "AINoiseSeekDist": {
+      "pct_random_int":"30",
+      "default":"6"
+    },
+    "MaxViewAngle": {},
+    "SightRange": {
+      "pct_random_int":"20",
+      "default":"20"
+    },
+    "SmellAlertThreshold": {},
+    "MaxTurnSpeed": {}
+  },
+  "ConfigEntityFriendlyAnimal": {
+    "disable_randomizer":"0",
+    "num_generation_loops":"1",
+    "ignore_entity_list": {
+      "animalRabbit2":"Example how to not randomize an entity named animalRabbit2",
+      "animalDoe2":"Example how to not randomize an entity named animalDoe2"
+    },
+    "MassAndWeightAndSizeScale": {
+      "low_pct_int":"15",
+      "high_pct_int":"45",
+      "mass_default_int":"170",
+      "sizescale_default_two_dec":"1.00"
+    },
+    "HealthAndExperienceGain": {},
+    "MoveSpeed": {
+      "low":"0.05",
+      "high":"2.00",
+      "only_allow_these_entities_list":{
+        "animalStag":"Special",
+        "animalDoe":"Special"
+      },
+      "animalRabbit":{
+        "disable_randomizer":"1",
+        "low":"0.1",
+        "high":"0.12"
+      }
+    },
+    "LookAtAngle": {
+      "pct_random_int":"20",
+      "default":"180"
+    },
+    "MaxViewAngle": {},
+    "SightRange": {
+      "pct_random_int":"20",
+      "default":"20"
+    },
+    "MaxTurnSpeed": {}
+  },
+  "ConfigEntityZombie": {
+    "disable_randomizer":"0",
+    "num_generation_loops":"1",
+    "ignore_entity_list":{
+      "animalRabbit2":"Example how to not randomize an entity named animalRabbit2",
+      "animalDoe2":"Example how to not randomize an entity named animalDoe2"
+    },
+    "WalkType": {},
+    "MassAndWeightAndSizeScale": {},
+    "HealthAndExperienceGain": {},
+    "LegCrawlerThreshold": {},
+    "MoveSpeed": {},
+    "MoveSpeedAggro": {},
+    "TintMaterial": {},
+    "AttackTimeoutDay": {},
+    "AttackTimeoutNight": {},
+    "DismemberMultiplierHead": {},
+    "DismemberMultiplierArms": {},
+    "DismemberMultiplierLegs": {},
+    "KnockdownProneDamageThreshold": {},
+    "KnockdownKneelDamageThreshold": {},
+    "JumpMaxDistance": {},
+    "KnockdownProneStunDuration": {},
+    "KnockdownKneelStunDuration": {},
+    "LookAtAngle": {},
+    "AINoiseSeekDist": {},
+    "MaxViewAngle": {},
+    "SightRange": {},
+    "SmellAlertThreshold": {},
+    "MaxTurnSpeed": {}
+  }
+}
