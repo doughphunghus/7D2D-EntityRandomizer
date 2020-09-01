@@ -17,7 +17,7 @@ Documentation for how to install perl + dependencies on Mac, Windows, and Unix: 
 Documentation for how to setup the config file/run the script: TBD
 
 Note: Only load ONE of the modlets in the table below that's specific to your game version!
-| Currently generated Modlets  | Notes |
+| Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
 | Doughs-RandomizedEntities-For-a19_0 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 | Doughs-RandomizedEntities-For-a19-b180 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
