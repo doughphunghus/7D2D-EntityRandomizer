@@ -12,9 +12,11 @@ Do not attempt to use the script unless you are familiar with installing perl, p
 ### WARNING: The script is not well tested. Do not try to run it until you have read and understood the documentation.
 ### WARNING: The script may not generate 7 Days to Die modlets that work properly with the game. 
 
-Documentation for how to install perl + dependencies on Mac, Windows, and Unix: TBD
+Documentation for how to install perl + dependencies on Mac, Windows, and Unix:\
+See [wiki](https://github.com/doughphunghus/7D2D-EntityRandomizer/wiki)
 
-Documentation for how to setup the config file/run the script: TBD
+Documentation for how to setup the config file/run the script:\
+See [wiki](https://github.com/doughphunghus/7D2D-EntityRandomizer/wiki)
 
 Note: Only load ONE of the modlets in the table below that's specific to your game version!
 | Current Pre-generated Modlets  | Notes |
