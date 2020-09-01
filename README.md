@@ -6,7 +6,7 @@ The randomizer script that generates the modlet *is still very experimental* BUT
 
 ### I highly recommend using one of the pre-generated modlets below before attempting to use the script!  These pre-genrated modlets have been tested to prove they work in game.
 
-### WARNING: You can trash/render inoperable your computer if you are not familiar with properly installing perl (some OS's have a built in perl and you DO NOT want to modify or remove it)
+### WARNING: You can trash/break your computer if you are not familiar with properly installing perl (some OS's have a built in perl and you DO NOT want to modify or remove it)
 Do not attempt to use the script unless you are familiar with installing perl, possibly installing build tools ( compiler, etc, maybe needed to install perl depending on your OS), intalling the script dependencies, virtualizing the perl environment (probably desired), and the 7D2D entity XML you will need to build a config file.
 
 ### WARNING: The script is not well tested. Do not try to run it until you have read and understood the documentation.
