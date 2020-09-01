@@ -18,7 +18,7 @@ See [wiki](https://github.com/doughphunghus/7D2D-EntityRandomizer/wiki)
 Documentation for how to setup the config file/run the script:\
 See [wiki](https://github.com/doughphunghus/7D2D-EntityRandomizer/wiki)
 
-Note: Only load ONE of the modlets in the table below that's specific to your game version!
+If you are using a pre-generated modlet below, load ONE of the modlets in the table below that's specific to your game version!
 | Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
 | Doughs-RandomizedEntities-For-a19_0 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
@@ -27,7 +27,7 @@ Note: Only load ONE of the modlets in the table below that's specific to your ga
 | Doughs-RandomizedEntities-For-a19-b177 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 | Doughs-RandomizedEntities-For-a19-b173 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
 
-Notes:
+#### Notes:
 - This is still in a *very experimental* stage of development.  
   If a zombie in a pre-generated modlet here is really bad, please submit an issue here with the modlet name and name of the zombie. Zombies names start with doughsR<number>. You'll have to be in debug mode in the script (or also if viewing teh zombie in the game) to see the name.
 - The pre-generated modlet entities are "generally" tougher/faster than the vanilla zombies. 
