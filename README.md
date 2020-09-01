@@ -13,6 +13,7 @@ Do not attempt to use the script unless you are familiar with installing perl, p
 ### WARNING: The script may not generate 7 Days to Die modlets that work properly with the game. 
 
 Documentation for how to install perl + dependencies on Mac, Windows, and Unix: TBD
+
 Documentation for how to setup the config file/run the script: TBD
 
 Note: Only load ONE of the modlets in the table below that's specific to your game version!
