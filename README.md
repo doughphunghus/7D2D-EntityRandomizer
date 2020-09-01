@@ -4,8 +4,8 @@ The script currently can randomize Zombie and animal entities.
 
 The randomizer script that generates the modlet *is still very experimental* BUT modlets generated from it are being put here for use/comments to help polish the script for release.
 
-# I highly recommend using one of the pre-generated modlets below before attempting to use the script!
-# WARNING: You can trash your OS if you are not familiar with properly installing perl (some OS's have a built in perl it can mess with)
+## I highly recommend using one of the pre-generated modlets below before attempting to use the script!
+## WARNING: You can trash your OS if you are not familiar with properly installing perl (some OS's have a built in perl it can mess with)
 unless you are very familiar with installing perl, possibly installing build tools ( compiler, etc, maybe needed to install perl depending on your OS), intalling the script dependencies, virtualizing perl environment ( probably desired), and the 7D2D entity XML.
 
 Documentation for how to install perl + dependencies on Mac, Windows, and Unix: TBD
