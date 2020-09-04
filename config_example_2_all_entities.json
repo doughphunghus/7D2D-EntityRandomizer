@@ -1,6 +1,6 @@
 {
-  "game_install_dir":"/home/toot/.local/share/Steam/steamapps/common/7 Days To Die",
-  "game_saves_dir":"/home/toot/.local/share/7DaysToDie/Saves",
+  "game_install_dir":"some path here/Steam/steamapps/common/7 Days To Die",
+  "game_saves_dir":"some path here/7DaysToDie/Saves",
   "use_save_game":"",
   "game_version":"a19_0",
   "modlet_tag":"all-entities",
