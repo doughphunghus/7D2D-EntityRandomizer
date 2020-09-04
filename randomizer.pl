@@ -769,7 +769,7 @@ sub RandomizeEntity {
       # Check if should ONLY apply/randomize configs for this entity
       # Specifically for configs that are entity specific: demolishers, vultures, etc.
       if(IsEntityBlockedForProperty($entity_config_key,$cfg_property_key,$entity_name)) {
-        LogInfo('Randomizing of this property is blocked in config file for entity: '.$entity_config_key.'->'.$cfg_property_key.'->'.$entity_name);
+        LogDebug('Randomizing of this property is blocked in config file for entity: '.$entity_config_key.'->'.$cfg_property_key.'->'.$entity_name);
         next;
       }
 
