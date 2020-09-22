@@ -575,6 +575,7 @@ sub Randomize_SetOnly_NoCreate_TintMaterial {
 
 sub Randomize_WalkType { # <property name="WalkType" value="3"/>
   # 4 = crawler -> don't make crawlers walk. The legless one floats at you like a ghost ;)
+  # zombieSteveCrawlerFeral = WalkType not set, its inherited...sigh
   my($zed) = @_;
 
   # TODO: make variance configurable
@@ -682,6 +683,13 @@ sub IsEntityBlockedForProperty {
       $result = 0; # This one is allowed
     }
   }
+
+  #if(exists $CONFIGS->{$cfg_entity_key}{$cfg_property_key}{'ignore_entity_list'}) {
+  #  if(exists $CONFIGS->{$cfg_entity_key}{$cfg_property_key}{'ignore_entity_list'}{$entity_name}) {
+  #    $result = 1; # This one is NOT allowed
+  #  }
+  #}
+
   return $result;
 }
 sub IsRandomizerEnabledForProperty {
