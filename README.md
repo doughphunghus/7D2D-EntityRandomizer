@@ -19,8 +19,10 @@ Documentation for how to setup the config file/run the script:\
 See [wiki](https://github.com/doughphunghus/7D2D-EntityRandomizer/wiki)
 
 If you are using a pre-generated modlet below, load ONE of the modlets in the table below that's specific to your game version!
+
 | Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
+| Doughs-RandomizedEntities-For-a19.1_b8_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19_1_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19_0_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19_0 | There are 332 randomized vanilla zombies in the modlet (4x of the vanilla 83) |
