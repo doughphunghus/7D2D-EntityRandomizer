@@ -587,9 +587,9 @@ sub Randomize_WalkType { # <property name="WalkType" value="3"/>
   foreach my $walk_type ($zed->findnodes('./property[@name=\'WalkType\']')) {
     #print "DEBUG: ".$walk_type->toString();
     my $val = $walk_type->getAttribute('value');
-    if($val != 4) {
+    #if($val != 4) { # so...if have legs, then walk. Simply config no random walktype for legless!
       $walk_type->setAttribute(q|value|,$rand_walk_type); # random this
-    }
+    #}
     $found++;
   }
 

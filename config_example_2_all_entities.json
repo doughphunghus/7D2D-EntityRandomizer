@@ -1,8 +1,8 @@
 {
-  "game_install_dir":"some path here/Steam/steamapps/common/7 Days To Die",
-  "game_saves_dir":"some path here/7DaysToDie/Saves",
+  "game_install_dir":"/home/toot/.local/share/Steam/steamapps/common/7 Days To Die",
+  "game_saves_dir":"/home/toot/.local/share/7DaysToDie/Saves",
   "use_save_game":"",
-  "game_version":"a19.1_b8",
+  "game_version":"a19_b180",
   "modlet_tag":"all-entities",
   "log_level":"2",
   "config_file_format":"v1",
@@ -324,7 +324,11 @@
     "WalkType": {
       "zombieSteveCrawlerFeral":{
         "disable_randomizer":"1",
-        "disable_reason":"Zed WalkType is inherited, not explicitly set. Code cannot easily determine its a crawler only."
+        "disable_reason":"Steve has no legs. WalkType is inherited, not explicitly set. Code cannot easily determine its a crawler only."
+      },
+      "zombieSteveCrawler":{
+        "disable_randomizer":"1",
+        "disable_reason":"Steve has no legs."
       }
     },
     "MassAndWeightAndSizeScale": {},
