@@ -2,7 +2,7 @@
   "game_install_dir":"/home/toot/.local/share/Steam/steamapps/common/7 Days To Die",
   "game_saves_dir":"/home/toot/.local/share/7DaysToDie/Saves",
   "use_save_game":"",
-  "game_version":"a19_b180",
+  "game_version":"a19.2_b3",
   "modlet_tag":"all-entities",
   "log_level":"2",
   "config_file_format":"v1",
@@ -37,27 +37,27 @@
       "low":"2",
       "high":"7"
     },
-  	"Explosion.RadiusEntities": {
+    "Explosion.RadiusEntities": {
       "rand_function":"setcreate_one_range",
       "low":"2",
       "high":"7"
     },
-  	"Explosion.BlockDamage": {
+    "Explosion.BlockDamage": {
       "rand_function":"setcreate_one_range",
       "low":"4000",
       "high":"6000"
     },
-  	"Explosion.EntityDamage": {
+    "Explosion.EntityDamage": {
       "rand_function":"setcreate_one_range",
       "low":"600",
       "high":"1000"
     },
-  	"Explosion.DamageBonus.earth": {
+    "Explosion.DamageBonus.earth": {
       "rand_function":"setcreate_one_range",
       "low":".1",
       "high":"1"
     },
-  	"ExplodeDelay": {
+    "ExplodeDelay": {
       "rand_function":"setcreate_one_range",
       "low":"0",
       "high":"3"
@@ -75,9 +75,9 @@
     "MoveSpeedAggro": {
       "rand_function":"setcreate_two_range",
       "low1":"0.4",
-      "low2":"1.0",
-      "high1":"1.1",
-      "high2":"1.5"
+      "low2":"0.9",
+      "high1":"1.0",
+      "high2":"1.3"
     },
     "AttackTimeoutDay": {
       "rand_function":"setcreate_one_range",

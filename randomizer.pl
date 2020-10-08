@@ -23,7 +23,7 @@ DOCS:
  #
 
 Run:
-perl ./randomizer.pl --config_file 'config_example.json'
+perl ./randomizer.pl --config-file 'config_example.json'
 
 
 =cut
@@ -822,10 +822,10 @@ sub RandomizeEntity {
 # Handle command line args/config loading/init
 ##########
 GetOptions (
-  "config_file_name=s" => \$CONFIG_FILE_NAME
+  "config-file=s" => \$CONFIG_FILE_NAME
 ) or croak(LogError('Error in command line arguments'));
 if(! defined $CONFIG_FILE_NAME) {
-  LogError('Required argument not passed: config_file_name');
+  LogError('Required argument not passed: config-file');
   exit;
 }
 $CONFIGS = LoadConfigs($PROJECT_ROOT_DIR,$CONFIG_FILE_NAME);
