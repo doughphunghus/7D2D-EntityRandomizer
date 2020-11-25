@@ -22,6 +22,7 @@ If you are using a pre-generated modlet below, load ONE of the modlets in the ta
 
 | Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
+| Doughs-RandomizedEntities-For-a19.2_b4_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19.2_b3_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19.1_b8_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19_1_all-entities | ARCHIVED: ISSUES WITH MODLET.  DO NOT USE |
