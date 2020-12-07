@@ -3,6 +3,7 @@
   "game_saves_dir":"some path here/7DaysToDie/Saves",
   "use_save_game":"",
   "game_version":"a19_0",
+  "author":"Doughphunghus",
   "modlet_tag":"test_example",
   "log_level":"2",
   "config_file_format":"v1",
@@ -12,7 +13,32 @@
     "animalDoe2":"Example how to not clone or make new copies an entity named animalDoe2",
     "guppyRobotDog":"Follower animal"
   },
+  "enable_localization":"1",
   "ConfigDefaults": {
+    "LocalizationNameLookup": {
+      "animals": {
+        "animalDoe":"1",
+        "animalBear":"1",
+        "animalBoar":"1",
+        "animalChicken":"1",
+        "animalDeer":"1",
+        "animalDoe":"1",
+        "animalPig":"1",
+        "animalRabbit":"1",
+        "animalStag":"1",
+        "animalZombieDog":"1",
+        "animalZombieVulture":"1"
+      },
+      "friendly" : {
+        "animalDoe":"1",
+        "animalChicken":"1",
+        "animalDeer":"1",
+        "animalDoe":"1",
+        "animalPig":"1",
+        "animalRabbit":"1",
+        "animalStag":"1"
+      }
+    },
     "WalkType": {
       "rand_function":"custom_WalkType"
     },
@@ -246,6 +272,7 @@
   "ConfigEntityZombie": {
     "disable_randomizer":"0",
     "num_generation_loops":"1",
+    "enable_walktype_crawler_limit":"1",
     "ignore_entity_list":{
       "animalRabbit2":"Example how to not randomize an entity named animalRabbit2",
       "animalDoe2":"Example how to not randomize an entity named animalDoe2"

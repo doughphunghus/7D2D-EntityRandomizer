@@ -10,6 +10,8 @@ use FindBin qw($Bin); # For finding script dir. $Bin contains script dir
 # use File::Basename qw(dirname); #
 
 # TODO: MaxView angle + LookAt Angle = set the same?
+# TODO: Randomize HandItem? may be too hard
+
 =pod
 DOCS:
 
@@ -47,6 +49,7 @@ my @COMPATIBLE_CONFIG_FILE_FORMATS = ('v0','v1');
 # Global file handles
 my $ENTITIES_FILE;
 my $ENTITYGROUPS_FILE;
+my $LOCALIZATION_FILE; # For modlet generation of new localization
 
 # Misc globals
 my $ENTITY_CONFIG_KEY;
@@ -58,12 +61,20 @@ my %ENTITY_GROUP_LOOKUP; # group => aray of zeds to add
 my %NEW_ENTITIES; # name => xml_node
 my $ENTITYCLASSES_DOM;
 my $ENTITYGROUPS_DOM;
+my %LOCALIZATION; # Hash. key = localization name. Vanilla parsed localization
+my @LOCALIZATION_ANIMAL_NAMES; # My custom ones
+my @LOCALIZATION_ENEMY_ADJETIVES; # My custom ones
+my @LOCALIZATION_FRIENDLY_ADJETIVES; # My custom ones
+my @LOCALIZATION_UNISEX_PEOPLE_NAMES; # My custom ones
 my $TOTAL_ZED_ENTITIES_FOUND = 0;
 my $TOTAL_ZED_ENTITIES_GENERATED = 0;
 my $TOTAL_HOSTILE_ANIMAL_ENTITIES_FOUND = 0;
 my $TOTAL_HOSTILE_ANIMAL_ENTITIES_GENERATED = 0;
 my $TOTAL_FRIENDLY_ANIMAL_ENTITIES_FOUND = 0;
 my $TOTAL_FRIENDLY_ANIMAL_ENTITIES_GENERATED = 0;
+
+# try to stop a lot of crawlers being generated
+my %WalkTypeCrawlLimiter; # key = zed class. val = int of crawler randomizations done
 
 # TODO: put this in configs
 my %NEW_ENTITY_FILTER_LIST = ( # don't ever clone these nodes. Hardcode obvious here
@@ -286,10 +297,10 @@ sub ModletGen_Start { # Just use Globals :)
   #}
 
   # Localization file
-  #my $localization_xml_file = $modlet_config_dir.'/Localization.txt';
-  #print "Generating: $localization_xml_file\n";
-  #open($LOCALIZATION_FILE,'>',$localization_xml_file) or die "Unable to open $localization_xml_file\n";
-  # TODO
+  my $localization_file = $modlet_config_dir.'/Localization.txt';
+  print "Generating: $localization_file\n";
+  open($LOCALIZATION_FILE,'>',$localization_file) or die "Unable to open $localization_file\n";
+  print $LOCALIZATION_FILE 'Key,File,Type,UsedInMainMenu,NoTranslate,english'."\n";
 
   # Entities file
   my $entities_xml_file = $modlet_config_dir.'/entityclasses.xml';
@@ -309,8 +320,7 @@ sub ModletGen_Start { # Just use Globals :)
 
 sub ModletGen_Finish { # Just use Globals :)
   # Localization file
-  # TODO
-  #close($LOCALIZATION_FILE);
+  close($LOCALIZATION_FILE);
 
   # Entities file
   LogDebug('Completing: Entities file.');
@@ -323,6 +333,107 @@ sub ModletGen_Finish { # Just use Globals :)
   print $ENTITYGROUPS_FILE '</Doughs>'."\n";
   close($ENTITYGROUPS_FILE);
   return;
+}
+
+# TODO
+sub ModletGen_AddZedToLocalization {
+  my ($zed_obj, $entity_config_key, $orig_entity_name, $new_entity_name) = @_;
+  # Entry Example:
+  # zombieArlene,entityclasses,Entity,,,Putrid Girl
+
+  # 'ConfigEntityZombie', 'NameKey','NewNameKey', $Zed_Obj
+
+  # NOTE: THIS CAN FAIL! Not all zeds are localized!
+  my $orig_localization_name = $LOCALIZATION{$orig_entity_name}{'name'};
+  my $type = $LOCALIZATION{$orig_entity_name}{'type_info'};
+
+  if(! defined $type) {
+    $type = 'entityclasses,Entity,,'; # Default I guess
+  }
+  if(! defined $orig_localization_name) {
+    $orig_localization_name = ''; # Default I guess. Blank so no uninit errors
+  }
+
+  # Lookup new "name" for localization
+  # $orig_name
+
+  # zombieArlene = Bloated Walker
+  # animalPig = Pig
+  # npcTraderHugh
+  # entityJunkDrone
+  my $localization_class = 'people'; # DEFAULT
+  my $localization_adjetive = 'enemy'; # DEFAULT
+
+  # See if we want to "force" from a lookup class
+  if(exists $CONFIGS->{'ConfigDefaults'}{'LocalizationNameLookup'}{'animals'}{$orig_entity_name}) {
+    $localization_class = $CONFIGS->{'ConfigDefaults'}{'LocalizationNameLookup'}{'animals'}{$orig_entity_name};
+  }
+  elsif(exists $CONFIGS->{'ConfigDefaults'}{'LocalizationNameLookup'}{'friendly'}{$orig_entity_name}) {
+    $localization_adjetive = $CONFIGS->{'ConfigDefaults'}{'LocalizationNameLookup'}{'friendly'}{$orig_entity_name};
+  }
+
+  my $tmp_count = 0;
+  my $tmp_num = 0;
+  my $first_name;
+  my $adjetive_name;
+  my $final_name = '';
+
+  # OK, gnerate a random loclization name
+  if($localization_class eq 'people') {
+    ($tmp_count) = scalar @LOCALIZATION_UNISEX_PEOPLE_NAMES;
+
+    $tmp_num = GenRandomNumberFromRange(0,$tmp_count);
+    $first_name = $LOCALIZATION_UNISEX_PEOPLE_NAMES[$tmp_num];
+  }
+  else { # animals
+    ($tmp_count) = scalar @LOCALIZATION_ANIMAL_NAMES;
+    $tmp_num = GenRandomNumberFromRange(0,$tmp_count);
+    $first_name = $LOCALIZATION_ANIMAL_NAMES[$tmp_num];
+  }
+
+  $first_name = 'Lonely' if ! $first_name; # just in case
+
+  if($localization_adjetive eq 'enemy') {
+    ($tmp_count) = scalar @LOCALIZATION_ENEMY_ADJETIVES;
+    $tmp_num = GenRandomNumberFromRange(0,$tmp_count);
+    $adjetive_name = $LOCALIZATION_ENEMY_ADJETIVES[$tmp_num];
+  }
+  else { # friendly
+    ($tmp_count) = scalar @LOCALIZATION_FRIENDLY_ADJETIVES;
+    $tmp_num = GenRandomNumberFromRange(0,$tmp_count);
+    $adjetive_name = $LOCALIZATION_FRIENDLY_ADJETIVES[$tmp_num];
+  }
+
+  $adjetive_name = 'Sad Faced' if ! $adjetive_name; # just in case
+  # $adjetive_name = ucfirst($adjetive_name); # easier for now.
+
+  # TODO? ok, randomly choose if we use them all
+  $final_name = $first_name; # .' the '.$adjetive_name.' '.$orig_localization_name;
+  if(rand(1) < .85) { # Most have adjetives/longer names ;)
+    $final_name = $final_name.' the '.$adjetive_name;
+
+    if(rand(1) < .3) { # few have double adjetives . use enemy for all animal names;)
+      my ($tmp_count2) = scalar @LOCALIZATION_ENEMY_ADJETIVES;
+      my $tmp_num2 = GenRandomNumberFromRange(0,$tmp_count2);
+      my $adjetive_name2 = $LOCALIZATION_ENEMY_ADJETIVES[$tmp_num2];
+      $adjetive_name2 = 'Sad Faced' if ! $adjetive_name2; # just in case
+      # $adjetive_name2 = ucfirst($adjetive_name2);
+      $final_name = $final_name.' and '.$adjetive_name2;
+    } elsif(rand(1) < .5) { # Add zed original name descriptions ;) dont do after double adjetive
+      $final_name = $final_name.' '.$orig_localization_name;
+    }
+  }
+
+  # ok, lets make all the words capped that make sense, looks better in general
+  my @words=split(/\s+/,lc($final_name));
+  foreach my $w (@words) {
+     next if ($w eq 'a' || $w eq 'the' || $w eq 'and');
+     $w=ucfirst($w);
+  }
+  $final_name=join(' ',@words);
+
+  print $LOCALIZATION_FILE $new_entity_name.','.$type.','.$final_name."\n";
+
 }
 
 sub ModletGen_AddZedToEntitiesOverride {
@@ -579,15 +690,46 @@ sub Randomize_WalkType { # <property name="WalkType" value="3"/>
   my($zed) = @_;
 
   # TODO: make variance configurable
-  my $rand_walk_type = rand(9); # make 1 less, as returns 0-num # TODO: validate 9 is "real"
+  my $rand_walk_type = rand(9); # make 1 less, as returns 0-num # TODO: validate 9 is "real". See below too!
   $rand_walk_type = floor($rand_walk_type++);
   $rand_walk_type = 1 if $rand_walk_type == 0; # 0 not valid
+
+  # Make sure we dont generate too many crawlers. looks weird.
+  if($rand_walk_type == 4) { #
+    my $entity_name = $zed->findnodes('@name');
+    # LogDebug('Randomize_WalkType crawler check for: '.$entity_name);
+    # print 'Randomize_WalkType crawler check for: '.$entity_name."\n";
+    my $root_entity_class = $NEW_ENTITIES{$entity_name}{'zed_is_from'};
+    #print 'Randomize_WalkType crawler check for ROOT: '.$root_entity_class."\n";
+
+    if(! exists $WalkTypeCrawlLimiter{$root_entity_class}) {
+      $WalkTypeCrawlLimiter{$root_entity_class} = 0;
+    }
+
+    my $already_generated_walkers = $WalkTypeCrawlLimiter{$root_entity_class};
+    # print "$root_entity_class =  already_generated_walkers = $already_generated_walkers\n";
+
+    my $crawler_limit = $CONFIGS->{'ConfigEntityZombie'}{'enable_walktype_crawler_limit'};
+
+    if($already_generated_walkers >= $crawler_limit) { # dont generate a walker
+      # HACK: Just try again.  not really a guarantee for now.
+      $rand_walk_type = rand(9); # make 1 less, as returns 0-num # TODO: validate 9 is "real"
+      $rand_walk_type = floor($rand_walk_type++);
+      $rand_walk_type = 1 if $rand_walk_type == 0; # 0 not valid
+      LogInfo('Randomize_WalkType crawler check hit the limit of: '.$already_generated_walkers.' for: '.$root_entity_class.'! retry was: '.$rand_walk_type);
+    }
+    else { # new walker ok
+      $already_generated_walkers++;
+      $WalkTypeCrawlLimiter{$root_entity_class} = $already_generated_walkers;
+    }
+  }
 
   my $found = 0;
   foreach my $walk_type ($zed->findnodes('./property[@name=\'WalkType\']')) {
     #print "DEBUG: ".$walk_type->toString();
     my $val = $walk_type->getAttribute('value');
-    #if($val != 4) { # so...if have legs, then walk. Simply config no random walktype for legless!
+
+    #if($val != 4) { # so...if have legs, then walk. Simply config no random walktype for legless in config file!!
       $walk_type->setAttribute(q|value|,$rand_walk_type); # random this
     #}
     $found++;
@@ -705,6 +847,7 @@ sub IsRandomizerEnabledForProperty {
   # This keeps the config file smaller
   # Literal setting for specific entity
 
+  # print "DEBUG: $cfg_entity_key - $cfg_property_key - $entity_name\n";
   if(exists $CONFIGS->{$cfg_entity_key}{$cfg_property_key}{$entity_name}) {
     $enabled = 1;
     if(exists $CONFIGS->{$cfg_entity_key}{$cfg_property_key}{$entity_name}{'disable_randomizer'}) {
@@ -768,6 +911,7 @@ sub RandomizeEntity {
       next if $cfg_property_key eq 'disable_randomizer';
       next if $cfg_property_key eq 'num_generation_loops';
       next if $cfg_property_key eq 'ignore_entity_list';
+      next if $cfg_property_key eq 'enable_walktype_crawler_limit';
 
       if(! IsRandomizerEnabledForProperty($entity_config_key,$cfg_property_key,$entity_name)) {
         LogInfo('Randomizing disabled in config file for property: '.$entity_config_key.'->'.$cfg_property_key.'->'.$entity_name);
@@ -812,6 +956,47 @@ sub RandomizeEntity {
 
   return $new_entity;
 }
+sub LoadVanillaLocalization {
+  # Return hash key -> first part of localization
+  # animalBear,entityclasses,Entity,,,Bear
+  # E.G:
+  # zombieSteveCrawlerFeral -> {type_info} = entityclasses,Entity,,,
+  # zombieSteveCrawlerFeral -> {name} = Feral Crawler
+
+  my($filename) = @_;
+
+  open(my $LOC_FILE, '<', $filename) or die $!;
+
+  while(<$LOC_FILE>){
+     my $line = $_;
+
+     my($entity,$type_info1,$type_info2,$type_info3,$type_info4,$name) = split(',', $line);
+    # print "LOCALIZATION: $entity,$type_info1,$type_info2,$type_info3,$type_info4,$name\n";
+
+     # Filter? Nah. Its a pretty small data set
+     $LOCALIZATION{$entity}{'type_info'} = "$type_info1,$type_info2,$type_info3,$type_info4";
+     $LOCALIZATION{$entity}{'name'} = $name;
+  }
+
+  close($LOC_FILE);
+
+}
+
+sub LoadNameFilesLocalization { # pushes onto array
+  my($array_ref,$filename) = @_;
+
+  open(my $LOC_FILE, '<', $filename) or die $!;
+
+  while(<$LOC_FILE>){
+     my $line = $_;
+     chomp $line;
+     push(@$array_ref,$line);
+  }
+
+  close($LOC_FILE);
+
+}
+
 ############################################################
 ############################################################
 # MAIN
@@ -872,6 +1057,9 @@ CheckFileExistsOrExit($CONFIGS->{'entityclasses_file'},'entityclasses_file');
 $CONFIGS->{'entitygroups_file'} = $CONFIGS->{'using_config_dir'}.'/entitygroups.xml';
 CheckFileExistsOrExit($CONFIGS->{'entitygroups_file'},'entitygroups_file');
 
+$CONFIGS->{'localization_file'} = $CONFIGS->{'using_config_dir'}.'/Localization.txt';
+CheckFileExistsOrExit($CONFIGS->{'localization_file'},'localization_file');
+
 CheckConfigExistsOrExit($CONFIGS->{'game_version'},'game_version');
 CheckConfigExistsOrExit($CONFIGS->{'modlet_tag'},'modlet_tag');
 $CONFIGS->{'modlet_name'} = 'Doughs-RandomizedEntities-For-'.$CONFIGS->{'game_version'}.'_'.$CONFIGS->{'modlet_tag'};
@@ -882,6 +1070,7 @@ CheckConfigExistsOrExit($CONFIGS->{'ConfigEntityZombie'}{'num_generation_loops'}
 CheckConfigExistsOrExit($CONFIGS->{'ConfigEntityFriendlyAnimal'}{'num_generation_loops'},'num_generation_loops');
 CheckConfigExistsOrExit($CONFIGS->{'ConfigEntityEnemyAnimal'}{'num_generation_loops'},'num_generation_loops');
 
+CheckConfigExistsOrExit($CONFIGS->{'ConfigEntityZombie'}{'enable_walktype_crawler_limit'},'enable_walktype_crawler_limit');
 CheckConfigExistsOrExit($CONFIGS->{'unique_entity_prefix'},'unique_entity_prefix');
 
 # Allow users to configure zeds to NEVER CLONE as modlets may do weird stuff if randomizing against a saved games files
@@ -894,6 +1083,26 @@ foreach my $user_config_ignore_entity (keys %{$CONFIGS->{'ignore_entity_list'}})
 
 $ENTITYCLASSES_DOM = XML::LibXML->load_xml(location => $CONFIGS->{'entityclasses_file'});
 $ENTITYGROUPS_DOM = XML::LibXML->load_xml(location => $CONFIGS->{'entitygroups_file'});
+
+CheckConfigExistsOrExit($CONFIGS->{'enable_localization'},'enable_localization');
+if($CONFIGS->{'enable_localization'} eq '1') {
+  LogInfo('Loading Localization Data');
+  LoadVanillaLocalization($CONFIGS->{'localization_file'}); # Stores it in $LOCALIZATION hash
+
+  $CONFIGS->{'animal_names_file'} = $PROJECT_ROOT_DIR.'/NameFiles/animal_names.txt';
+  CheckFileExistsOrExit($CONFIGS->{'animal_names_file'},'animal_names_file');
+  $CONFIGS->{'enemy_adjetives_file'} = $PROJECT_ROOT_DIR.'/NameFiles/enemy_adjetives.txt';
+  CheckFileExistsOrExit($CONFIGS->{'enemy_adjetives_file'},'enemy_adjetives_file');
+  $CONFIGS->{'friendly_adjetives_file'} = $PROJECT_ROOT_DIR.'/NameFiles/friendly_adjetives.txt';
+  CheckFileExistsOrExit($CONFIGS->{'friendly_adjetives_file'},'friendly_adjetives_file');
+  $CONFIGS->{'unisex_people_names_file'} = $PROJECT_ROOT_DIR.'/NameFiles/unisex_people_names.txt';
+  CheckFileExistsOrExit($CONFIGS->{'unisex_people_names_file'},'unisex_people_names_file');
+
+  LoadNameFilesLocalization(\@LOCALIZATION_ANIMAL_NAMES, $CONFIGS->{'animal_names_file'}); # Stores it in %LOCALIZATION_CUSTOM hash
+  LoadNameFilesLocalization(\@LOCALIZATION_ENEMY_ADJETIVES, $CONFIGS->{'enemy_adjetives_file'});
+  LoadNameFilesLocalization(\@LOCALIZATION_FRIENDLY_ADJETIVES, $CONFIGS->{'friendly_adjetives_file'});
+  LoadNameFilesLocalization(\@LOCALIZATION_UNISEX_PEOPLE_NAMES, $CONFIGS->{'unisex_people_names_file'});
+}
 
 ####################
 # Generate Lookup Tables
@@ -963,11 +1172,13 @@ while($CONFIGS->{$ENTITY_CONFIG_KEY}{'num_generation_loops'}) {
     #print $xmlstring;
     #print "\n";
 
+    # SPECIAL: Need this herer BEFORE rand, for walktype checker. sigh
+    $NEW_ENTITIES{$new_entity_name}{'zed_is_from'} = $entity_name;
+
     $new_entity = RandomizeEntity($ENTITY_CONFIG_KEY,$new_entity,$entity_name);
 
     # Save it!
     $NEW_ENTITIES{$new_entity_name}{'zed_node'} = $new_entity;
-    $NEW_ENTITIES{$new_entity_name}{'zed_is_from'} = $entity_name;
 
   }
 
@@ -1112,6 +1323,11 @@ foreach my $zed_name (@zeds) {
   ModletGen_AddZedToEntitiesOverride($zed_node);
   LogDebug('########## ModletGen_AddZedToEntityGroupsLookup: '.$zed_name.' ##########');
   ModletGen_AddZedToEntityGroupsLookup($zed_name,$is_from_zed);
+
+  if($CONFIGS->{'enable_localization'} eq "1"){ # Add localization
+    ModletGen_AddZedToLocalization($zed_node, 'JUNK ENTRY',$is_from_zed,$zed_name);
+  }
+
 }
 
 LogInfo('########## Adding Entities to Groups ##########');

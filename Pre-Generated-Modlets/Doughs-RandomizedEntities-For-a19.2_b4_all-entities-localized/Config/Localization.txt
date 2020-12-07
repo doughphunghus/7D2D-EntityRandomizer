@@ -1,0 +1,687 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+DoughsR100_zombieArlene,entityclasses,Entity,,,Correspondent the Calculating
+DoughsR101_zombieLab,entityclasses,Entity,,,Fish and Chips the Mega Lurid
+DoughsR102_zombieDarlene,entityclasses,Entity,,,Blake the Corrupt and Rank
+DoughsR103_zombieUtilityWorker,entityclasses,Entity,,,Tokapilo the Crockpot Of Sadness Utility Worker Zombie
+DoughsR104_zombieUtilityWorkerFeral,entityclasses,Entity,,,Payton the Drunken Feral Utility Worker
+DoughsR105_zombieBiker,entityclasses,Entity,,,Sansa the Slap Happy Zombie Biker
+DoughsR106_zombieSteveCrawler,entityclasses,Entity,,,Kalani
+DoughsR107_zombieJanitorFeral,entityclasses,Entity,,,Koi the Dreadful and Flawed
+DoughsR108_zombieStripperFeral,entityclasses,Entity,,,Mowgli
+DoughsR109_zombieSteve,entityclasses,Entity,,,Callaway the Impertinent and Fart Collecting
+DoughsR10_zombieMarlene,entityclasses,Entity,,,Zion the Almost Dead Departed Woman
+DoughsR110_zombieSkateboarderFeral,entityclasses,Entity,,,Fluffy
+DoughsR111_zombieSoldier,entityclasses,Entity,,,Azari the Slightly Indecent
+DoughsR112_zombieBusinessMan,entityclasses,Entity,,,Smiley the Bitter
+DoughsR113_zombieFarmerFeral,entityclasses,Entity,,,Averill the Smelly Feral Zombie Farmer
+DoughsR114_zombieLabRadiated,entityclasses,Entity,,,Tiamii the Unearthly
+DoughsR115_zombieJoeFeral,entityclasses,Entity,,,Kamryn the Witch-approved
+DoughsR116_zombieDarleneRadiated,entityclasses,Entity,,,Landry
+DoughsR117_zombieCheerleader,entityclasses,Entity,,,Domino the Resentful and Evil
+DoughsR118_zombieFatHawaiianFeral,entityclasses,Entity,,,Alucard the Pestilent
+DoughsR119_zombieWightFeral,entityclasses,Entity,,,Banta
+DoughsR11_zombieLabFeral,entityclasses,Entity,,,Angel the Reasonably Ungrateful
+DoughsR120_zombieArleneFeral,entityclasses,Entity,,,River the Impatient
+DoughsR121_zombieSnowFeral,entityclasses,Entity,,,Montana the Stubborn
+DoughsR122_zombieBoeFeral,entityclasses,Entity,,,Wilder the Rebellious Feral Infected Survivor
+DoughsR123_zombieScreamerFeral,entityclasses,Entity,,,Royal the Heinous Feral Screamer
+DoughsR124_zombieYo,entityclasses,Entity,,,Quarry the Demanding
+DoughsR125_zombieMoeRadiated,entityclasses,Entity,,,Facebook the Painfully Lewd
+DoughsR126_zombieNurseFeral,entityclasses,Entity,,,Rylan the Depraved and Shaking
+DoughsR127_zombieFarmer,entityclasses,Entity,,,North the Really Naughty
+DoughsR128_zombieFootballPlayer,entityclasses,Entity,,,Bowie the Highly Vengeful and Totally Smelly
+DoughsR129_zombieSoldierRadiated,entityclasses,Entity,,,Gentry
+DoughsR12_zombieFatHawaiian,entityclasses,Entity,,,Crimson the Slippery Disturbed Tourist
+DoughsR130_zombieMarleneFeral,entityclasses,Entity,,,Noodles the Cowardly Feral Woman
+DoughsR131_zombieScreamerRadiated,entityclasses,Entity,,,Rosy
+DoughsR132_zombieWightRadiated,entityclasses,Entity,,,Slytherin the Majorly Corpselike and Fart Handling
+DoughsR133_zombieFemaleFatFeral,entityclasses,Entity,,,Moxie Crimefighter
+DoughsR134_zombieMoe,entityclasses,Entity,,,Story the Harmful Bloated Walker
+DoughsR135_zombieScreamer,entityclasses,Entity,,,Gump the Sort Of Cheap Screamer Zombie
+DoughsR136_zombieArleneRadiated,entityclasses,Entity,,,Landry the Afflicted
+DoughsR137_zombieMaleHazmat,entityclasses,Entity,,,Elliot the Relatively Abnormal
+DoughsR138_zombieBoeRadiated,entityclasses,Entity,,,Solar
+DoughsR139_zombieSteveFeral,entityclasses,Entity,,,Rosy
+DoughsR13_zombieCheerleaderFeral,entityclasses,Entity,,,Robin the Mentally Impaired Feral Cheerleader Zombie
+DoughsR140_zombieDarleneFeral,entityclasses,Entity,,,I. P. Freely
+DoughsR141_zombieMoeFeral,entityclasses,Entity,,,Rebel the Pestilent
+DoughsR142_zombieBikerFeral,entityclasses,Entity,,,Waffles the Distressed
+DoughsR143_zombieOldTimerFeral,entityclasses,Entity,,,Storm the Bitter and Stinky
+DoughsR144_zombieSkateboarder,entityclasses,Entity,,,Tiamii the Barbed
+DoughsR145_zombieFemaleFatRadiated,entityclasses,Entity,,,Fart Face the Majorly Corpselike
+DoughsR146_zombieBusinessManFeral,entityclasses,Entity,,,Adair the Impatient Feral Zombie Businessman
+DoughsR147_zombieSpiderRadiated,entityclasses,Entity,,,Kyrie the Profane and Famously Misunderstood
+DoughsR148_zombieFatCopFeral,entityclasses,Entity,,,Everest the Ultra Hateful and Whiny
+DoughsR149_zombieJoeRadiated,entityclasses,Entity,,,Sawyer the Zippy
+DoughsR14_zombieNurse,entityclasses,Entity,,,Averill the Frozen Plagued Nurse
+DoughsR150_zombieSteveCrawlerFeral,entityclasses,Entity,,,Justice the Sadistic and Outnumbered
+DoughsR151_legendaryZombieBusinessMan,entityclasses,Entity,,,Breathless the Lurking and Dumb
+DoughsR152_legendaryZombieUtilityWorker,entityclasses,Entity,,,Captain Morgan the Troubled and Loose
+DoughsR153_zombieSteveRadiated,entityclasses,Entity,,,Kingsley the Majorly Corpselike
+DoughsR154_zombieBoe,entityclasses,Entity,,,Nike the Hellish and Warped
+DoughsR155_zombieOldTimer,entityclasses,Entity,,,Fartinghouse the Seeping
+DoughsR156_zombieBikerRadiated,entityclasses,Entity,,,Baldwin the Eerie
+DoughsR157_zombieOldTimerRadiated,entityclasses,Entity,,,Angel the Impatient and Hurtful
+DoughsR158_zombieSoldierFeral,entityclasses,Entity,,,Rylan the Fugly and Depressing
+DoughsR159_zombieMarleneRadiated,entityclasses,Entity,,,Breslin the At-the-ready and Rank
+DoughsR15_zombieYoRadiated,entityclasses,Entity,,,Rebel the Shady
+DoughsR160_zombieJoe,entityclasses,Entity,,,Carden the Treacherous Festering Cadaver
+DoughsR161_zombieSkateboarderRadiated,entityclasses,Entity,,,Lefty the Low
+DoughsR162_zombieSnow,entityclasses,Entity,,,Zen
+DoughsR163_zombieSpiderFeral,entityclasses,Entity,,,Jellybean the Lousy and Obviously Dirty
+DoughsR164_zombieJanitor,entityclasses,Entity,,,Tavi the Fart Juggling
+DoughsR165_zombieFatCopRadiated,entityclasses,Entity,,,Taco the Trashy
+DoughsR166_zombieCheerleaderRadiated,entityclasses,Entity,,,Captain Morgan the Unhappy and Haggard
+DoughsR167_zombieDemolition,entityclasses,Entity,,,Tory the Dirty
+DoughsR168_legendaryZombieLab,entityclasses,Entity,,,Fart the Fiery
+DoughsR169_zombieFatCop,entityclasses,Entity,,,Smarty the Shamefully Careless
+DoughsR16_zombieStripper,entityclasses,Entity,,,Toodles the Deceased and Really Smelly
+DoughsR170_zombieYoFeral,entityclasses,Entity,,,Miffy the Noxious Feral Carcass
+DoughsR171_zombieFemaleFat,entityclasses,Entity,,,Morgan the Slightly Damned and Mischievous
+DoughsR172_zombieSpider,entityclasses,Entity,,,Gianni
+DoughsR173_zombieJanitorRadiated,entityclasses,Entity,,,Rumi the Savage and Scream-worthy
+DoughsR174_zombieMarlene,entityclasses,Entity,,,Christmas the Rebellious and Sticky
+DoughsR175_zombieLabFeral,entityclasses,Entity,,,Tarian the Dangerously Frisky
+DoughsR176_zombieFatHawaiian,entityclasses,Entity,,,Vye Brator the Perverted
+DoughsR177_zombieCheerleaderFeral,entityclasses,Entity,,,Cornelius the Troubled
+DoughsR178_zombieNurse,entityclasses,Entity,,,Fart Maestro the Fiery
+DoughsR179_zombieYoRadiated,entityclasses,Entity,,,Scout the Up-to-no-good
+DoughsR17_zombieBurnt,entityclasses,Entity,,,Dakota the Empty
+DoughsR180_zombieStripper,entityclasses,Entity,,,Cat the Slap Happy and Ill-tempered
+DoughsR181_zombieBurnt,entityclasses,Entity,,,Remy the Depraved Burn Victim
+DoughsR182_zombieArlene,entityclasses,Entity,,,Lakota the Arrogant and Drunken
+DoughsR183_zombieLab,entityclasses,Entity,,,Hayden the Dismal
+DoughsR184_zombieDarlene,entityclasses,Entity,,,Tatum the Hurtful
+DoughsR185_zombieUtilityWorker,entityclasses,Entity,,,Solace the Highly Promiscuous
+DoughsR186_zombieUtilityWorkerFeral,entityclasses,Entity,,,Kree the Icky Feral Utility Worker
+DoughsR187_zombieBiker,entityclasses,Entity,,,Jessie the Startling
+DoughsR188_zombieSteveCrawler,entityclasses,Entity,,,Butter Churner
+DoughsR189_zombieJanitorFeral,entityclasses,Entity,,,Camera the Malicious and Embarrassed To the Bone
+DoughsR18_zombieArlene,entityclasses,Entity,,,Fart Juggler
+DoughsR190_zombieStripperFeral,entityclasses,Entity,,,Hollis the Ultra Hateful Feral Stripper
+DoughsR191_zombieSteve,entityclasses,Entity,,,Poet the Harmful and Pea-brained
+DoughsR192_zombieSkateboarderFeral,entityclasses,Entity,,,Amen the Highly Vengeful and Bloodcurdling
+DoughsR193_zombieSoldier,entityclasses,Entity,,,Buttercup the Alcoholic Fallen Soldier
+DoughsR194_zombieBusinessMan,entityclasses,Entity,,,Goldie the Demonic
+DoughsR195_zombieFarmerFeral,entityclasses,Entity,,,Vye Brator the Violent and Really Pissed
+DoughsR196_zombieLabRadiated,entityclasses,Entity,,,Style the Scary and Very Awful
+DoughsR197_zombieJoeFeral,entityclasses,Entity,,,Bear the Mental and Depraved
+DoughsR198_zombieDarleneRadiated,entityclasses,Entity,,,Guthrie the Really Rank
+DoughsR199_zombieCheerleader,entityclasses,Entity,,,Tatum
+DoughsR19_zombieLab,entityclasses,Entity,,,Friday the Unapologetic and Shaking
+DoughsR200_zombieFatHawaiianFeral,entityclasses,Entity,,,Reece the Boring Feral Tourist
+DoughsR201_zombieWightFeral,entityclasses,Entity,,,Eleven the Scream-worthy and Barbed
+DoughsR202_zombieArleneFeral,entityclasses,Entity,,,Oak the Moronic and Majorly Corpselike
+DoughsR203_zombieSnowFeral,entityclasses,Entity,,,I.c Yadick the Very Guilty and Relatively Abnormal
+DoughsR204_zombieBoeFeral,entityclasses,Entity,,,Giggles the Impatient
+DoughsR205_zombieScreamerFeral,entityclasses,Entity,,,Indiana the Indecent and Trashy
+DoughsR206_zombieYo,entityclasses,Entity,,,Banta the Obviously Furious Rotting Carcass
+DoughsR207_zombieMoeRadiated,entityclasses,Entity,,,Fallon the Freak
+DoughsR208_zombieNurseFeral,entityclasses,Entity,,,Goon the Instantly Frisky
+DoughsR209_zombieFarmer,entityclasses,Entity,,,Stompie the Very Bad and Internet Worthy
+DoughsR20_zombieDarlene,entityclasses,Entity,,,Florian the Very Cold
+DoughsR210_zombieFootballPlayer,entityclasses,Entity,,,Reese the Rotten and Wretched
+DoughsR211_zombieSoldierRadiated,entityclasses,Entity,,,Rory the Dank
+DoughsR212_zombieMarleneFeral,entityclasses,Entity,,,Guadalupe the Wild Feral Woman
+DoughsR213_zombieScreamerRadiated,entityclasses,Entity,,,Naga the Harmful and Famously Misunderstood
+DoughsR214_zombieWightRadiated,entityclasses,Entity,,,Bubba
+DoughsR215_zombieFemaleFatFeral,entityclasses,Entity,,,Santa
+DoughsR216_zombieMoe,entityclasses,Entity,,,Riley the Ungodly Bloated Walker
+DoughsR217_zombieScreamer,entityclasses,Entity,,,Smarty the Irrational Screamer Zombie
+DoughsR218_zombieArleneRadiated,entityclasses,Entity,,,Christmas the Worm Infested and Careless
+DoughsR219_zombieMaleHazmat,entityclasses,Entity,,,Stompie the Crushing and Tasteless
+DoughsR21_zombieUtilityWorker,entityclasses,Entity,,,Mowgli the Disturbing
+DoughsR220_zombieBoeRadiated,entityclasses,Entity,,,Ripley
+DoughsR221_zombieSteveFeral,entityclasses,Entity,,,Thinn the Very Perverted and Sad
+DoughsR222_zombieDarleneFeral,entityclasses,Entity,,,Quinn the Nasty Feral Mother
+DoughsR223_zombieMoeFeral,entityclasses,Entity,,,Briar the Disrespectful
+DoughsR224_zombieBikerFeral,entityclasses,Entity,,,Lefty the Obviously Friendless and Empty
+DoughsR225_zombieOldTimerFeral,entityclasses,Entity,,,Snickerdoodle the Cruel and Corrupt
+DoughsR226_zombieSkateboarder,entityclasses,Entity,,,Jigsaw the Bull-headed
+DoughsR227_zombieFemaleFatRadiated,entityclasses,Entity,,,Skinny Jeans the Vindictive and Dastardly
+DoughsR228_zombieBusinessManFeral,entityclasses,Entity,,,Amen the Weak Feral Zombie Businessman
+DoughsR229_zombieSpiderRadiated,entityclasses,Entity,,,Fart Gobbler
+DoughsR22_zombieUtilityWorkerFeral,entityclasses,Entity,,,Ramsey the Weary Feral Utility Worker
+DoughsR230_zombieFatCopFeral,entityclasses,Entity,,,Pretzel the Frozen and Sick
+DoughsR231_zombieJoeRadiated,entityclasses,Entity,,,Gump the Extra Fluffy and Disrespectful
+DoughsR232_zombieSteveCrawlerFeral,entityclasses,Entity,,,Bellamy
+DoughsR233_legendaryZombieBusinessMan,entityclasses,Entity,,,Pim the Flirting
+DoughsR234_legendaryZombieUtilityWorker,entityclasses,Entity,,,Bubba the Blathering
+DoughsR235_zombieSteveRadiated,entityclasses,Entity,,,Kit
+DoughsR236_zombieBoe,entityclasses,Entity,,,Memphis
+DoughsR237_zombieOldTimer,entityclasses,Entity,,,Jahova the Dirty Minded
+DoughsR238_zombieBikerRadiated,entityclasses,Entity,,,Solaris the Tasteless
+DoughsR239_zombieOldTimerRadiated,entityclasses,Entity,,,Speedy the Troubled
+DoughsR23_zombieBiker,entityclasses,Entity,,,Catamaran the Really Loose Zombie Biker
+DoughsR240_zombieSoldierFeral,entityclasses,Entity,,,Pim
+DoughsR241_zombieMarleneRadiated,entityclasses,Entity,,,Monroe the Malformed and Troubled
+DoughsR242_zombieJoe,entityclasses,Entity,,,Shortie the Cursed
+DoughsR243_zombieSkateboarderRadiated,entityclasses,Entity,,,Willow Sage the Stinky
+DoughsR244_zombieSnow,entityclasses,Entity,,,Indiana the Contemptible Frozen Lumberjack
+DoughsR245_zombieSpiderFeral,entityclasses,Entity,,,Christmas
+DoughsR246_zombieJanitor,entityclasses,Entity,,,Destry the Mostly Dickish
+DoughsR247_zombieFatCopRadiated,entityclasses,Entity,,,Amen
+DoughsR248_zombieCheerleaderRadiated,entityclasses,Entity,,,Landry the Crappy
+DoughsR249_zombieDemolition,entityclasses,Entity,,,Punk
+DoughsR24_zombieSteveCrawler,entityclasses,Entity,,,Jagger
+DoughsR250_legendaryZombieLab,entityclasses,Entity,,,Style the Shadowy and Immoral
+DoughsR251_zombieFatCop,entityclasses,Entity,,,Emerson the Witch-approved Infected Policeman
+DoughsR252_zombieYoFeral,entityclasses,Entity,,,Denver the Almost Dead
+DoughsR253_zombieFemaleFat,entityclasses,Entity,,,Kix the Dankest Hungry Zombie
+DoughsR254_zombieSpider,entityclasses,Entity,,,Lakota the Internet Worthy
+DoughsR255_zombieJanitorRadiated,entityclasses,Entity,,,Yoga the Rabid and Misunderstood
+DoughsR256_zombieMarlene,entityclasses,Entity,,,Asani the Highly Promiscuous
+DoughsR257_zombieLabFeral,entityclasses,Entity,,,Stompie the Freak
+DoughsR258_zombieFatHawaiian,entityclasses,Entity,,,Nicky the Frightening Disturbed Tourist
+DoughsR259_zombieCheerleaderFeral,entityclasses,Entity,,,Blazer the Slimy Feral Cheerleader Zombie
+DoughsR25_zombieJanitorFeral,entityclasses,Entity,,,Reynolds the Disgraceful
+DoughsR260_zombieNurse,entityclasses,Entity,,,Leighton the Densely Moronic Plagued Nurse
+DoughsR261_zombieYoRadiated,entityclasses,Entity,,,Maya Buttreeks the Shady and Moody
+DoughsR262_zombieStripper,entityclasses,Entity,,,Seven the Rabid
+DoughsR263_zombieBurnt,entityclasses,Entity,,,Speedy the Mummified
+DoughsR264_zombieArlene,entityclasses,Entity,,,Stompie
+DoughsR265_zombieLab,entityclasses,Entity,,,Oswin the Offensive
+DoughsR266_zombieDarlene,entityclasses,Entity,,,Florian the Hateful and Vile
+DoughsR267_zombieUtilityWorker,entityclasses,Entity,,,Captain Morgan
+DoughsR268_zombieUtilityWorkerFeral,entityclasses,Entity,,,Wayne Kerr the Impatient
+DoughsR269_zombieBiker,entityclasses,Entity,,,Grammophon the Painful Zombie Biker
+DoughsR26_zombieStripperFeral,entityclasses,Entity,,,London the Tripping and Maximally Violent
+DoughsR270_zombieSteveCrawler,entityclasses,Entity,,,Peyton the Highly Disappointing Crawler
+DoughsR271_zombieJanitorFeral,entityclasses,Entity,,,Ebony
+DoughsR272_zombieStripperFeral,entityclasses,Entity,,,Jahova the Insane
+DoughsR273_zombieSteve,entityclasses,Entity,,,Daisy Boo the Calculating and Ever So Dismal
+DoughsR274_zombieSkateboarderFeral,entityclasses,Entity,,,Fable
+DoughsR275_zombieSoldier,entityclasses,Entity,,,Wilma Fingerdoo the Moderately Hot
+DoughsR276_zombieBusinessMan,entityclasses,Entity,,,Dallas the Immature
+DoughsR277_zombieFarmerFeral,entityclasses,Entity,,,Correspondent the Unhappy and Very Cold
+DoughsR278_zombieLabRadiated,entityclasses,Entity,,,Navy
+DoughsR279_zombieJoeFeral,entityclasses,Entity,,,Adair the Nasty
+DoughsR27_zombieSteve,entityclasses,Entity,,,Sloan the Shady Reanimated Corpse
+DoughsR280_zombieDarleneRadiated,entityclasses,Entity,,,Mercury the Powerfully Stinky
+DoughsR281_zombieCheerleader,entityclasses,Entity,,,Arden the Gooey Centered Cheerleader Zombie
+DoughsR282_zombieFatHawaiianFeral,entityclasses,Entity,,,Epic
+DoughsR283_zombieWightFeral,entityclasses,Entity,,,Wren the Satanic and Eerie
+DoughsR284_zombieArleneFeral,entityclasses,Entity,,,Lyle
+DoughsR285_zombieSnowFeral,entityclasses,Entity,,,Wilma Fingerdoo the Insensitive and Disturbing
+DoughsR286_zombieBoeFeral,entityclasses,Entity,,,Wilma Fingerdoo the Sick and Free-loading
+DoughsR287_zombieScreamerFeral,entityclasses,Entity,,,Miffy the Embarrassed To the Bone and Insecure
+DoughsR288_zombieYo,entityclasses,Entity,,,Galexy the Possessed and Immoral
+DoughsR289_zombieMoeRadiated,entityclasses,Entity,,,Briar the Hyperactive
+DoughsR28_zombieSkateboarderFeral,entityclasses,Entity,,,Speedy the Creepy Feral Skater Zombie
+DoughsR290_zombieNurseFeral,entityclasses,Entity,,,Severus the Empty Feral Nurse
+DoughsR291_zombieFarmer,entityclasses,Entity,,,Egypt the Weary
+DoughsR292_zombieFootballPlayer,entityclasses,Entity,,,Fable the Painful
+DoughsR293_zombieSoldierRadiated,entityclasses,Entity,,,Seneca the Wailing
+DoughsR294_zombieMarleneFeral,entityclasses,Entity,,,Cricket Pearl the Dishonest Feral Woman
+DoughsR295_zombieScreamerRadiated,entityclasses,Entity,,,Pearl the Fiercely Loyal and Internet Worthy
+DoughsR296_zombieWightRadiated,entityclasses,Entity,,,Fallon the Deadly
+DoughsR297_zombieFemaleFatFeral,entityclasses,Entity,,,Breslin the Rude Feral Hungry Zombie
+DoughsR298_zombieMoe,entityclasses,Entity,,,Toodles the Disembodied and Whiny
+DoughsR299_zombieScreamer,entityclasses,Entity,,,Worm the Rebellious and Dankest
+DoughsR29_zombieSoldier,entityclasses,Entity,,,Hero the Nauseous
+DoughsR2_zombieCheerleaderRadiated,entityclasses,Entity,,,Jules the Monstrous
+DoughsR300_zombieArleneRadiated,entityclasses,Entity,,,Hayden the Witch-approved and Irate
+DoughsR301_zombieMaleHazmat,entityclasses,Entity,,,Bond the Tripping Hazardous Worker
+DoughsR302_zombieBoeRadiated,entityclasses,Entity,,,Espn the Crappy and Saddened
+DoughsR303_zombieSteveFeral,entityclasses,Entity,,,Bear the Scary Feral Corpse
+DoughsR304_zombieDarleneFeral,entityclasses,Entity,,,Rambo the Crappy and Crawly
+DoughsR305_zombieMoeFeral,entityclasses,Entity,,,Raleigh the Crushing and High-end
+DoughsR306_zombieBikerFeral,entityclasses,Entity,,,Kingsley the Most Dank
+DoughsR307_zombieOldTimerFeral,entityclasses,Entity,,,Baylor the Obnoxious Feral Zombie Cowboy
+DoughsR308_zombieSkateboarder,entityclasses,Entity,,,Sacha the Shameful Skater Punk Zombie
+DoughsR309_zombieFemaleFatRadiated,entityclasses,Entity,,,Yuri Nator the Dankest and Crawly
+DoughsR30_zombieBusinessMan,entityclasses,Entity,,,Breathless the Pathetic and Eerie
+DoughsR310_zombieBusinessManFeral,entityclasses,Entity,,,Tobin
+DoughsR311_zombieSpiderRadiated,entityclasses,Entity,,,Buttercup the Hurting and Shameless
+DoughsR312_zombieFatCopFeral,entityclasses,Entity,,,Peanut the Psycho Feral Policeman
+DoughsR313_zombieJoeRadiated,entityclasses,Entity,,,Couch Potato the Merciless
+DoughsR314_zombieSteveCrawlerFeral,entityclasses,Entity,,,Emerson the Putrid
+DoughsR315_legendaryZombieBusinessMan,entityclasses,Entity,,,Summer Rain the Very Tactful
+DoughsR316_legendaryZombieUtilityWorker,entityclasses,Entity,,,Tatum the Freak
+DoughsR317_zombieSteveRadiated,entityclasses,Entity,,,Justice the Depressing and Promiscuous
+DoughsR318_zombieBoe,entityclasses,Entity,,,Zen the Hangry
+DoughsR319_zombieOldTimer,entityclasses,Entity,,,Fifer the Bitter and Painfully Lewd
+DoughsR31_zombieFarmerFeral,entityclasses,Entity,,,Kix the Controlling Feral Zombie Farmer
+DoughsR320_zombieBikerRadiated,entityclasses,Entity,,,Alexis the Double-crossing
+DoughsR321_zombieOldTimerRadiated,entityclasses,Entity,,,Miller the Very Unholy and Stinky
+DoughsR322_zombieSoldierFeral,entityclasses,Entity,,,Morgan the Fugly Feral Soldier
+DoughsR323_zombieMarleneRadiated,entityclasses,Entity,,,Naga the Bad
+DoughsR324_zombieJoe,entityclasses,Entity,,,Bellamy the Stubborn
+DoughsR325_zombieSkateboarderRadiated,entityclasses,Entity,,,Peanut the Dishonest
+DoughsR326_zombieSnow,entityclasses,Entity,,,Anita Bath the Out Of Control and Inhuman
+DoughsR327_zombieSpiderFeral,entityclasses,Entity,,,Marlo the Useless and Distressed
+DoughsR328_zombieJanitor,entityclasses,Entity,,,Clarke the Crummy and Ticked Off
+DoughsR329_zombieFatCopRadiated,entityclasses,Entity,,,Onyx the Monstrous
+DoughsR32_zombieLabRadiated,entityclasses,Entity,,,Rambo
+DoughsR330_zombieCheerleaderRadiated,entityclasses,Entity,,,Saint Lazslo the Slippery
+DoughsR331_zombieDemolition,entityclasses,Entity,,,Fish and Chips the Unnerving
+DoughsR332_legendaryZombieLab,entityclasses,Entity,,,Quinn the Treacherous
+DoughsR333_zombieFatCop,entityclasses,Entity,,,Miffy the Very Mean
+DoughsR334_zombieYoFeral,entityclasses,Entity,,,Zion the Insanely Creepy and 1970s Tragic
+DoughsR335_zombieFemaleFat,entityclasses,Entity,,,Harley the Lying Hungry Zombie
+DoughsR336_zombieSpider,entityclasses,Entity,,,Lyric the Sticky and Totally Smelly
+DoughsR337_zombieJanitorRadiated,entityclasses,Entity,,,Khari the Hyperactive and Painful
+DoughsR338_zombieMarlene,entityclasses,Entity,,,Devon the Double-crossing
+DoughsR339_zombieLabFeral,entityclasses,Entity,,,Gianni the Naughty
+DoughsR33_zombieJoeFeral,entityclasses,Entity,,,Hollis the Greedy and Witch-approved
+DoughsR340_zombieFatHawaiian,entityclasses,Entity,,,Hero the Witless and Pestilent
+DoughsR341_zombieCheerleaderFeral,entityclasses,Entity,,,Fable the Looming Feral Cheerleader Zombie
+DoughsR342_zombieNurse,entityclasses,Entity,,,Blue the Misunderstood Plagued Nurse
+DoughsR343_zombieYoRadiated,entityclasses,Entity,,,Severus
+DoughsR344_zombieStripper,entityclasses,Entity,,,Sage
+DoughsR345_zombieBurnt,entityclasses,Entity,,,Shea
+DoughsR346_zombieArlene,entityclasses,Entity,,,Zeren the Tripping Putrid Girl
+DoughsR347_zombieLab,entityclasses,Entity,,,Titan the Mysterious
+DoughsR348_zombieDarlene,entityclasses,Entity,,,Laramie the Sullen
+DoughsR349_zombieUtilityWorker,entityclasses,Entity,,,Jahova the Smelly
+DoughsR34_zombieDarleneRadiated,entityclasses,Entity,,,Ali
+DoughsR350_zombieUtilityWorkerFeral,entityclasses,Entity,,,Destry the Enchanted
+DoughsR351_zombieBiker,entityclasses,Entity,,,Brazil the Halfwitted and Disrespectful
+DoughsR352_zombieSteveCrawler,entityclasses,Entity,,,Bellamy
+DoughsR353_zombieJanitorFeral,entityclasses,Entity,,,Mowgli the Mega Lurid
+DoughsR354_zombieStripperFeral,entityclasses,Entity,,,Fart Gobbler the Famously Misunderstood Feral Stripper
+DoughsR355_zombieSteve,entityclasses,Entity,,,Jericho the Nasty Reanimated Corpse
+DoughsR356_zombieSkateboarderFeral,entityclasses,Entity,,,Oak the Highly Immature and Godawful
+DoughsR357_zombieSoldier,entityclasses,Entity,,,Satchel the Super Smelly Fallen Soldier
+DoughsR358_zombieBusinessMan,entityclasses,Entity,,,Remington the Cruel-hearted
+DoughsR359_zombieFarmerFeral,entityclasses,Entity,,,Blake the Tripping
+DoughsR35_zombieCheerleader,entityclasses,Entity,,,Sunday the House-broken
+DoughsR360_zombieLabRadiated,entityclasses,Entity,,,Texas the Very Mean
+DoughsR361_zombieJoeFeral,entityclasses,Entity,,,Sage the Sticky and Ticked Off
+DoughsR362_zombieDarleneRadiated,entityclasses,Entity,,,Texas the Fugly
+DoughsR363_zombieCheerleader,entityclasses,Entity,,,Berlin the Shameful
+DoughsR364_zombieFatHawaiianFeral,entityclasses,Entity,,,Snickers the Ungodly Feral Tourist
+DoughsR365_zombieWightFeral,entityclasses,Entity,,,Bartho the Spine-chilling Feral Wight
+DoughsR366_zombieArleneFeral,entityclasses,Entity,,,Endellion
+DoughsR367_zombieSnowFeral,entityclasses,Entity,,,Angel the Thoughtless
+DoughsR368_zombieBoeFeral,entityclasses,Entity,,,Ariel the Haunted
+DoughsR369_zombieScreamerFeral,entityclasses,Entity,,,Coral the House-broken Feral Screamer
+DoughsR36_zombieFatHawaiianFeral,entityclasses,Entity,,,Christmas the Ill-tempered Feral Tourist
+DoughsR370_zombieYo,entityclasses,Entity,,,Bubblegum the Hellish Rotting Carcass
+DoughsR371_zombieMoeRadiated,entityclasses,Entity,,,Talons the Psycho
+DoughsR372_zombieNurseFeral,entityclasses,Entity,,,Quarry the Vaguely Immoral and Moronic
+DoughsR373_zombieFarmer,entityclasses,Entity,,,Biznes the Hurting Zombie Farmer
+DoughsR374_zombieFootballPlayer,entityclasses,Entity,,,Rumi the Dully Annoying
+DoughsR375_zombieSoldierRadiated,entityclasses,Entity,,,Fart Maestro the Sickened
+DoughsR376_zombieMarleneFeral,entityclasses,Entity,,,Peanut the Hurtful
+DoughsR377_zombieScreamerRadiated,entityclasses,Entity,,,Smiley the Afflicted
+DoughsR378_zombieWightRadiated,entityclasses,Entity,,,Koi the Empty
+DoughsR379_zombieFemaleFatFeral,entityclasses,Entity,,,Anita Bath the Malformed Feral Hungry Zombie
+DoughsR37_zombieWightFeral,entityclasses,Entity,,,Sherlock Bones
+DoughsR380_zombieMoe,entityclasses,Entity,,,Miffy the Most Dank Bloated Walker
+DoughsR381_zombieScreamer,entityclasses,Entity,,,Jafaar the Shaky Screamer Zombie
+DoughsR382_zombieArleneRadiated,entityclasses,Entity,,,Asmodeus the Sneaky
+DoughsR383_zombieMaleHazmat,entityclasses,Entity,,,Pretzel the Perilous Hazardous Worker
+DoughsR384_zombieBoeRadiated,entityclasses,Entity,,,Fart Juggler the Famously Mad
+DoughsR385_zombieSteveFeral,entityclasses,Entity,,,Smiley the Haunting
+DoughsR386_zombieDarleneFeral,entityclasses,Entity,,,Kal-el the Unholy Feral Mother
+DoughsR387_zombieMoeFeral,entityclasses,Entity,,,Jericho the Fluffy
+DoughsR388_zombieBikerFeral,entityclasses,Entity,,,Facebook the Misunderstood
+DoughsR389_zombieOldTimerFeral,entityclasses,Entity,,,Rylan
+DoughsR38_zombieArleneFeral,entityclasses,Entity,,,Nutella the Very Perverted and Hangry
+DoughsR390_zombieSkateboarder,entityclasses,Entity,,,Ari the Fiercely-loyal and Immature
+DoughsR391_zombieFemaleFatRadiated,entityclasses,Entity,,,Rapunzel
+DoughsR392_zombieBusinessManFeral,entityclasses,Entity,,,Hayden the Indecent
+DoughsR393_zombieSpiderRadiated,entityclasses,Entity,,,Sutton the Cursed
+DoughsR394_zombieFatCopFeral,entityclasses,Entity,,,Banta the Immoral
+DoughsR395_zombieJoeRadiated,entityclasses,Entity,,,Justice the Reprehensible and Pissed Off
+DoughsR396_zombieSteveCrawlerFeral,entityclasses,Entity,,,Fart Collector the Unnerving Feral Crawler
+DoughsR397_legendaryZombieBusinessMan,entityclasses,Entity,,,Reese the Really Pissed
+DoughsR398_legendaryZombieUtilityWorker,entityclasses,Entity,,,Drew the Weak
+DoughsR399_zombieSteveRadiated,entityclasses,Entity,,,Remi the Ungodly and Abnormal
+DoughsR39_zombieSnowFeral,entityclasses,Entity,,,Derp the Shameless
+DoughsR3_zombieDemolition,entityclasses,Entity,,,Laken the Unhappy
+DoughsR400_zombieBoe,entityclasses,Entity,,,Slinky
+DoughsR401_zombieOldTimer,entityclasses,Entity,,,Vye Brator the Obviously Friendless Zombie Cowboy
+DoughsR402_zombieBikerRadiated,entityclasses,Entity,,,Fluffy the Corpselike and Abominable
+DoughsR403_zombieOldTimerRadiated,entityclasses,Entity,,,Haven the Decayed
+DoughsR404_zombieSoldierFeral,entityclasses,Entity,,,Campbell the Loose and Unearthly
+DoughsR405_zombieMarleneRadiated,entityclasses,Entity,,,Taylor the Afflicted
+DoughsR406_zombieJoe,entityclasses,Entity,,,Zion the Lowlife and Disturbingly Nasty
+DoughsR407_zombieSkateboarderRadiated,entityclasses,Entity,,,Gump the Violent and Godawful
+DoughsR408_zombieSnow,entityclasses,Entity,,,Basil the Horrible Frozen Lumberjack
+DoughsR409_zombieSpiderFeral,entityclasses,Entity,,,Espn
+DoughsR40_zombieBoeFeral,entityclasses,Entity,,,Khari the Zippy Feral Infected Survivor
+DoughsR410_zombieJanitor,entityclasses,Entity,,,Diva the Haunted and Deceased
+DoughsR411_zombieFatCopRadiated,entityclasses,Entity,,,Jade the Cursed
+DoughsR412_zombieCheerleaderRadiated,entityclasses,Entity,,,Dune the Crummy and Unworthy
+DoughsR413_zombieDemolition,entityclasses,Entity,,,Rainbow the Pestilent
+DoughsR414_legendaryZombieLab,entityclasses,Entity,,,Reese the Disappointing
+DoughsR415_zombieFatCop,entityclasses,Entity,,,Vye Brator the Rattling
+DoughsR416_zombieYoFeral,entityclasses,Entity,,,Francis the Mean and Alcoholic
+DoughsR417_zombieFemaleFat,entityclasses,Entity,,,Skinny Jeans
+DoughsR418_zombieSpider,entityclasses,Entity,,,Avery
+DoughsR419_zombieJanitorRadiated,entityclasses,Entity,,,Fart Collector the Treacherous
+DoughsR41_zombieScreamerFeral,entityclasses,Entity,,,Boomer the Monstrous and Cowardly
+DoughsR420_zombieMarlene,entityclasses,Entity,,,Fart the Horrible
+DoughsR421_zombieLabFeral,entityclasses,Entity,,,Valentine
+DoughsR422_zombieFatHawaiian,entityclasses,Entity,,,Heywood Japulmah Finga the Cheating
+DoughsR423_zombieCheerleaderFeral,entityclasses,Entity,,,Upstanding Citizen the Sullen Feral Cheerleader Zombie
+DoughsR424_zombieNurse,entityclasses,Entity,,,Kyrie
+DoughsR425_zombieYoRadiated,entityclasses,Entity,,,Arrow the Dishonest
+DoughsR426_zombieStripper,entityclasses,Entity,,,Campbell the Dismal Zombie Stripper
+DoughsR427_zombieBurnt,entityclasses,Entity,,,Amory the Metal Burn Victim
+DoughsR428_zombieArlene,entityclasses,Entity,,,Rylan the Highly Vengeful
+DoughsR429_zombieLab,entityclasses,Entity,,,Levaeh
+DoughsR42_zombieYo,entityclasses,Entity,,,Mustard the Fart Collecting Rotting Carcass
+DoughsR430_zombieDarlene,entityclasses,Entity,,,Hollis the Disembodied and Spine-tingling
+DoughsR431_zombieUtilityWorker,entityclasses,Entity,,,Shiloh
+DoughsR432_zombieUtilityWorkerFeral,entityclasses,Entity,,,Lyric the Way Too Controlling Feral Utility Worker
+DoughsR433_zombieBiker,entityclasses,Entity,,,Fifer the Icky
+DoughsR434_zombieSteveCrawler,entityclasses,Entity,,,Donuts the Lame and Wicked
+DoughsR435_zombieJanitorFeral,entityclasses,Entity,,,Snickerdoodle the Malicious
+DoughsR436_zombieStripperFeral,entityclasses,Entity,,,Finnley the Brainless and Drunken
+DoughsR437_zombieSteve,entityclasses,Entity,,,Rebel the Spooky Reanimated Corpse
+DoughsR438_zombieSkateboarderFeral,entityclasses,Entity,,,Riven the Terrified Feral Skater Zombie
+DoughsR439_zombieSoldier,entityclasses,Entity,,,Callaway the Dismal
+DoughsR43_zombieMoeRadiated,entityclasses,Entity,,,Kalani the Very Awful
+DoughsR440_zombieBusinessMan,entityclasses,Entity,,,Correspondent the Miserable Zombie Businessman
+DoughsR441_zombieFarmerFeral,entityclasses,Entity,,,Berlin
+DoughsR442_zombieLabRadiated,entityclasses,Entity,,,Bandit
+DoughsR443_zombieJoeFeral,entityclasses,Entity,,,Sherlock Bones the Disturbingly Nasty and Childish
+DoughsR444_zombieDarleneRadiated,entityclasses,Entity,,,Heavenly Hirani Tiger Lily the Spine-chilling
+DoughsR445_zombieCheerleader,entityclasses,Entity,,,Diezel Ky the Depraved and Dastardly
+DoughsR446_zombieFatHawaiianFeral,entityclasses,Entity,,,Thinn the Halfwitted
+DoughsR447_zombieWightFeral,entityclasses,Entity,,,Riley the Crazy Feral Wight
+DoughsR448_zombieArleneFeral,entityclasses,Entity,,,Kal-el the Shadowy
+DoughsR449_zombieSnowFeral,entityclasses,Entity,,,Xzayvian the Very Cold
+DoughsR44_zombieNurseFeral,entityclasses,Entity,,,Oak
+DoughsR450_zombieBoeFeral,entityclasses,Entity,,,Wilder the Godawful and Out Of Control
+DoughsR451_zombieScreamerFeral,entityclasses,Entity,,,Seven the In Denial Feral Screamer
+DoughsR452_zombieYo,entityclasses,Entity,,,Amen the Pathetic Rotting Carcass
+DoughsR453_zombieMoeRadiated,entityclasses,Entity,,,Diezel Ky the Famously Misunderstood and Inadequate
+DoughsR454_zombieNurseFeral,entityclasses,Entity,,,Shiloh the Pathetic and Lowlife
+DoughsR455_zombieFarmer,entityclasses,Entity,,,Bossy the Embarrassed To the Bone
+DoughsR456_zombieFootballPlayer,entityclasses,Entity,,,Charleston
+DoughsR457_zombieSoldierRadiated,entityclasses,Entity,,,Sloan the Depraved
+DoughsR458_zombieMarleneFeral,entityclasses,Entity,,,Sansa the Pungent Feral Woman
+DoughsR459_zombieScreamerRadiated,entityclasses,Entity,,,Ari the Strange
+DoughsR45_zombieFarmer,entityclasses,Entity,,,Godly the Densely Moronic
+DoughsR460_zombieWightRadiated,entityclasses,Entity,,,Nagini the Bloody
+DoughsR461_zombieFemaleFatFeral,entityclasses,Entity,,,Moon the Terrified Feral Hungry Zombie
+DoughsR462_zombieMoe,entityclasses,Entity,,,Goon the Unearthly and Mental
+DoughsR463_zombieScreamer,entityclasses,Entity,,,Yarden the Furious and Ticked Off
+DoughsR464_zombieArleneRadiated,entityclasses,Entity,,,Hero the Completely Filthy
+DoughsR465_zombieMaleHazmat,entityclasses,Entity,,,Justice
+DoughsR466_zombieBoeRadiated,entityclasses,Entity,,,Stompie the Macabre
+DoughsR467_zombieSteveFeral,entityclasses,Entity,,,Sherlock Bones
+DoughsR468_zombieDarleneFeral,entityclasses,Entity,,,Milan
+DoughsR469_zombieMoeFeral,entityclasses,Entity,,,Khari the Backstabbing and Vengeful
+DoughsR46_zombieFootballPlayer,entityclasses,Entity,,,Brazil
+DoughsR470_zombieBikerFeral,entityclasses,Entity,,,Avis the Shitty
+DoughsR471_zombieOldTimerFeral,entityclasses,Entity,,,Nagini the Hot and Obnoxious
+DoughsR472_zombieSkateboarder,entityclasses,Entity,,,Christmas the Dangerously Frisky Skater Punk Zombie
+DoughsR473_zombieFemaleFatRadiated,entityclasses,Entity,,,Brighton the Disturbing
+DoughsR474_zombieBusinessManFeral,entityclasses,Entity,,,Reilly the Very Chauvinistic and Wormy
+DoughsR475_zombieSpiderRadiated,entityclasses,Entity,,,Rumi the Ever So Dismal
+DoughsR476_zombieFatCopFeral,entityclasses,Entity,,,Ever the Really Pissed and Ashen
+DoughsR477_zombieJoeRadiated,entityclasses,Entity,,,Joey the Very Bad
+DoughsR478_zombieSteveCrawlerFeral,entityclasses,Entity,,,Guadalupe the Morose
+DoughsR479_legendaryZombieBusinessMan,entityclasses,Entity,,,Kendall the Shivering
+DoughsR47_zombieSoldierRadiated,entityclasses,Entity,,,Ellison the Ashen
+DoughsR480_legendaryZombieUtilityWorker,entityclasses,Entity,,,Sparrow the Dismal and Embarrassed To the Bone
+DoughsR481_zombieSteveRadiated,entityclasses,Entity,,,Santa the Lewd
+DoughsR482_zombieBoe,entityclasses,Entity,,,Satchel the Mummified and Crawly
+DoughsR483_zombieOldTimer,entityclasses,Entity,,,Berlin the Possessed Zombie Cowboy
+DoughsR484_zombieBikerRadiated,entityclasses,Entity,,,Tay the Bat Shit Crazy and Dirty Minded
+DoughsR485_zombieOldTimerRadiated,entityclasses,Entity,,,Santa the Barbed
+DoughsR486_zombieSoldierFeral,entityclasses,Entity,,,Jordan the Verbally Abusive
+DoughsR487_zombieMarleneRadiated,entityclasses,Entity,,,Wisdom the Harmful
+DoughsR488_zombieJoe,entityclasses,Entity,,,Hero the Highly Disappointing Festering Cadaver
+DoughsR489_zombieSkateboarderRadiated,entityclasses,Entity,,,Yarden the Crappy and Frightful
+DoughsR48_zombieMarleneFeral,entityclasses,Entity,,,Zen the High-end Feral Woman
+DoughsR490_zombieSnow,entityclasses,Entity,,,Ellington the Sullen and Super Smelly
+DoughsR491_zombieSpiderFeral,entityclasses,Entity,,,Tobin the Sick and Abominable
+DoughsR492_zombieJanitor,entityclasses,Entity,,,Laken
+DoughsR493_zombieFatCopRadiated,entityclasses,Entity,,,Dune
+DoughsR494_zombieCheerleaderRadiated,entityclasses,Entity,,,Summer Rain the Maximally Violent
+DoughsR495_zombieDemolition,entityclasses,Entity,,,Bergen the Cowardly and Offensive
+DoughsR496_legendaryZombieLab,entityclasses,Entity,,,Ellington the Shaky and Sickened
+DoughsR497_zombieFatCop,entityclasses,Entity,,,Buzz Michelangelo the Ill-tempered
+DoughsR498_zombieYoFeral,entityclasses,Entity,,,Bergen the Internet Famous and Disappointing
+DoughsR499_zombieFemaleFat,entityclasses,Entity,,,Ripley the Malicious Hungry Zombie
+DoughsR49_zombieScreamerRadiated,entityclasses,Entity,,,Donuts the Startled
+DoughsR4_legendaryZombieLab,entityclasses,Entity,,,Adair the Ungodly
+DoughsR500_zombieSpider,entityclasses,Entity,,,Fugly
+DoughsR501_zombieJanitorRadiated,entityclasses,Entity,,,Jordan the Eerie and Narrow-minded
+DoughsR502_zombieMarlene,entityclasses,Entity,,,Zion the Crummy Departed Woman
+DoughsR503_zombieLabFeral,entityclasses,Entity,,,Sage the Mischievous
+DoughsR504_zombieFatHawaiian,entityclasses,Entity,,,Gardener the Obviously Friendless
+DoughsR505_zombieCheerleaderFeral,entityclasses,Entity,,,Callaway
+DoughsR506_zombieNurse,entityclasses,Entity,,,Slinky the Wild
+DoughsR507_zombieYoRadiated,entityclasses,Entity,,,Catamaran the Flawed and Lazy
+DoughsR508_zombieStripper,entityclasses,Entity,,,Merit
+DoughsR509_zombieBurnt,entityclasses,Entity,,,Levaeh the Bonkers and Gooey Centered
+DoughsR50_zombieWightRadiated,entityclasses,Entity,,,Sutton
+DoughsR510_zombieArlene,entityclasses,Entity,,,Asmodeus
+DoughsR511_zombieLab,entityclasses,Entity,,,Armani the Hyper Miserable
+DoughsR512_zombieDarlene,entityclasses,Entity,,,Medusa the Internet Famous and Stubborn
+DoughsR513_zombieUtilityWorker,entityclasses,Entity,,,Lexington the Annoying and Really Shameless
+DoughsR514_zombieUtilityWorkerFeral,entityclasses,Entity,,,Captain Morgan the Depressing
+DoughsR515_zombieBiker,entityclasses,Entity,,,Angel the Lewd Zombie Biker
+DoughsR516_zombieSteveCrawler,entityclasses,Entity,,,Ellis
+DoughsR517_zombieJanitorFeral,entityclasses,Entity,,,Fart Gobbler the Prickly
+DoughsR518_zombieStripperFeral,entityclasses,Entity,,,Riven the Revolting
+DoughsR519_zombieSteve,entityclasses,Entity,,,Marlo the Harmful Reanimated Corpse
+DoughsR51_zombieFemaleFatFeral,entityclasses,Entity,,,Stripes the Sticky and Reprehensible
+DoughsR520_zombieSkateboarderFeral,entityclasses,Entity,,,Emery
+DoughsR521_zombieSoldier,entityclasses,Entity,,,Marley the Pathetic Fallen Soldier
+DoughsR522_zombieBusinessMan,entityclasses,Entity,,,May I. Tutchem the Fiercely-loyal and Revolting
+DoughsR523_zombieFarmerFeral,entityclasses,Entity,,,Miffy the Very Unholy
+DoughsR524_zombieLabRadiated,entityclasses,Entity,,,Slinky
+DoughsR525_zombieJoeFeral,entityclasses,Entity,,,Rosy the Ashen and Howling
+DoughsR526_zombieDarleneRadiated,entityclasses,Entity,,,Zealand the Mummified
+DoughsR527_zombieCheerleader,entityclasses,Entity,,,Keaton the Melancholy
+DoughsR528_zombieFatHawaiianFeral,entityclasses,Entity,,,Holland
+DoughsR529_zombieWightFeral,entityclasses,Entity,,,Shortie the Cold
+DoughsR52_zombieMoe,entityclasses,Entity,,,Correspondent the Completely Filthy and Demonic
+DoughsR530_zombieArleneFeral,entityclasses,Entity,,,Christmas the Ashen
+DoughsR531_zombieSnowFeral,entityclasses,Entity,,,Solaris the Completely Inhuman
+DoughsR532_zombieBoeFeral,entityclasses,Entity,,,Ripley the Arrogant Feral Infected Survivor
+DoughsR533_zombieScreamerFeral,entityclasses,Entity,,,Nagini the Territorial and Deceitful
+DoughsR534_zombieYo,entityclasses,Entity,,,Monroe
+DoughsR535_zombieMoeRadiated,entityclasses,Entity,,,Elliott the Blathering
+DoughsR536_zombieNurseFeral,entityclasses,Entity,,,Pearl
+DoughsR537_zombieFarmer,entityclasses,Entity,,,Naga the Really Stupid and Freeloading
+DoughsR538_zombieFootballPlayer,entityclasses,Entity,,,Denali the Impertinent Team Z Player
+DoughsR539_zombieSoldierRadiated,entityclasses,Entity,,,Bellamy the Childish
+DoughsR53_zombieScreamer,entityclasses,Entity,,,Denali the Gruesome Screamer Zombie
+DoughsR540_zombieMarleneFeral,entityclasses,Entity,,,Fartinghouse the Vaguely Immoral Feral Woman
+DoughsR541_zombieScreamerRadiated,entityclasses,Entity,,,Tu Morrow
+DoughsR542_zombieWightRadiated,entityclasses,Entity,,,Fartinghouse the Ungodly
+DoughsR543_zombieFemaleFatFeral,entityclasses,Entity,,,Kree the Perilous and Really Lousy
+DoughsR544_zombieMoe,entityclasses,Entity,,,Santa the Deceased Bloated Walker
+DoughsR545_zombieScreamer,entityclasses,Entity,,,Free the Haggard
+DoughsR546_zombieArleneRadiated,entityclasses,Entity,,,Tavi the Psycho
+DoughsR547_zombieMaleHazmat,entityclasses,Entity,,,Channing
+DoughsR548_zombieBoeRadiated,entityclasses,Entity,,,Wren the Common and Fiery
+DoughsR549_zombieSteveFeral,entityclasses,Entity,,,Rambo the In Denial Feral Corpse
+DoughsR54_zombieArleneRadiated,entityclasses,Entity,,,Tatum the Famously Misunderstood and Pretty Dumb
+DoughsR550_zombieDarleneFeral,entityclasses,Entity,,,Medusa the Freak
+DoughsR551_zombieMoeFeral,entityclasses,Entity,,,Karter the Moody Feral Bloated Walker
+DoughsR552_zombieBikerFeral,entityclasses,Entity,,,Bowie
+DoughsR553_zombieOldTimerFeral,entityclasses,Entity,,,Jellybean the Unworthy
+DoughsR554_zombieSkateboarder,entityclasses,Entity,,,Jericho the Flickering and Self-absorbed
+DoughsR555_zombieFemaleFatRadiated,entityclasses,Entity,,,Breslin the Ill-tempered and Vindictive
+DoughsR556_zombieBusinessManFeral,entityclasses,Entity,,,Devon
+DoughsR557_zombieSpiderRadiated,entityclasses,Entity,,,Sailor the Tripping
+DoughsR558_zombieFatCopFeral,entityclasses,Entity,,,Adlai
+DoughsR559_zombieJoeRadiated,entityclasses,Entity,,,Honor the Decayed
+DoughsR55_zombieMaleHazmat,entityclasses,Entity,,,Egypt the Ill-tempered Hazardous Worker
+DoughsR560_zombieSteveCrawlerFeral,entityclasses,Entity,,,Rosy the Blathering
+DoughsR561_legendaryZombieBusinessMan,entityclasses,Entity,,,Snickers the Awful and Free-loading
+DoughsR562_legendaryZombieUtilityWorker,entityclasses,Entity,,,Sparrow the Irrational
+DoughsR563_zombieSteveRadiated,entityclasses,Entity,,,Jigsaw the Crude
+DoughsR564_zombieBoe,entityclasses,Entity,,,Adlai the Completely Inhuman and Irate
+DoughsR565_zombieOldTimer,entityclasses,Entity,,,Bodhi the Kinda Deadly Zombie Cowboy
+DoughsR566_zombieBikerRadiated,entityclasses,Entity,,,Royal the Spine-chilling
+DoughsR567_zombieOldTimerRadiated,entityclasses,Entity,,,Dune
+DoughsR568_zombieSoldierFeral,entityclasses,Entity,,,Bubblegum the Mischievous Feral Soldier
+DoughsR569_zombieMarleneRadiated,entityclasses,Entity,,,Nova the Indecent and Halfwitted
+DoughsR56_zombieBoeRadiated,entityclasses,Entity,,,Catamaran the Hair-raising
+DoughsR570_zombieJoe,entityclasses,Entity,,,Shea the Very Unholy Festering Cadaver
+DoughsR571_zombieSkateboarderRadiated,entityclasses,Entity,,,Zen the Reckless
+DoughsR572_zombieSnow,entityclasses,Entity,,,Reynolds the Vindictive
+DoughsR573_zombieSpiderFeral,entityclasses,Entity,,,Perry the Very Dead
+DoughsR574_zombieJanitor,entityclasses,Entity,,,Bond the Famously Misunderstood
+DoughsR575_zombieFatCopRadiated,entityclasses,Entity,,,Snickers the Tragically Hilarious
+DoughsR576_animalCoyote,entityclasses,Entity,,,Mercer the Tragic
+DoughsR577_animalWolf,entityclasses,Entity,,,Nugget the Crazed
+DoughsR578_animalZombieVulture,entityclasses,Entity,,,Sweetheart the Insane Zombie Vulture
+DoughsR579_animalBear,entityclasses,Entity,,,Prince
+DoughsR57_zombieSteveFeral,entityclasses,Entity,,,Solaris
+DoughsR580_animalZombieDog,entityclasses,Entity,,,Baby Cakes the Ungrateful Zombie Dog
+DoughsR581_animalBossGrace,entityclasses,Entity,,,Karsyn the Troubled and Deceased
+DoughsR582_animalDireWolf,entityclasses,Entity,,,Scout
+DoughsR583_animalZombieVultureRadiated,entityclasses,Entity,,,Cornelius the Dumb and Pissed Off
+DoughsR584_animalSnake,entityclasses,Entity,,,Wayne Kerr the Obnoxious
+DoughsR585_animalZombieBear,entityclasses,Entity,,,Navy the Resentful and Abusive
+DoughsR586_animalMountainLion,entityclasses,Entity,,,Wrigley the Freak
+DoughsR587_animalBoar,entityclasses,Entity,,,Shmoops the Hopefully House-broken
+DoughsR588_animalCoyote,entityclasses,Entity,,,Camryn the Haggard and Misunderstood
+DoughsR589_animalWolf,entityclasses,Entity,,,Nicky the Bewitching and Ultra Hateful
+DoughsR58_zombieDarleneFeral,entityclasses,Entity,,,Timber the Vengeful and Bull Headed
+DoughsR590_animalZombieVulture,entityclasses,Entity,,,Heart Throb the Insensitive and Creepy
+DoughsR591_animalBear,entityclasses,Entity,,,Boy the Frightening and Lewd
+DoughsR592_animalZombieDog,entityclasses,Entity,,,Shmoopsie Poo the Dirty Zombie Dog
+DoughsR593_animalBossGrace,entityclasses,Entity,,,Amory
+DoughsR594_animalDireWolf,entityclasses,Entity,,,Jessie the Barbed
+DoughsR595_animalZombieVultureRadiated,entityclasses,Entity,,,Fable the Ominous
+DoughsR596_animalSnake,entityclasses,Entity,,,Sunday
+DoughsR597_animalZombieBear,entityclasses,Entity,,,Perry the Fart Juggling and Dangerously Frisky
+DoughsR598_animalMountainLion,entityclasses,Entity,,,Gardener the Distressed
+DoughsR599_animalBoar,entityclasses,Entity,,,Adorable the Afflicted Boar
+DoughsR59_zombieMoeFeral,entityclasses,Entity,,,Honor the Calculating
+DoughsR5_zombieFatCop,entityclasses,Entity,,,Dakota the Shallow Infected Policeman
+DoughsR600_animalCoyote,entityclasses,Entity,,,Mercury the Offensive and Almost Dead
+DoughsR601_animalWolf,entityclasses,Entity,,,Diva the Super Smelly and Howling
+DoughsR602_animalZombieVulture,entityclasses,Entity,,,Lilly the Irate and Backstabbing
+DoughsR603_animalBear,entityclasses,Entity,,,Apple the Trembling and Nauseous
+DoughsR604_animalZombieDog,entityclasses,Entity,,,Sugams the Hot Zombie Dog
+DoughsR605_animalBossGrace,entityclasses,Entity,,,Fable the Lewd and Kinda Decayed
+DoughsR606_animalDireWolf,entityclasses,Entity,,,Solar the Cruel-hearted and Really Stupid
+DoughsR607_animalZombieVultureRadiated,entityclasses,Entity,,,Couch Potato
+DoughsR608_animalSnake,entityclasses,Entity,,,Ocean
+DoughsR609_animalZombieBear,entityclasses,Entity,,,Fallon the Stubborn
+DoughsR60_zombieBikerFeral,entityclasses,Entity,,,I.c Yadick the Stupid
+DoughsR610_animalMountainLion,entityclasses,Entity,,,Kona the Disappointing
+DoughsR611_animalBoar,entityclasses,Entity,,,Lover Pie the Controlling and Terrifying
+DoughsR612_animalCoyote,entityclasses,Entity,,,Espn the Majorly Corpselike
+DoughsR613_animalWolf,entityclasses,Entity,,,Khari the Ominous
+DoughsR614_animalZombieVulture,entityclasses,Entity,,,Puddin Head the Ungodly
+DoughsR615_animalBear,entityclasses,Entity,,,Teddy the Deceiving and Pissed
+DoughsR616_animalZombieDog,entityclasses,Entity,,,Daddy Mack
+DoughsR617_animalBossGrace,entityclasses,Entity,,,Denali the Ultra Hateful
+DoughsR618_animalDireWolf,entityclasses,Entity,,,Thinn
+DoughsR619_animalZombieVultureRadiated,entityclasses,Entity,,,Zephyr the Terrible
+DoughsR61_zombieOldTimerFeral,entityclasses,Entity,,,Pinjo the Very Dead Feral Zombie Cowboy
+DoughsR620_animalSnake,entityclasses,Entity,,,Bandit the Dullest Tool
+DoughsR621_animalZombieBear,entityclasses,Entity,,,Wilma Fingerdoo the Dank
+DoughsR622_animalMountainLion,entityclasses,Entity,,,Marley
+DoughsR623_animalBoar,entityclasses,Entity,,,Dear the Insanely Creepy Boar
+DoughsR624_animalCoyote,entityclasses,Entity,,,Mercer the Whiny
+DoughsR625_animalWolf,entityclasses,Entity,,,Waffles the Strange
+DoughsR626_animalZombieVulture,entityclasses,Entity,,,Honey Pants the Obviously Dirty and Savage
+DoughsR627_animalBear,entityclasses,Entity,,,Baby Boo
+DoughsR628_animalZombieDog,entityclasses,Entity,,,Old Lady the Densely Moronic Zombie Dog
+DoughsR629_animalBossGrace,entityclasses,Entity,,,Gianni the Very Guilty and Highly Disappointing
+DoughsR62_zombieSkateboarder,entityclasses,Entity,,,Henley the Cheating Skater Punk Zombie
+DoughsR630_animalDireWolf,entityclasses,Entity,,,Bartho the Repulsive
+DoughsR631_animalZombieVultureRadiated,entityclasses,Entity,,,Cleo the Slightly Cruel and Hurting
+DoughsR632_animalSnake,entityclasses,Entity,,,Remington the Dimwitted
+DoughsR633_animalZombieBear,entityclasses,Entity,,,Peace the Strange and Disturbing
+DoughsR634_animalMountainLion,entityclasses,Entity,,,Onyx the Infuriated
+DoughsR635_animalBoar,entityclasses,Entity,,,Twinkle Toes the Confrontational Boar
+DoughsR636_animalCoyote,entityclasses,Entity,,,Remington the Obviously Dirty and Sticky
+DoughsR637_animalWolf,entityclasses,Entity,,,Perrin the Very Scary
+DoughsR638_animalZombieVulture,entityclasses,Entity,,,Georgia Peach the Abusive Zombie Vulture
+DoughsR639_animalBear,entityclasses,Entity,,,Pussy Cat the Reasonably Ungrateful Bear
+DoughsR63_zombieFemaleFatRadiated,entityclasses,Entity,,,Rylan the Irritating and Tragically Hilarious
+DoughsR640_animalZombieDog,entityclasses,Entity,,,Sweetness the Stinky Zombie Dog
+DoughsR641_animalBossGrace,entityclasses,Entity,,,Florian the Abusive
+DoughsR642_animalDireWolf,entityclasses,Entity,,,Kit
+DoughsR643_animalZombieVultureRadiated,entityclasses,Entity,,,Butter Churner the Obviously Friendless
+DoughsR644_animalSnake,entityclasses,Entity,,,Reece the Ugly Like Your Ex
+DoughsR645_animalZombieBear,entityclasses,Entity,,,Biznes
+DoughsR646_animalMountainLion,entityclasses,Entity,,,Scout the Furious
+DoughsR647_animalBoar,entityclasses,Entity,,,Anchor
+DoughsR648_animalCoyote,entityclasses,Entity,,,Tavi the Merciless
+DoughsR649_animalWolf,entityclasses,Entity,,,Megaa Omari
+DoughsR64_zombieBusinessManFeral,entityclasses,Entity,,,Jaylen the Way Too Controlling Feral Zombie Businessman
+DoughsR650_animalZombieVulture,entityclasses,Entity,,,Love Face the Hurtful and Slightly Indecent
+DoughsR651_animalBear,entityclasses,Entity,,,Tiger
+DoughsR652_animalZombieDog,entityclasses,Entity,,,Honey Bun the Cruel
+DoughsR653_animalBossGrace,entityclasses,Entity,,,Zen the Shitty
+DoughsR654_animalDireWolf,entityclasses,Entity,,,Arden the Nauseous and Unnerving
+DoughsR655_animalZombieVultureRadiated,entityclasses,Entity,,,Sacha the Self-absorbed
+DoughsR656_animalSnake,entityclasses,Entity,,,Landry the Hurtful
+DoughsR657_animalZombieBear,entityclasses,Entity,,,Azari the Reprehensible
+DoughsR658_animalMountainLion,entityclasses,Entity,,,Timber the Really Loose and Cheating
+DoughsR659_animalBoar,entityclasses,Entity,,,Dreamy Eyes the Lousy and Bloodcurdling
+DoughsR65_zombieSpiderRadiated,entityclasses,Entity,,,Wrigley the Internet Worthy
+DoughsR660_animalRabbit,entityclasses,Entity,,,Love Bug the Evil
+DoughsR661_animalDoe,entityclasses,Entity,,,Peach the Pissed
+DoughsR662_animalStag,entityclasses,Entity,,,Tum-tums the Shady Stag
+DoughsR663_animalChicken,entityclasses,Entity,,,Baby Boy the Way Too Cocky and Halfwitted
+DoughsR664_animalRabbit,entityclasses,Entity,,,Cutie Pootie
+DoughsR665_animalDoe,entityclasses,Entity,,,Cherry the Angry and Gruesome
+DoughsR666_animalStag,entityclasses,Entity,,,Cutie Pootie the Reasonably Ungrateful
+DoughsR667_animalChicken,entityclasses,Entity,,,Dashing the Terrible
+DoughsR668_animalRabbit,entityclasses,Entity,,,Honey Pants the Gory Rabbit
+DoughsR669_animalDoe,entityclasses,Entity,,,Gigi the Dimwitted and Ever So Dismal
+DoughsR66_zombieFatCopFeral,entityclasses,Entity,,,Haven the Disrespectful Feral Policeman
+DoughsR670_animalStag,entityclasses,Entity,,,Frou-frou the Ungrateful and Outraged
+DoughsR671_animalChicken,entityclasses,Entity,,,Charming the Tripping Chicken
+DoughsR672_animalRabbit,entityclasses,Entity,,,Sweetheart the Chauvinistic and Depressing
+DoughsR673_animalDoe,entityclasses,Entity,,,Pickle Head the Moderately Hot Doe
+DoughsR674_animalStag,entityclasses,Entity,,,Callie the Fear-inspiring Stag
+DoughsR675_animalChicken,entityclasses,Entity,,,Mamacita the Sadistic and Unholy
+DoughsR676_animalRabbit,entityclasses,Entity,,,Fruit Cake the Blithering Rabbit
+DoughsR677_animalDoe,entityclasses,Entity,,,Patches the Obviously Alcoholic Doe
+DoughsR678_animalStag,entityclasses,Entity,,,Snugglekins the Inappropriately Harsh Stag
+DoughsR679_animalChicken,entityclasses,Entity,,,Hot Stuff the Narrow-minded
+DoughsR67_zombieJoeRadiated,entityclasses,Entity,,,Kendall the Barbed
+DoughsR680_animalRabbit,entityclasses,Entity,,,Max
+DoughsR681_animalDoe,entityclasses,Entity,,,Duckling the Thoughtless Doe
+DoughsR682_animalStag,entityclasses,Entity,,,Baby Kins the Controlling
+DoughsR683_animalChicken,entityclasses,Entity,,,Sweet Cakes the Cruel Chicken
+DoughsR684_animalRabbit,entityclasses,Entity,,,Dork the Ultra Hellish Rabbit
+DoughsR685_animalDoe,entityclasses,Entity,,,Loverboy the Very Bad
+DoughsR686_animalStag,entityclasses,Entity,,,Main Squeeze the Crazed Stag
+DoughsR687_animalChicken,entityclasses,Entity,,,Hotness the Rebellious and Depraved
+DoughsR68_zombieSteveCrawlerFeral,entityclasses,Entity,,,Carden the Shadowy and Confrontational
+DoughsR69_legendaryZombieBusinessMan,entityclasses,Entity,,,Jules the Damned
+DoughsR6_zombieYoFeral,entityclasses,Entity,,,Kiddo the Mostly Dickish Feral Carcass
+DoughsR70_legendaryZombieUtilityWorker,entityclasses,Entity,,,Spiky the Wild
+DoughsR71_zombieSteveRadiated,entityclasses,Entity,,,Perry the Hurtful and Rotten
+DoughsR72_zombieBoe,entityclasses,Entity,,,Alexis the Shallow Infected Survivor
+DoughsR73_zombieOldTimer,entityclasses,Entity,,,Banjo the Cowardly
+DoughsR74_zombieBikerRadiated,entityclasses,Entity,,,Denali the Witless
+DoughsR75_zombieOldTimerRadiated,entityclasses,Entity,,,Style the Barbed and Distressed
+DoughsR76_zombieSoldierFeral,entityclasses,Entity,,,Quarry
+DoughsR77_zombieMarleneRadiated,entityclasses,Entity,,,Arden the Crappy
+DoughsR78_zombieJoe,entityclasses,Entity,,,Seraph the Tripping Festering Cadaver
+DoughsR79_zombieSkateboarderRadiated,entityclasses,Entity,,,Vye Brator the Gory
+DoughsR7_zombieFemaleFat,entityclasses,Entity,,,Skinny Jeans the Drunken and Spine-tingling
+DoughsR80_zombieSnow,entityclasses,Entity,,,Devon the Squeamish and Shallow
+DoughsR81_zombieSpiderFeral,entityclasses,Entity,,,Arrow the Gooey Centered and Chilling
+DoughsR82_zombieJanitor,entityclasses,Entity,,,Worm the Highly Abusive and Cheating
+DoughsR83_zombieFatCopRadiated,entityclasses,Entity,,,Godly the No-good and Slap Happy
+DoughsR84_zombieCheerleaderRadiated,entityclasses,Entity,,,Grey the Witless
+DoughsR85_zombieDemolition,entityclasses,Entity,,,Noodles
+DoughsR86_legendaryZombieLab,entityclasses,Entity,,,Bobo the Relatively Abnormal
+DoughsR87_zombieFatCop,entityclasses,Entity,,,Lexington the Mega Lurid Infected Policeman
+DoughsR88_zombieYoFeral,entityclasses,Entity,,,Kelly the Calculating and Ungrateful
+DoughsR89_zombieFemaleFat,entityclasses,Entity,,,Bossy the Malformed
+DoughsR8_zombieSpider,entityclasses,Entity,,,Satchel the Slightly Cruel Spider Zombie
+DoughsR90_zombieSpider,entityclasses,Entity,,,Guadalupe
+DoughsR91_zombieJanitorRadiated,entityclasses,Entity,,,Immaculate the Conniving
+DoughsR92_zombieMarlene,entityclasses,Entity,,,Tarian the Spiteful Departed Woman
+DoughsR93_zombieLabFeral,entityclasses,Entity,,,Taylor the Fiercely-loyal
+DoughsR94_zombieFatHawaiian,entityclasses,Entity,,,Shiloh the Childish and Reprehensible
+DoughsR95_zombieCheerleaderFeral,entityclasses,Entity,,,Baker the Haunting
+DoughsR96_zombieNurse,entityclasses,Entity,,,Heywood Japulmah Finga the Crushing
+DoughsR97_zombieYoRadiated,entityclasses,Entity,,,Remington the Spine-tingling
+DoughsR98_zombieStripper,entityclasses,Entity,,,Remington the Terribly Whiny and Devilish
+DoughsR99_zombieBurnt,entityclasses,Entity,,,Godly the Flickering Burn Victim
+DoughsR9_zombieJanitorRadiated,entityclasses,Entity,,,Navy the Deplorable
