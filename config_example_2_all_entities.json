@@ -2,13 +2,15 @@
   "game_install_dir":"/home/toot/.local/share/Steam/steamapps/common/7 Days To Die",
   "game_saves_dir":"/home/toot/.local/share/7DaysToDie/Saves",
   "use_save_game":"",
-  "game_version":"a19.2_b4",
+  "game_version":"a19.2-b4",
   "author":"Doughphunghus",
-  "modlet_tag":"all-entities-localized",
+  "modlet_name_prefix":"Doughs-RandEnts",
+  "modlet_name_tag":"vanilla-enemy-animals-only-600-clones",
   "log_level":"2",
   "config_file_format":"v1",
   "unique_entity_prefix":"DoughsR",
   "ignore_entity_list":{},
+  "only_allow_these_entities_list":{},
   "enable_localization":"1",
   "ConfigDefaults": {
     "LocalizationNameLookup": {
@@ -194,7 +196,7 @@
   },
   "ConfigEntityEnemyAnimal": {
     "disable_randomizer":"0",
-    "num_generation_loops":"7",
+    "num_generation_loops":"50",
     "ignore_entity_list":{},
     "MassAndWeightAndSizeScale": {
       "low_pct_int":"15",
@@ -225,8 +227,8 @@
     "MaxTurnSpeed": {}
   },
   "ConfigEntityFriendlyAnimal": {
-    "disable_randomizer":"0",
-    "num_generation_loops":"7",
+    "disable_randomizer":"1",
+    "num_generation_loops":"100",
     "ignore_entity_list": {},
     "MassAndWeightAndSizeScale": {
       "low_pct_int":"15",
@@ -248,9 +250,9 @@
     "MaxTurnSpeed": {}
   },
   "ConfigEntityZombie": {
-    "disable_randomizer":"0",
-    "num_generation_loops":"7",
-    "enable_walktype_crawler_limit":"2",
+    "disable_randomizer":"1",
+    "num_generation_loops":"60",
+    "enable_walktype_crawler_limit":"5",
     "ignore_entity_list":{
       "animalRabbit2":"Example how to not randomize an entity named animalRabbit2",
       "animalDoe2":"Example how to not randomize an entity named animalDoe2"

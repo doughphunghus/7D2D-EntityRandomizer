@@ -3,6 +3,8 @@
 
 | Archived Pre-generated Modlet  | Notes |
 | ------------- | ------------- |
+| Doughs-RandomizedEntities-For-a19.2_b4_all-entities-localized | 7x cloning. With random name localization! Recommend loading an enemy health bar modlet to see the names. There are 574 randomized vanilla zombies in the modlet, 84 hostile animals, 28 friendly animals |
+| Doughs-RandomizedEntities-For-a19.2_b4_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19.2_b3_all-entities | ARCHIVED: OLD. 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19.1_b8_all-entities | ARCHIVED: OLD. 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
 | Doughs-RandomizedEntities-For-a19_1_all-entities | ARCHIVED: ISSUES WITH MODLET.  DO NOT USE |

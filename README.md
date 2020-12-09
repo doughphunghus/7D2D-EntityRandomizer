@@ -22,8 +22,13 @@ If you are using a pre-generated modlet below, load ONE of the modlets in the ta
 
 | Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
-| Doughs-RandomizedEntities-For-a19.2_b4_all-entities-localized | 7x cloning. With random name localization! Recommend loading an enemy health bar modlet to see the names. There are 574 randomized vanilla zombies in the modlet, 84 hostile animals, 28 friendly animals |
-| Doughs-RandomizedEntities-For-a19.2_b4_all-entities | 5x cloning. There are 410 randomized vanilla zombies in the modlet, 60 hostile animals, 20 friendly animals |
+| Doughs-RandEnts_For_a19.2-b4_vanilla-enemy-animals-only-600-clones | 600 clones of vanilla zombie animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!) |
+| Doughs-RandEnts_For_a19.2-b4_vanilla-friendly-animals-only-400-clones | 400 clones of vanilla friendly/wild animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!)|
+| Doughs-RandEnts_For_a19.2-b4_vanilla-zeds-only-4920-clones | 4920 clones of vanilla zombies , with localization (Recommend loading an enemy health bar viewer modlet to see the names!)|
+
+| Archived Pre-generated Modlets  | Notes |
+| ------------- | ------------- |
+|See "Archived" Folder | |
 
 #### Notes:
 - This is still in a *very experimental* stage of development.  
@@ -43,7 +48,7 @@ If you are using a pre-generated modlet below, load ONE of the modlets in the ta
   3. Based on the config file settings, loops and runs again, so more random copies can be made of each zed.  
   4. Writes out an XML modlet containing all the random entities, and adds them to all the entity groups they normally spawn in.
 
-  Also note, for teh pre-generated modlets:
+  Also note, for the pre-generated modlets:
   The "randomness" is not completely random.  Each metric gets a different "randomness" varience, and some metrics are tweaked.
   For example:
   - If a zombie is a crawler type, the zomnie copy will not have a random walk type ( because a legless crawler can float in midair if its made to walk)
@@ -51,3 +56,123 @@ If you are using a pre-generated modlet below, load ONE of the modlets in the ta
   - In some cases, where its not easy to get a metric, I have manually chosen a metric to center the randomness around.
 
   - Some zombies may be "too big" to fit through doors ;)  generally I tried to center size randomness so they will not be, but it may happen
+
+# Config File Argument Documentation (VERY WIP, SUBJECT TO CHANGE)
+Once perl and dependencies are installed, the script is run like so:
+Open a shell, cd to the project directory, and run (example)
+perl ./randomizer.pl --config-file ./config_example_TEST_all_entities.json
+
+where:
+- --config-file = REQUIRED. The JSON formatted config file to use.
+
+See the example JSON config files included in the project root dir as examples.
+The config file keys/values are:
+#### Values in {}, the "Top level" config values.
+- "game_install_dir":
+  Directory where 7 Days To Die is installed.
+  Example value: "<some path on your machine>/Steam/steamapps/common/7 Days To Die"
+
+- "game_saves_dir":
+  Directory where 7 Days To Die local save game files are installed.
+  Example value: "<some path on your machine>/7DaysToDie/Saves"
+
+- "use_save_game":""
+  Advanced setting!. To parse the XML files in a save game folder instead of the game_install_dir
+  Leave this empty unless you know how to use this.
+  Example value: "" <- Do not use a save game for XML. Use installed game XML
+  Example value: "Navezgane/<some_save_game_name>"
+
+- "game_version":"a19.2-b4"
+  The version of the game, as seen on the top right hand corner when it runs
+  Note: Put a dash "-" between the version and the build. The dash is not required, but this info is used to build the This is used to build the name of the toplevel mod folder and the dash makes it look nice.
+  Example value: "a19.2-b4"
+
+- "author":
+  This value get put into the ModInfo.xml file of the generated mod.
+  Example value: "Doughphunghus"
+
+- "modlet_name_prefix":
+  This is used to build the beginning of the name of the toplevel mod folder. Keep it as short as possible. A good practice is to put your name (or an abbreviation of it) as the first word.
+  Note: Put a dash "-" between any words instead of spaces/underlines. This info is used to build the name of the mod and it makes it look nice.
+  Example value: "Doughs-RandEnts"
+
+- "modlet_name_tag":
+  This is used to build the end part of the the name of the toplevel mod folder.  A good practice would be to make this very descriptive as to what the generation is for or contains.
+  Note: Put a dash "-" between any words instead of spaces/underlines. This info is used to build the name of the mod and it makes it look nice.
+  Example value: "vanilla-enemy-animals-only-600-clones"
+
+- "log_level":
+  This controls the level of logging when the script runs, and can be useful for debugging.
+  Allowed values:
+  0 = Minimal logging (only STDOUT/STDERR messages which are not caught)
+  1 = ERROR Messages only
+  2 = ERROR and INFO Messages
+  3 = ERROR and INFO and DEBUG Messages
+  Example value: "2"
+
+- "config_file_format":
+  Advanced setting!. Do not change unless you know how to use this.
+  This is the config file format "version". If the version of script you are running
+  is older its possible it cannot parse a version of the config file you are using.
+  This was put in place in case I make config file format breaking changes, and have older config files I try to use.  If I do this, the script will refuse to process the file based on the version mismatch.
+  Example value: "v1"
+
+- "unique_entity_prefix"
+  This is used to prefix the internal names of the cloned entity names in the XML
+  Note: Keep it as short as possible.
+  This is because a unique key is needed so all cloned entities are unique, but so you can also (should you change this) run different generated cloned modlets either by yourself or others (using the same script, different config files) side by side.
+  Note: A good practice would be to put your name or an abbreviation of it in this.
+  Note: This is part of the name you can see when using the F6 entity spawner in the games debug mode.  This also makes your cloned entities searchable in that tool.
+  Example value: "DoughsR"
+
+- "ignore_entity_list":
+  This is a dictionary/hash of values :) but is supposed to contain any entities you do not want to clone, globally (no matter what Type/Class they are or inherit from). This can be empty or contain key/values. Use the value to document the reason the ehtity is being ignored.
+  Use the internal XML class name of the entity!
+  Example value: {} <- Do not ignore any entities
+  Example value:
+  {
+    "animalDoe":"I do not want any clones of this",
+    "animalZombieVulture":"I do not want any clones of this"
+  }
+
+- "only_allow_these_entities_list":
+  This is a dictionary/hash of values :) but is supposed to contain any entities you ONLY
+  want clones of.  It is just like ignore_entity_list, but only the entities in the lise are cloned, everything else is ignored.  This is good when you want a lot of clones of a specific zombie/animal, or have a special config file to randomize just this entity, seperate from others. Another use woudl be to randomize entities from mods (this may or may not work well!, and you have to use the use_save_game config setting to point the script to a saved, modded game to read the modded entities from.
+  Example value: {} <- Do not ignore any entities
+  Example value:
+  {
+    "animalDoe":"I do not want any clones of this",
+    "animalZombieVulture":"I do not want any clones of this"
+  }
+
+- "enable_localization":
+  The script can generate a Localization.txt file for the mod it generates from special files (not documented yet or supplied with this code, but you can find the names/locations in the script if you want to supply your own. The Localization files are just text files with a single word on each line. If the files are supplied, the script generates randomized names for each cloned entity by choosing random words from each localization file).  If you do not have localization files, obviously set this to 0
+  Allowed values:
+  0 = Do not use Localization files/generate localization
+  1 = Do use Localization files/generate localization
+  Example value:"1"
+
+- "ConfigDefaults":
+  This section defines all of the "default master filters" used in the ConfigEntityEnemyAnimal,ConfigEntityFriendlyAnimal,ConfigEntityZombie sections below.
+  { <Contents of Section Documented below> }
+
+- "ConfigEntityEnemyAnimal":
+  This section defines all of the default "filters" for Enemy Animal Entities
+  { <Contents of Section Documented below> }
+
+- "ConfigEntityFriendlyAnimal":
+  This section defines all of the default "filters" for Friendly Animal Entities
+  { <Contents of Section Documented below> }
+
+- "ConfigEntityZombie":
+  This section defines all of the default "filters" for Zombie Entities
+  { <Contents of Section Documented below> }
+
+#### Values in "ConfigDefaults"
+TBD!  This is a complicated section and requires some thought to document
+
+
+#### Values in "ConfigEntityEnemyAnimal","ConfigEntityFriendlyAnimal", and "ConfigEntityZombie"
+All of these sections behave the same and can be configured using the same methods, so I will document only how to configure one of the sections. ConfigEntityZombie will be the example section used, so to do the others simply substitute the class/entity names of the appropriate entity/class instead of Zombies.
+
+TBD!  This is a complicated section and requires some thought to document

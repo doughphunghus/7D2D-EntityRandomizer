@@ -66,6 +66,7 @@ my @LOCALIZATION_ANIMAL_NAMES; # My custom ones
 my @LOCALIZATION_ENEMY_ADJETIVES; # My custom ones
 my @LOCALIZATION_FRIENDLY_ADJETIVES; # My custom ones
 my @LOCALIZATION_UNISEX_PEOPLE_NAMES; # My custom ones
+my @LOCALIZATION_ADVERBS; # My custom ones
 my $TOTAL_ZED_ENTITIES_FOUND = 0;
 my $TOTAL_ZED_ENTITIES_GENERATED = 0;
 my $TOTAL_HOSTILE_ANIMAL_ENTITIES_FOUND = 0;
@@ -77,11 +78,15 @@ my $TOTAL_FRIENDLY_ANIMAL_ENTITIES_GENERATED = 0;
 my %WalkTypeCrawlLimiter; # key = zed class. val = int of crawler randomizations done
 
 # TODO: put this in configs
-my %NEW_ENTITY_FILTER_LIST = ( # don't ever clone these nodes. Hardcode obvious here
+my %NEW_ENTITY_FILTER_OUT_LIST = ( # don't ever clone these nodes. Hardcode obvious here
   zombieTemplateMale => "Do not clone this as its a template entity",
   animalTemplateTimid => "Do not clone this as its a template entity",
-  animalTemplateHostile => "Do not clone this as its a template entity",
+  animalTemplateHostile => "Do not clone this as its a template entity"
 );
+
+# ONLY clone these nodes. Useful for making mods or randomizing overhauls/zed packs
+my %NEW_ENTITY_FILTER_ALLOW_ONLY_LIST = ();
+my $FILTER_ALLOW_ONLY_LIST_FLAG = 0; # QOL flag. Set to 1 to use the %NEW_ENTITY_FILTER_ALLOW_ONLY_LIST configs
 
 sub LogIt {
   my($sev,$msg) = @_;
@@ -242,9 +247,20 @@ sub GenerateNewEntityFromExistingName {
     LogDebug('Found: '.$entity_name);
 
     # Filter some out we don't want!
-    if(exists $NEW_ENTITY_FILTER_LIST{$entity_name}) {
-      LogDebug('Zed filter list matched. Filtering out: '.$entity_name.' because: '.$NEW_ENTITY_FILTER_LIST{$entity_name});
+    if(exists $NEW_ENTITY_FILTER_OUT_LIST{$entity_name}) {
+      LogDebug('Zed filter FILTER OUT list matched. Filtering OUT: '.$entity_name.' because: '.$NEW_ENTITY_FILTER_OUT_LIST{$entity_name});
       return;
+    }
+
+    # Filter ONLY those we do want!
+    if($FILTER_ALLOW_ONLY_LIST_FLAG) {
+      if(exists $NEW_ENTITY_FILTER_ALLOW_ONLY_LIST{$entity_name}) {
+        LogDebug('Zed filter ALLOW ONLY list matched. Filtering IN: '.$entity_name.' because: '.$NEW_ENTITY_FILTER_ALLOW_ONLY_LIST{$entity_name});
+      }
+      else { # didnt match, dont clone.
+        LogDebug('Zed filter ALLOW ONLY list used and not matched. Filtering OUT: '.$entity_name);
+        return;
+      }
     }
 
     $new_zed = $entity->cloneNode(1); # deep clone, all nodes below
@@ -377,6 +393,7 @@ sub ModletGen_AddZedToLocalization {
   my $first_name;
   my $adjetive_name;
   my $final_name = '';
+  my $adverb = '';
 
   # OK, gnerate a random loclization name
   if($localization_class eq 'people') {
@@ -392,6 +409,12 @@ sub ModletGen_AddZedToLocalization {
   }
 
   $first_name = 'Lonely' if ! $first_name; # just in case
+
+  # pick an Adverb
+  ($tmp_count) = scalar @LOCALIZATION_ADVERBS;
+  $tmp_num = GenRandomNumberFromRange(0,$tmp_count);
+  $adverb = $LOCALIZATION_ADVERBS[$tmp_num];
+  $adverb = 'Very' if ! $adverb; # just in case
 
   if($localization_adjetive eq 'enemy') {
     ($tmp_count) = scalar @LOCALIZATION_ENEMY_ADJETIVES;
@@ -410,15 +433,32 @@ sub ModletGen_AddZedToLocalization {
   # TODO? ok, randomly choose if we use them all
   $final_name = $first_name; # .' the '.$adjetive_name.' '.$orig_localization_name;
   if(rand(1) < .85) { # Most have adjetives/longer names ;)
-    $final_name = $final_name.' the '.$adjetive_name;
 
-    if(rand(1) < .3) { # few have double adjetives . use enemy for all animal names;)
-      my ($tmp_count2) = scalar @LOCALIZATION_ENEMY_ADJETIVES;
-      my $tmp_num2 = GenRandomNumberFromRange(0,$tmp_count2);
-      my $adjetive_name2 = $LOCALIZATION_ENEMY_ADJETIVES[$tmp_num2];
-      $adjetive_name2 = 'Sad Faced' if ! $adjetive_name2; # just in case
-      # $adjetive_name2 = ucfirst($adjetive_name2);
-      $final_name = $final_name.' and '.$adjetive_name2;
+    if(rand(1) < .3) { # some have adverbs
+      $final_name = $final_name.' the '.$adverb.' '.$adjetive_name;
+    }
+    else {
+      $final_name = $final_name.' the '.$adjetive_name;
+    }
+
+    if(rand(1) < .3) { # few have double adjetives
+
+      if($localization_class eq 'people') {
+        my ($tmp_count2) = scalar @LOCALIZATION_ENEMY_ADJETIVES;
+        my $tmp_num2 = GenRandomNumberFromRange(0,$tmp_count2);
+        my $adjetive_name2 = $LOCALIZATION_ENEMY_ADJETIVES[$tmp_num2];
+        $adjetive_name2 = 'Sad Faced' if ! $adjetive_name2; # just in case
+        # $adjetive_name2 = ucfirst($adjetive_name2);
+        $final_name = $final_name.' and '.$adjetive_name2;
+      }
+      else { # Animals
+        my ($tmp_count2) = scalar @LOCALIZATION_FRIENDLY_ADJETIVES;
+        my $tmp_num2 = GenRandomNumberFromRange(0,$tmp_count2);
+        my $adjetive_name2 = $LOCALIZATION_FRIENDLY_ADJETIVES[$tmp_num2];
+        $adjetive_name2 = 'Happy Faced' if ! $adjetive_name2; # just in case
+        # $adjetive_name2 = ucfirst($adjetive_name2);
+        $final_name = $final_name.' and '.$adjetive_name2;
+      }
     } elsif(rand(1) < .5) { # Add zed original name descriptions ;) dont do after double adjetive
       $final_name = $final_name.' '.$orig_localization_name;
     }
@@ -481,13 +521,13 @@ sub ModletGen_AddZedsToEntityGroupsFile {
   foreach my $entity_group (@entity_groups){
     #next if $entity_group =~ m/GroupGS/; # ignore game stages. Waaaaaaay too many. slows game load time significantly
     #next if $entity_group =~ m/StageGS/;
-    LogDebug('ModletGen_AddZedsToEntityGroupsFile ENTITY GROUP: '.$entity_group);
+    # LogDebug('ModletGen_AddZedsToEntityGroupsFile ENTITY GROUP: '.$entity_group);
     my $xml_strings_arayref = $ENTITY_GROUP_LOOKUP{$entity_group};
 
     print $ENTITYGROUPS_FILE '<append xpath="/entitygroups/entitygroup[@name=\''.$entity_group.'\']">'."\n";
 
     foreach my $xmlstring (@{$xml_strings_arayref}) {
-      LogDebug('Adding: '.$xmlstring);
+      # LogDebug('Adding: '.$xmlstring);
       print $ENTITYGROUPS_FILE "\t".$xmlstring."\n"; # Nice spacing
     }
     print $ENTITYGROUPS_FILE '</append>'."\n";
@@ -907,7 +947,7 @@ sub RandomizeEntity {
     my @config_keys = keys %{$CONFIGS->{$entity_config_key}};
     foreach my $cfg_property_key (@config_keys){
 
-      # ugh, for now
+      # ugh, for now. These are teh configs inside the entity filters/config sections
       next if $cfg_property_key eq 'disable_randomizer';
       next if $cfg_property_key eq 'num_generation_loops';
       next if $cfg_property_key eq 'ignore_entity_list';
@@ -1057,12 +1097,15 @@ CheckFileExistsOrExit($CONFIGS->{'entityclasses_file'},'entityclasses_file');
 $CONFIGS->{'entitygroups_file'} = $CONFIGS->{'using_config_dir'}.'/entitygroups.xml';
 CheckFileExistsOrExit($CONFIGS->{'entitygroups_file'},'entitygroups_file');
 
-$CONFIGS->{'localization_file'} = $CONFIGS->{'using_config_dir'}.'/Localization.txt';
+# Note: Localization file does not exist in a Saved Game! Use config dir ALWAYS!
+$CONFIGS->{'localization_file'} = $CONFIGS->{'game_config_dir'}.'/Localization.txt';
 CheckFileExistsOrExit($CONFIGS->{'localization_file'},'localization_file');
 
 CheckConfigExistsOrExit($CONFIGS->{'game_version'},'game_version');
-CheckConfigExistsOrExit($CONFIGS->{'modlet_tag'},'modlet_tag');
-$CONFIGS->{'modlet_name'} = 'Doughs-RandomizedEntities-For-'.$CONFIGS->{'game_version'}.'_'.$CONFIGS->{'modlet_tag'};
+CheckConfigExistsOrExit($CONFIGS->{'modlet_name_tag'},'modlet_name_tag');
+CheckConfigExistsOrExit($CONFIGS->{'modlet_name_prefix'},'modlet_name_prefix');
+
+$CONFIGS->{'modlet_name'} = $CONFIGS->{'modlet_name_prefix'}.'_For_'.$CONFIGS->{'game_version'}.'_'.$CONFIGS->{'modlet_name_tag'};
 
 $CONFIGS->{'modlet_gen_dir'} = $PROJECT_ROOT_DIR.'/'.$CONFIGS->{'modlet_name'};
 
@@ -1077,8 +1120,19 @@ CheckConfigExistsOrExit($CONFIGS->{'unique_entity_prefix'},'unique_entity_prefix
 CheckConfigExistsOrExit($CONFIGS->{'ignore_entity_list'},'ignore_entity_list'); # can be empty
 foreach my $user_config_ignore_entity (keys %{$CONFIGS->{'ignore_entity_list'}}) {
   my $reason = $CONFIGS->{'ignore_entity_list'}{$user_config_ignore_entity};
-  LogInfo('Globally Ignoring entity:'.$user_config_ignore_entity.' because: '.$reason);
-  $NEW_ENTITY_FILTER_LIST{$user_config_ignore_entity} = $reason;
+  LogInfo('Globally ignoring entity:'.$user_config_ignore_entity.' because: '.$reason);
+  $NEW_ENTITY_FILTER_OUT_LIST{$user_config_ignore_entity} = $reason;
+}
+
+# Allow users to configure zeds to ONLY CLONE, for very specific, custom randomization
+CheckConfigExistsOrExit($CONFIGS->{'only_allow_these_entities_list'},'only_allow_these_entities_list'); # can be empty
+foreach my $user_config_only_allow_entity (keys %{$CONFIGS->{'only_allow_these_entities_list'}}) {
+
+  $FILTER_ALLOW_ONLY_LIST_FLAG = 1; # Ease of knowing when to use these configs
+
+  my $reason = $CONFIGS->{'only_allow_these_entities_list'}{$user_config_only_allow_entity};
+  LogInfo('Globally only allowing cloning of entity:'.$user_config_only_allow_entity.' because: '.$reason);
+  $NEW_ENTITY_FILTER_ALLOW_ONLY_LIST{$user_config_only_allow_entity} = $reason;
 }
 
 $ENTITYCLASSES_DOM = XML::LibXML->load_xml(location => $CONFIGS->{'entityclasses_file'});
@@ -1097,11 +1151,14 @@ if($CONFIGS->{'enable_localization'} eq '1') {
   CheckFileExistsOrExit($CONFIGS->{'friendly_adjetives_file'},'friendly_adjetives_file');
   $CONFIGS->{'unisex_people_names_file'} = $PROJECT_ROOT_DIR.'/NameFiles/unisex_people_names.txt';
   CheckFileExistsOrExit($CONFIGS->{'unisex_people_names_file'},'unisex_people_names_file');
+  $CONFIGS->{'adverbs_file'} = $PROJECT_ROOT_DIR.'/NameFiles/adverbs.txt';
+  CheckFileExistsOrExit($CONFIGS->{'adverbs_file'},'adverbs_file');
 
   LoadNameFilesLocalization(\@LOCALIZATION_ANIMAL_NAMES, $CONFIGS->{'animal_names_file'}); # Stores it in %LOCALIZATION_CUSTOM hash
   LoadNameFilesLocalization(\@LOCALIZATION_ENEMY_ADJETIVES, $CONFIGS->{'enemy_adjetives_file'});
   LoadNameFilesLocalization(\@LOCALIZATION_FRIENDLY_ADJETIVES, $CONFIGS->{'friendly_adjetives_file'});
   LoadNameFilesLocalization(\@LOCALIZATION_UNISEX_PEOPLE_NAMES, $CONFIGS->{'unisex_people_names_file'});
+  LoadNameFilesLocalization(\@LOCALIZATION_ADVERBS, $CONFIGS->{'adverbs_file'});
 }
 
 ####################
