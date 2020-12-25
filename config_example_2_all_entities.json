@@ -2,10 +2,10 @@
   "game_install_dir":"/home/toot/.local/share/Steam/steamapps/common/7 Days To Die",
   "game_saves_dir":"/home/toot/.local/share/7DaysToDie/Saves",
   "use_save_game":"",
-  "game_version":"a19.2-b4",
+  "game_version":"a19.3-b6",
   "author":"Doughphunghus",
   "modlet_name_prefix":"Doughs-RandEnts",
-  "modlet_name_tag":"vanilla-enemy-animals-only-600-clones",
+  "modlet_name_tag":"vanilla-vanilla-zeds-only-4920-clones",
   "log_level":"2",
   "config_file_format":"v1",
   "unique_entity_prefix":"DoughsR",
@@ -195,7 +195,7 @@
     }
   },
   "ConfigEntityEnemyAnimal": {
-    "disable_randomizer":"0",
+    "disable_randomizer":"1",
     "num_generation_loops":"50",
     "ignore_entity_list":{},
     "MassAndWeightAndSizeScale": {
@@ -250,7 +250,7 @@
     "MaxTurnSpeed": {}
   },
   "ConfigEntityZombie": {
-    "disable_randomizer":"1",
+    "disable_randomizer":"0",
     "num_generation_loops":"60",
     "enable_walktype_crawler_limit":"5",
     "ignore_entity_list":{
