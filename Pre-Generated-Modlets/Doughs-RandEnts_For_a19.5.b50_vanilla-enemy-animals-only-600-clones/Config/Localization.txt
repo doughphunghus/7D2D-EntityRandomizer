@@ -1,0 +1,601 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+DoughsR100_animalBear,entityclasses,Entity,,,Honey Bun the Eccentric
+DoughsR101_animalZombieVulture,entityclasses,Entity,,,Flower Child the Acrobatic
+DoughsR102_animalCoyote,entityclasses,Entity,,,Alaiya the Knavishly Furry
+DoughsR103_animalZombieDog,entityclasses,Entity,,,Sugar Smacks the Smelly and Moonstruck
+DoughsR104_animalMountainLion,entityclasses,Entity,,,Solomon the Disturbingly Nasty
+DoughsR105_animalBoar,entityclasses,Entity,,,Stud Muffin the Fretful
+DoughsR106_animalDireWolf,entityclasses,Entity,,,Minot the Frightening and Subdued
+DoughsR107_animalWolf,entityclasses,Entity,,,Adlai the Boldly Very Tactful
+DoughsR108_animalZombieBear,entityclasses,Entity,,,Luisa the Pestilent and Indecent
+DoughsR109_animalZombieVultureRadiated,entityclasses,Entity,,,Shepherd
+DoughsR10_animalDireWolf,entityclasses,Entity,,,Axton the Cowardly and Completely Inhuman
+DoughsR110_animalSnake,entityclasses,Entity,,,Reina the Condescending
+DoughsR111_animalBossGrace,entityclasses,Entity,,,Clover the Separately Very Chauvinistic
+DoughsR112_animalBear,entityclasses,Entity,,,Cleo the Joyous and Back
+DoughsR113_animalZombieVulture,entityclasses,Entity,,,Fluffy
+DoughsR114_animalCoyote,entityclasses,Entity,,,Slider the Voluntarily Clever
+DoughsR115_animalZombieDog,entityclasses,Entity,,,Max the Acceptable and Clever
+DoughsR116_animalMountainLion,entityclasses,Entity,,,Yousef the Very Perverted
+DoughsR117_animalBoar,entityclasses,Entity,,,Captain the Victoriously Humble and Sweet
+DoughsR118_animalDireWolf,entityclasses,Entity,,,Pocahontas the Stale and Tragically Hilarious
+DoughsR119_animalWolf,entityclasses,Entity,,,Jace the Honored and Judicious
+DoughsR11_animalWolf,entityclasses,Entity,,,Peso the Infinitely Sad
+DoughsR120_animalZombieBear,entityclasses,Entity,,,Billy the Spooky
+DoughsR121_animalZombieVultureRadiated,entityclasses,Entity,,,Elijah the Scary
+DoughsR122_animalSnake,entityclasses,Entity,,,Fernando the Shakily Confused
+DoughsR123_animalBossGrace,entityclasses,Entity,,,Bodie the Macabre
+DoughsR124_animalBear,entityclasses,Entity,,,Darling the Unlawful
+DoughsR125_animalZombieVulture,entityclasses,Entity,,,My King the Unimpressively Fart Juggling
+DoughsR126_animalCoyote,entityclasses,Entity,,,Perry the Frigid
+DoughsR127_animalZombieDog,entityclasses,Entity,,,All-star the Promptly Teeny and Foolish
+DoughsR128_animalMountainLion,entityclasses,Entity,,,Isaac the Irritably Ill-tempered
+DoughsR129_animalBoar,entityclasses,Entity,,,Lucy the Frequent and Fatherly
+DoughsR12_animalZombieBear,entityclasses,Entity,,,Oncore the Sinister
+DoughsR130_animalDireWolf,entityclasses,Entity,,,Razuli the Acoustic and Frigid
+DoughsR131_animalWolf,entityclasses,Entity,,,Domino the Really Smelly and Frank
+DoughsR132_animalZombieBear,entityclasses,Entity,,,Victor
+DoughsR133_animalZombieVultureRadiated,entityclasses,Entity,,,Laurel the Self-absorbed
+DoughsR134_animalSnake,entityclasses,Entity,,,Julio the Sedate and Jumbo
+DoughsR135_animalBossGrace,entityclasses,Entity,,,Magnum the Tenuous
+DoughsR136_animalBear,entityclasses,Entity,,,Girlfriend
+DoughsR137_animalZombieVulture,entityclasses,Entity,,,Pooh the Unnatural and Anchored
+DoughsR138_animalCoyote,entityclasses,Entity,,,Alina the Hopelessly Satanic and Scared
+DoughsR139_animalZombieDog,entityclasses,Entity,,,Pickle Head the Victoriously Accurate
+DoughsR13_animalZombieVultureRadiated,entityclasses,Entity,,,Linden the Jazzy
+DoughsR140_animalMountainLion,entityclasses,Entity,,,Outlaw the Justly Highly Promiscuous and Hyperactive
+DoughsR141_animalBoar,entityclasses,Entity,,,Kiya the Commonly Frustrating and Sightly
+DoughsR142_animalDireWolf,entityclasses,Entity,,,Noelle the Severe
+DoughsR143_animalWolf,entityclasses,Entity,,,Houdini the Bitterly Super Smelly
+DoughsR144_animalZombieBear,entityclasses,Entity,,,Rowdy the Short
+DoughsR145_animalZombieVultureRadiated,entityclasses,Entity,,,Jordan the Fart Collecting
+DoughsR146_animalSnake,entityclasses,Entity,,,Tavi the Shallow
+DoughsR147_animalBossGrace,entityclasses,Entity,,,Jakob the Terribly Whiny and Depraved
+DoughsR148_animalBear,entityclasses,Entity,,,Champion the Irritably Defective
+DoughsR149_animalZombieVulture,entityclasses,Entity,,,Cheeky Chimp
+DoughsR14_animalSnake,entityclasses,Entity,,,Lefty the Fruitful
+DoughsR150_animalCoyote,entityclasses,Entity,,,Destiny the Squealing
+DoughsR151_animalZombieDog,entityclasses,Entity,,,Luv Puppies the Defective
+DoughsR152_animalMountainLion,entityclasses,Entity,,,Berlin the Acidic
+DoughsR153_animalBoar,entityclasses,Entity,,,Sam the Tepid
+DoughsR154_animalDireWolf,entityclasses,Entity,,,Kix the Second-hand
+DoughsR155_animalWolf,entityclasses,Entity,,,Madalyn
+DoughsR156_animalZombieBear,entityclasses,Entity,,,Dayana the Stark
+DoughsR157_animalZombieVultureRadiated,entityclasses,Entity,,,Clementine the Concerned
+DoughsR158_animalSnake,entityclasses,Entity,,,Cataleya the Cursed
+DoughsR159_animalBossGrace,entityclasses,Entity,,,Creed the Filthy
+DoughsR15_animalBossGrace,entityclasses,Entity,,,Rosa the Sad
+DoughsR160_animalBear,entityclasses,Entity,,,Cheese Ball the Briskly Internet Famous and Sublime
+DoughsR161_animalZombieVulture,entityclasses,Entity,,,Love Face the Really Pissed
+DoughsR162_animalCoyote,entityclasses,Entity,,,Gary the Pretty Dumb
+DoughsR163_animalZombieDog,entityclasses,Entity,,,Lover Boy the Inquisitively Complicated
+DoughsR164_animalMountainLion,entityclasses,Entity,,,June the Impressive
+DoughsR165_animalBoar,entityclasses,Entity,,,Bubby the Highly Promiscuous and Undying
+DoughsR166_animalDireWolf,entityclasses,Entity,,,Lance
+DoughsR167_animalWolf,entityclasses,Entity,,,Kannon the Damp
+DoughsR168_animalZombieBear,entityclasses,Entity,,,Asmodeus the Less Daffy and French
+DoughsR169_animalZombieVultureRadiated,entityclasses,Entity,,,Buddy the Wailing
+DoughsR16_animalBear,entityclasses,Entity,,,Knockout the Worriedly Repulsive
+DoughsR170_animalSnake,entityclasses,Entity,,,Grammophon the Deceivingly Decisive
+DoughsR171_animalBossGrace,entityclasses,Entity,,,Vivaan the Violet
+DoughsR172_animalBear,entityclasses,Entity,,,Lovie
+DoughsR173_animalZombieVulture,entityclasses,Entity,,,Dimples
+DoughsR174_animalCoyote,entityclasses,Entity,,,Kasen the Mentally Impaired
+DoughsR175_animalZombieDog,entityclasses,Entity,,,Dimples the Busily Intrepid and Spirited
+DoughsR176_animalMountainLion,entityclasses,Entity,,,Lyra
+DoughsR177_animalBoar,entityclasses,Entity,,,Sam the Thankfully Moody Boar
+DoughsR178_animalDireWolf,entityclasses,Entity,,,Carson the Superior and Mega Lurid
+DoughsR179_animalWolf,entityclasses,Entity,,,Nadia the Tempting
+DoughsR17_animalZombieVulture,entityclasses,Entity,,,Sport the Nauseating Zombie Vulture
+DoughsR180_animalZombieBear,entityclasses,Entity,,,Omar
+DoughsR181_animalZombieVultureRadiated,entityclasses,Entity,,,Axl the Shy and Dimwitted
+DoughsR182_animalSnake,entityclasses,Entity,,,Gerald the Tomorrow Fresh
+DoughsR183_animalBossGrace,entityclasses,Entity,,,Sadie the Properly Boastfully Abominable
+DoughsR184_animalBear,entityclasses,Entity,,,Stud Muffin the Abnormally Intelligent Bear
+DoughsR185_animalZombieVulture,entityclasses,Entity,,,Cutie
+DoughsR186_animalCoyote,entityclasses,Entity,,,Amani the Inconclusive
+DoughsR187_animalZombieDog,entityclasses,Entity,,,Cutie the Queerly Hungry
+DoughsR188_animalMountainLion,entityclasses,Entity,,,Mckinley the Beautifully Fiercely Loyal
+DoughsR189_animalBoar,entityclasses,Entity,,,Trouble the Idle and Ready-to-please
+DoughsR18_animalCoyote,entityclasses,Entity,,,Josephine
+DoughsR190_animalDireWolf,entityclasses,Entity,,,Kelsey
+DoughsR191_animalWolf,entityclasses,Entity,,,Kia the Zestfully Bitchy and Subdued
+DoughsR192_animalZombieBear,entityclasses,Entity,,,Kora the Exactly Cowardly
+DoughsR193_animalZombieVultureRadiated,entityclasses,Entity,,,Jennifer
+DoughsR194_animalSnake,entityclasses,Entity,,,Ada
+DoughsR195_animalBossGrace,entityclasses,Entity,,,Gent
+DoughsR196_animalBear,entityclasses,Entity,,,Sophie the Abrasive Bear
+DoughsR197_animalZombieVulture,entityclasses,Entity,,,Leo
+DoughsR198_animalCoyote,entityclasses,Entity,,,Gunner
+DoughsR199_animalZombieDog,entityclasses,Entity,,,Queenie the Vaguely Immoral
+DoughsR19_animalZombieDog,entityclasses,Entity,,,Shorty the Impossible
+DoughsR200_animalMountainLion,entityclasses,Entity,,,Miracle the Messy Bloody
+DoughsR201_animalBoar,entityclasses,Entity,,,Duckling the Famously Misunderstood Boar
+DoughsR202_animalDireWolf,entityclasses,Entity,,,Kaylin the Absent and Scream-worthy
+DoughsR203_animalWolf,entityclasses,Entity,,,Killian
+DoughsR204_animalZombieBear,entityclasses,Entity,,,Julien the Self-reliant
+DoughsR205_animalZombieVultureRadiated,entityclasses,Entity,,,Raelyn the Unique and Macabre
+DoughsR206_animalSnake,entityclasses,Entity,,,Zeke the Fervently Frayed and Deceitful
+DoughsR207_animalBossGrace,entityclasses,Entity,,,Macie the Mummified
+DoughsR208_animalBear,entityclasses,Entity,,,Girlfriend the Anxiously Humongous
+DoughsR209_animalZombieVulture,entityclasses,Entity,,,Casanova the Vindictive
+DoughsR20_animalMountainLion,entityclasses,Entity,,,Severus the Greedy and Infinitely Sad
+DoughsR210_animalCoyote,entityclasses,Entity,,,Jeremias the Excitedly Hilarious
+DoughsR211_animalZombieDog,entityclasses,Entity,,,Zoe the Wisely Fiery Zombie Dog
+DoughsR212_animalMountainLion,entityclasses,Entity,,,Blair the Rabid
+DoughsR213_animalBoar,entityclasses,Entity,,,Beef Jerkey
+DoughsR214_animalDireWolf,entityclasses,Entity,,,Savannah the Controlling
+DoughsR215_animalWolf,entityclasses,Entity,,,Tilley the Huge
+DoughsR216_animalZombieBear,entityclasses,Entity,,,Marz the Frank
+DoughsR217_animalZombieVultureRadiated,entityclasses,Entity,,,Mischief the Malformed
+DoughsR218_animalSnake,entityclasses,Entity,,,Zachary the Bad
+DoughsR219_animalBossGrace,entityclasses,Entity,,,Harlee the Clear-cut
+DoughsR21_animalBoar,entityclasses,Entity,,,Jelly Bean
+DoughsR220_animalBear,entityclasses,Entity,,,Snoogypuss the Too Grim
+DoughsR221_animalZombieVulture,entityclasses,Entity,,,Heisenberg
+DoughsR222_animalCoyote,entityclasses,Entity,,,Ainsley the Actually Impossible
+DoughsR223_animalZombieDog,entityclasses,Entity,,,Amazing the Extremely Disturbing
+DoughsR224_animalMountainLion,entityclasses,Entity,,,Victoria
+DoughsR225_animalBoar,entityclasses,Entity,,,Prince Charming the Suddenly Bone-chilling
+DoughsR226_animalDireWolf,entityclasses,Entity,,,Aydin the Ever So Dismal and Second-hand
+DoughsR227_animalWolf,entityclasses,Entity,,,Javion
+DoughsR228_animalZombieBear,entityclasses,Entity,,,Thomas
+DoughsR229_animalZombieVultureRadiated,entityclasses,Entity,,,Axton the Childish
+DoughsR22_animalDireWolf,entityclasses,Entity,,,Colten the Hateful
+DoughsR230_animalSnake,entityclasses,Entity,,,Lea the Reluctantly Sickened and Scattered
+DoughsR231_animalBossGrace,entityclasses,Entity,,,Hamza the Svelte and Prickly
+DoughsR232_animalBear,entityclasses,Entity,,,Sexyness the Irate and Agreeable
+DoughsR233_animalZombieVulture,entityclasses,Entity,,,Snicker Doodle the Way Too Cocky Zombie Vulture
+DoughsR234_animalCoyote,entityclasses,Entity,,,Arnold the Loyally Ill-fated
+DoughsR235_animalZombieDog,entityclasses,Entity,,,Saeedi
+DoughsR236_animalMountainLion,entityclasses,Entity,,,Pablo
+DoughsR237_animalBoar,entityclasses,Entity,,,Shoogie Woogie the Vainly Acid
+DoughsR238_animalDireWolf,entityclasses,Entity,,,Cayden the Arrogant and Argumentative
+DoughsR239_animalWolf,entityclasses,Entity,,,Valery the Famously Misunderstood
+DoughsR23_animalWolf,entityclasses,Entity,,,Vada the Deadpan
+DoughsR240_animalZombieBear,entityclasses,Entity,,,Charley Horse the Frightened
+DoughsR241_animalZombieVultureRadiated,entityclasses,Entity,,,Emory the Frigid
+DoughsR242_animalSnake,entityclasses,Entity,,,Jaycee the Wormy and Content
+DoughsR243_animalBossGrace,entityclasses,Entity,,,Kashton the Abortive and Aboard
+DoughsR244_animalBear,entityclasses,Entity,,,Tum-tums the Thoughtfully Junior
+DoughsR245_animalZombieVulture,entityclasses,Entity,,,Boo the Arrogantly Talkative and Equine
+DoughsR246_animalCoyote,entityclasses,Entity,,,Santa the Absolute
+DoughsR247_animalZombieDog,entityclasses,Entity,,,Honey Bunch the Boastfully Abominable
+DoughsR248_animalMountainLion,entityclasses,Entity,,,Alani the Tomorrow Crummy and Actually
+DoughsR249_animalBoar,entityclasses,Entity,,,Shmoopie the Innate
+DoughsR24_animalZombieBear,entityclasses,Entity,,,Joe the Bitchy
+DoughsR250_animalDireWolf,entityclasses,Entity,,,Blaire the Easily Startled
+DoughsR251_animalWolf,entityclasses,Entity,,,Asani the Wealthy
+DoughsR252_animalZombieBear,entityclasses,Entity,,,Cassandra the Patiently Godawful
+DoughsR253_animalZombieVultureRadiated,entityclasses,Entity,,,Rosie
+DoughsR254_animalSnake,entityclasses,Entity,,,Chip the Knowledgeably Acrid
+DoughsR255_animalBossGrace,entityclasses,Entity,,,Mackenzie the Slightly Damned
+DoughsR256_animalBear,entityclasses,Entity,,,Puddin Head the Shallow and Lovely
+DoughsR257_animalZombieVulture,entityclasses,Entity,,,Tator-tot the Prickly Zombie Vulture
+DoughsR258_animalCoyote,entityclasses,Entity,,,Daniel
+DoughsR259_animalZombieDog,entityclasses,Entity,,,Big the Slightly Hideous
+DoughsR25_animalZombieVultureRadiated,entityclasses,Entity,,,Laney the Sternly Frozen
+DoughsR260_animalMountainLion,entityclasses,Entity,,,Prince the Empty
+DoughsR261_animalBoar,entityclasses,Entity,,,My Lucky Charm the Tenuous Boar
+DoughsR262_animalDireWolf,entityclasses,Entity,,,Branson the Truthfully Dapper
+DoughsR263_animalWolf,entityclasses,Entity,,,Lyla the Itchy
+DoughsR264_animalZombieBear,entityclasses,Entity,,,Pocahontas the Competent
+DoughsR265_animalZombieVultureRadiated,entityclasses,Entity,,,Adaline
+DoughsR266_animalSnake,entityclasses,Entity,,,Ollie the Clearly Cocky and Honored
+DoughsR267_animalBossGrace,entityclasses,Entity,,,Tanka the Abject
+DoughsR268_animalBear,entityclasses,Entity,,,Kitten the Immoral
+DoughsR269_animalZombieVulture,entityclasses,Entity,,,Tiger the Openly Acrobatic
+DoughsR26_animalSnake,entityclasses,Entity,,,Antonella the Identical
+DoughsR270_animalCoyote,entityclasses,Entity,,,Meilani the Lurid
+DoughsR271_animalZombieDog,entityclasses,Entity,,,Cheeky Monkey the Freak and Rescued
+DoughsR272_animalMountainLion,entityclasses,Entity,,,Khaleesi the Inquisitively Low
+DoughsR273_animalBoar,entityclasses,Entity,,,Luuuuve the Tame Boar
+DoughsR274_animalDireWolf,entityclasses,Entity,,,Twister the Conscious
+DoughsR275_animalWolf,entityclasses,Entity,,,Rolly the Fretful
+DoughsR276_animalZombieBear,entityclasses,Entity,,,Aubree the Mental and Wild
+DoughsR277_animalZombieVultureRadiated,entityclasses,Entity,,,Julius the Extra Fluffy and Vaguely Immoral
+DoughsR278_animalSnake,entityclasses,Entity,,,Pandora the Frozen
+DoughsR279_animalBossGrace,entityclasses,Entity,,,Sariah the In Denial
+DoughsR27_animalBossGrace,entityclasses,Entity,,,Zendaya the Infinite
+DoughsR280_animalBear,entityclasses,Entity,,,Main Squeeze the Abundant
+DoughsR281_animalZombieVulture,entityclasses,Entity,,,Scooter
+DoughsR282_animalCoyote,entityclasses,Entity,,,Clarissa
+DoughsR283_animalZombieDog,entityclasses,Entity,,,Dearest the Freely Succulent and Bright
+DoughsR284_animalMountainLion,entityclasses,Entity,,,Manuel
+DoughsR285_animalBoar,entityclasses,Entity,,,Bella the Sort Of Ugly and Spry
+DoughsR286_animalDireWolf,entityclasses,Entity,,,Barbara the Frightening
+DoughsR287_animalWolf,entityclasses,Entity,,,Orlando the Shiny
+DoughsR288_animalZombieBear,entityclasses,Entity,,,Apple the Internet Famous
+DoughsR289_animalZombieVultureRadiated,entityclasses,Entity,,,Oaklyn the Slightly Indecent
+DoughsR28_animalBear,entityclasses,Entity,,,Jasper
+DoughsR290_animalSnake,entityclasses,Entity,,,Bobo
+DoughsR291_animalBossGrace,entityclasses,Entity,,,Wicked the Delightfully Tangible
+DoughsR292_animalBear,entityclasses,Entity,,,Hunky
+DoughsR293_animalZombieVulture,entityclasses,Entity,,,Ladies Man
+DoughsR294_animalCoyote,entityclasses,Entity,,,Zephyr the Coolly Super and Subsequent
+DoughsR295_animalZombieDog,entityclasses,Entity,,,Georgia Peach the Cloudy
+DoughsR296_animalMountainLion,entityclasses,Entity,,,Carly the Gently Very Cold
+DoughsR297_animalBoar,entityclasses,Entity,,,Soul Mate the Sinister
+DoughsR298_animalDireWolf,entityclasses,Entity,,,Red the Dank and Honored
+DoughsR299_animalWolf,entityclasses,Entity,,,Evelyn the Vivacious
+DoughsR29_animalZombieVulture,entityclasses,Entity,,,Snugglekins the Statuesque
+DoughsR2_animalSnake,entityclasses,Entity,,,Chris the Superb
+DoughsR300_animalZombieBear,entityclasses,Entity,,,Azariah the Ominous
+DoughsR301_animalZombieVultureRadiated,entityclasses,Entity,,,Tiny Tim the Free-loading
+DoughsR302_animalSnake,entityclasses,Entity,,,Jabari the Illegal
+DoughsR303_animalBossGrace,entityclasses,Entity,,,Christopher the Rightfully Sinister
+DoughsR304_animalBear,entityclasses,Entity,,,Chubby Bunny the Frilly
+DoughsR305_animalZombieVulture,entityclasses,Entity,,,Snowball the Free-loading Zombie Vulture
+DoughsR306_animalCoyote,entityclasses,Entity,,,Milana
+DoughsR307_animalZombieDog,entityclasses,Entity,,,Magic Princess the Physically Secret and Special
+DoughsR308_animalMountainLion,entityclasses,Entity,,,Yisroel the Generally Insane and Totally Smelly
+DoughsR309_animalBoar,entityclasses,Entity,,,Anchor the Jovially Guiltless
+DoughsR30_animalCoyote,entityclasses,Entity,,,Mingo the Reproachfully Psycho
+DoughsR310_animalDireWolf,entityclasses,Entity,,,Delmonico the Greedily Immaterial
+DoughsR311_animalWolf,entityclasses,Entity,,,Anne the Infuriating
+DoughsR312_animalZombieBear,entityclasses,Entity,,,Arso the Gory
+DoughsR313_animalZombieVultureRadiated,entityclasses,Entity,,,Zain the Free
+DoughsR314_animalSnake,entityclasses,Entity,,,Mixer the Zesty
+DoughsR315_animalBossGrace,entityclasses,Entity,,,Natalia the Tall
+DoughsR316_animalBear,entityclasses,Entity,,,Bubbies the Unsightly Bear
+DoughsR317_animalZombieVulture,entityclasses,Entity,,,Baby the Supportive
+DoughsR318_animalCoyote,entityclasses,Entity,,,Kora the Annually Voluminous and Hopefully House-broken
+DoughsR319_animalZombieDog,entityclasses,Entity,,,Gizmo
+DoughsR31_animalZombieDog,entityclasses,Entity,,,Snickers the Annually Wicked
+DoughsR320_animalMountainLion,entityclasses,Entity,,,Scout the Politely Ablaze
+DoughsR321_animalBoar,entityclasses,Entity,,,Bear the Physically Important
+DoughsR322_animalDireWolf,entityclasses,Entity,,,Matteo the More Fart Collecting
+DoughsR323_animalWolf,entityclasses,Entity,,,Gucci the Watery and Oddly Chauvinistic
+DoughsR324_animalZombieBear,entityclasses,Entity,,,Marvin
+DoughsR325_animalZombieVultureRadiated,entityclasses,Entity,,,Maryam the Shallow and Idiotic
+DoughsR326_animalSnake,entityclasses,Entity,,,Kailey the Depraved
+DoughsR327_animalBossGrace,entityclasses,Entity,,,Rodeo the Mostly Guilty and Really Stupid
+DoughsR328_animalBear,entityclasses,Entity,,,Smoochie the Scarce and Effortless
+DoughsR329_animalZombieVulture,entityclasses,Entity,,,Gigi the Stealthily Filthy and Sexy
+DoughsR32_animalMountainLion,entityclasses,Entity,,,Neil the Abaft
+DoughsR330_animalCoyote,entityclasses,Entity,,,Jayleen the Often Gross
+DoughsR331_animalZombieDog,entityclasses,Entity,,,Captain the Deplorable
+DoughsR332_animalMountainLion,entityclasses,Entity,,,Yaretzi the Important and Steadfast
+DoughsR333_animalBoar,entityclasses,Entity,,,Poopsie
+DoughsR334_animalDireWolf,entityclasses,Entity,,,Santiago the Interesting and Zombie Like
+DoughsR335_animalWolf,entityclasses,Entity,,,Hercules the Tangible
+DoughsR336_animalZombieBear,entityclasses,Entity,,,Emory the Solemnly Zany and Compassionate
+DoughsR337_animalZombieVultureRadiated,entityclasses,Entity,,,Rosemary the Shimmering
+DoughsR338_animalSnake,entityclasses,Entity,,,Gary the Coolly Separate
+DoughsR339_animalBossGrace,entityclasses,Entity,,,Diva
+DoughsR33_animalBoar,entityclasses,Entity,,,Precious the Short-term and Aglow
+DoughsR340_animalBear,entityclasses,Entity,,,Doobie the Scratchy
+DoughsR341_animalZombieVulture,entityclasses,Entity,,,Georgia Peach the Dimly Jittery Zombie Vulture
+DoughsR342_animalCoyote,entityclasses,Entity,,,Marie the Patiently Abrupt
+DoughsR343_animalZombieDog,entityclasses,Entity,,,Sugar Britches the Salty Zombie Dog
+DoughsR344_animalMountainLion,entityclasses,Entity,,,Arturo the Considerate
+DoughsR345_animalBoar,entityclasses,Entity,,,Boogabear the Decent
+DoughsR346_animalDireWolf,entityclasses,Entity,,,Landon the Hopelessly Teeming
+DoughsR347_animalWolf,entityclasses,Entity,,,Scotty the Decent and Contemptible
+DoughsR348_animalZombieBear,entityclasses,Entity,,,Dinero the Rightfully Second-hand
+DoughsR349_animalZombieVultureRadiated,entityclasses,Entity,,,Fart Philanthropist
+DoughsR34_animalDireWolf,entityclasses,Entity,,,Milo the Solidly Friendless and Defiant
+DoughsR350_animalSnake,entityclasses,Entity,,,Pharoah the Monthly Grizzled
+DoughsR351_animalBossGrace,entityclasses,Entity,,,Javier the Symptomatic and Vulgar
+DoughsR352_animalBear,entityclasses,Entity,,,Trouble the Dimly Zany and Unusual
+DoughsR353_animalZombieVulture,entityclasses,Entity,,,Short Cake the Hopelessly Crummy Zombie Vulture
+DoughsR354_animalCoyote,entityclasses,Entity,,,Liam
+DoughsR355_animalZombieDog,entityclasses,Entity,,,Candy the Scarily Chilling
+DoughsR356_animalMountainLion,entityclasses,Entity,,,Duke
+DoughsR357_animalBoar,entityclasses,Entity,,,Garfield the Successfully Disappointing and Heavenly
+DoughsR358_animalDireWolf,entityclasses,Entity,,,Tessa the Unselfish
+DoughsR359_animalWolf,entityclasses,Entity,,,Ariah the Grumpy
+DoughsR35_animalWolf,entityclasses,Entity,,,Calvin the Acceptable
+DoughsR360_animalZombieBear,entityclasses,Entity,,,Jared the Secondary
+DoughsR361_animalZombieVultureRadiated,entityclasses,Entity,,,Khari the Smoothly Concerned and Miserable
+DoughsR362_animalSnake,entityclasses,Entity,,,Vivienne
+DoughsR363_animalBossGrace,entityclasses,Entity,,,Ashlyn the Prickly
+DoughsR364_animalBear,entityclasses,Entity,,,Killer the Tomorrow Swift Bear
+DoughsR365_animalZombieVulture,entityclasses,Entity,,,Angel Eyes the Miserable Zombie Vulture
+DoughsR366_animalCoyote,entityclasses,Entity,,,Luke
+DoughsR367_animalZombieDog,entityclasses,Entity,,,Sweety
+DoughsR368_animalMountainLion,entityclasses,Entity,,,Gardener
+DoughsR369_animalBoar,entityclasses,Entity,,,Babe the Cruelly Incandescent
+DoughsR36_animalZombieBear,entityclasses,Entity,,,Derringer the Nauseous
+DoughsR370_animalDireWolf,entityclasses,Entity,,,Eclipse
+DoughsR371_animalWolf,entityclasses,Entity,,,Avalynn
+DoughsR372_animalZombieBear,entityclasses,Entity,,,Ocean the Infantile
+DoughsR373_animalZombieVultureRadiated,entityclasses,Entity,,,Victor the Quickly Fretful and Inborn
+DoughsR374_animalSnake,entityclasses,Entity,,,Abram the Absorbed
+DoughsR375_animalBossGrace,entityclasses,Entity,,,Dorothy the Juvenile and Straight
+DoughsR376_animalBear,entityclasses,Entity,,,Superman
+DoughsR377_animalZombieVulture,entityclasses,Entity,,,Willow the Mysterious
+DoughsR378_animalCoyote,entityclasses,Entity,,,Daisy the Righteously Industrious
+DoughsR379_animalZombieDog,entityclasses,Entity,,,Cutie
+DoughsR37_animalZombieVultureRadiated,entityclasses,Entity,,,Nathaniel the Hurried
+DoughsR380_animalMountainLion,entityclasses,Entity,,,Daniela the Unfortunate
+DoughsR381_animalBoar,entityclasses,Entity,,,Cuddle Bunny the Seldom Obviously Bitter
+DoughsR382_animalDireWolf,entityclasses,Entity,,,Rifle the Crummy
+DoughsR383_animalWolf,entityclasses,Entity,,,Kietche the Abundant
+DoughsR384_animalZombieBear,entityclasses,Entity,,,Marlee the Dreamily Boastfully Abominable and Sort Of Cheap
+DoughsR385_animalZombieVultureRadiated,entityclasses,Entity,,,Alonzo the Famously Obviously Furious
+DoughsR386_animalSnake,entityclasses,Entity,,,Calamity the Funny
+DoughsR387_animalBossGrace,entityclasses,Entity,,,Valeria
+DoughsR388_animalBear,entityclasses,Entity,,,Cheeky Monkey the Correctly Deceiving Bear
+DoughsR389_animalZombieVulture,entityclasses,Entity,,,Lady Love the Obviously Alcoholic
+DoughsR38_animalSnake,entityclasses,Entity,,,Puma
+DoughsR390_animalCoyote,entityclasses,Entity,,,Alaric the Yawningly Impure
+DoughsR391_animalZombieDog,entityclasses,Entity,,,Golden the Quirkily Warm
+DoughsR392_animalMountainLion,entityclasses,Entity,,,Santiago the Wee
+DoughsR393_animalBoar,entityclasses,Entity,,,Snowball the Suspiciously Perverted and Carefree
+DoughsR394_animalDireWolf,entityclasses,Entity,,,Buttermilk the Wetly Decisive
+DoughsR395_animalWolf,entityclasses,Entity,,,Couch Potato
+DoughsR396_animalZombieBear,entityclasses,Entity,,,Lonesome the Subsequent
+DoughsR397_animalZombieVultureRadiated,entityclasses,Entity,,,Jazmine the Furious
+DoughsR398_animalSnake,entityclasses,Entity,,,Samantha the Joyously Densely Moronic and Subsequent
+DoughsR399_animalBossGrace,entityclasses,Entity,,,Kaisley the Convincing and Foolish
+DoughsR39_animalBossGrace,entityclasses,Entity,,,Florian the Substantial
+DoughsR3_animalBossGrace,entityclasses,Entity,,,Sandy the Vivacious and Watchful
+DoughsR400_animalBear,entityclasses,Entity,,,Doodle Bug the Instantly Immaculate
+DoughsR401_animalZombieVulture,entityclasses,Entity,,,Hun
+DoughsR402_animalCoyote,entityclasses,Entity,,,Olivia the Adventurously Trashy
+DoughsR403_animalZombieDog,entityclasses,Entity,,,Giggles
+DoughsR404_animalMountainLion,entityclasses,Entity,,,Haley the Furious
+DoughsR405_animalBoar,entityclasses,Entity,,,Sheba the Zany Boar
+DoughsR406_animalDireWolf,entityclasses,Entity,,,Reese the Valiantly Several
+DoughsR407_animalWolf,entityclasses,Entity,,,Sean
+DoughsR408_animalZombieBear,entityclasses,Entity,,,Jo the Stark
+DoughsR409_animalZombieVultureRadiated,entityclasses,Entity,,,Butter Churner the Vile
+DoughsR40_animalBear,entityclasses,Entity,,,Luv Puppies the Gullible and Shod
+DoughsR410_animalSnake,entityclasses,Entity,,,Ellen the Hurried
+DoughsR411_animalBossGrace,entityclasses,Entity,,,Harriet the Cloistered and Arrogant
+DoughsR412_animalBear,entityclasses,Entity,,,Queen the Dearest
+DoughsR413_animalZombieVulture,entityclasses,Entity,,,Sugar Puss the Furiously Dangerous and Handsome
+DoughsR414_animalCoyote,entityclasses,Entity,,,Austyn the Highly Promiscuous and Trashy
+DoughsR415_animalZombieDog,entityclasses,Entity,,,Super Woman the Black Metal Zombie Dog
+DoughsR416_animalMountainLion,entityclasses,Entity,,,Reginald
+DoughsR417_animalBoar,entityclasses,Entity,,,Zoe the Scintillating
+DoughsR418_animalDireWolf,entityclasses,Entity,,,Cole the Shabby
+DoughsR419_animalWolf,entityclasses,Entity,,,Jacob the Mental
+DoughsR41_animalZombieVulture,entityclasses,Entity,,,Tiger Toes the Commonly Bloody
+DoughsR420_animalZombieBear,entityclasses,Entity,,,Conner the Far Impatient and Starry
+DoughsR421_animalZombieVultureRadiated,entityclasses,Entity,,,Paxton the Often Growling
+DoughsR422_animalSnake,entityclasses,Entity,,,Holden the Faithfully Teeming
+DoughsR423_animalBossGrace,entityclasses,Entity,,,Rebel the Interestingly Frayed
+DoughsR424_animalBear,entityclasses,Entity,,,Apple the Slap Happy Bear
+DoughsR425_animalZombieVulture,entityclasses,Entity,,,Lubber the Severe Zombie Vulture
+DoughsR426_animalCoyote,entityclasses,Entity,,,Kylo the Exactly Boring and Shocking
+DoughsR427_animalZombieDog,entityclasses,Entity,,,Baby Angel the Solemnly Taboo
+DoughsR428_animalMountainLion,entityclasses,Entity,,,Pecos the Terribly Mysterious
+DoughsR429_animalBoar,entityclasses,Entity,,,Baby Doll the Bewitching and Problem-solving
+DoughsR42_animalCoyote,entityclasses,Entity,,,Stormy the Hopefully House-broken
+DoughsR430_animalDireWolf,entityclasses,Entity,,,Demi the Lame
+DoughsR431_animalWolf,entityclasses,Entity,,,Kian the Stealthily Cloudy
+DoughsR432_animalZombieBear,entityclasses,Entity,,,Malia the Continually Sweaty
+DoughsR433_animalZombieVultureRadiated,entityclasses,Entity,,,Shiloh the Neatly Bloodcurdling and Idiotic
+DoughsR434_animalSnake,entityclasses,Entity,,,Kaitlyn the Always Always Demonic and Very Tacky
+DoughsR435_animalBossGrace,entityclasses,Entity,,,Scooner
+DoughsR436_animalBear,entityclasses,Entity,,,Sugams the Sweet Bear
+DoughsR437_animalZombieVulture,entityclasses,Entity,,,Dusty the Immediate Zombie Vulture
+DoughsR438_animalCoyote,entityclasses,Entity,,,Catamaran the Morose
+DoughsR439_animalZombieDog,entityclasses,Entity,,,Fluffy the Irritating and Edible
+DoughsR43_animalZombieDog,entityclasses,Entity,,,Sugar the Decayed Zombie Dog
+DoughsR440_animalMountainLion,entityclasses,Entity,,,Luella
+DoughsR441_animalBoar,entityclasses,Entity,,,Beautiful the Knowledgeably Crockpot Of Sadness
+DoughsR442_animalDireWolf,entityclasses,Entity,,,Warrior the Eccentric and Very Colossal
+DoughsR443_animalWolf,entityclasses,Entity,,,Jed the Irritable
+DoughsR444_animalZombieBear,entityclasses,Entity,,,Picasso the Corpselike
+DoughsR445_animalZombieVultureRadiated,entityclasses,Entity,,,Saul the Wee and Selective
+DoughsR446_animalSnake,entityclasses,Entity,,,Vienna the Scornful
+DoughsR447_animalBossGrace,entityclasses,Entity,,,Paris
+DoughsR448_animalBear,entityclasses,Entity,,,Cakes
+DoughsR449_animalZombieVulture,entityclasses,Entity,,,Anchor the Totally Smelly Zombie Vulture
+DoughsR44_animalMountainLion,entityclasses,Entity,,,Kaya the Bat-shit Crazy and Industrious
+DoughsR450_animalCoyote,entityclasses,Entity,,,Jakob
+DoughsR451_animalZombieDog,entityclasses,Entity,,,Butterfly the Staid and Trainable
+DoughsR452_animalMountainLion,entityclasses,Entity,,,Kayleigh the Painfully Honest and Shocking
+DoughsR453_animalBoar,entityclasses,Entity,,,Puppy
+DoughsR454_animalDireWolf,entityclasses,Entity,,,Hadley the Hilarious and Resentful
+DoughsR455_animalWolf,entityclasses,Entity,,,Nolan the Empty
+DoughsR456_animalZombieBear,entityclasses,Entity,,,Mingo the Imported and Shitty
+DoughsR457_animalZombieVultureRadiated,entityclasses,Entity,,,Ever the Pestilent
+DoughsR458_animalSnake,entityclasses,Entity,,,Nico the Dangerous
+DoughsR459_animalBossGrace,entityclasses,Entity,,,Teacup the Illegal
+DoughsR45_animalBoar,entityclasses,Entity,,,Cuddle Cakes the Drunken and Smart
+DoughsR460_animalBear,entityclasses,Entity,,,Lion King the Very Ill and Wild
+DoughsR461_animalZombieVulture,entityclasses,Entity,,,Rum-rum the Immaterial and Bawdy
+DoughsR462_animalCoyote,entityclasses,Entity,,,Jerome the Zesty
+DoughsR463_animalZombieDog,entityclasses,Entity,,,Sugar Pie the Wormy
+DoughsR464_animalMountainLion,entityclasses,Entity,,,Devin the Heavily Close and Incompetent
+DoughsR465_animalBoar,entityclasses,Entity,,,Patches the Frightfully Second-hand and Crazy
+DoughsR466_animalDireWolf,entityclasses,Entity,,,Apache
+DoughsR467_animalWolf,entityclasses,Entity,,,Evie the Solemnly Unearthly and Coarse
+DoughsR468_animalZombieBear,entityclasses,Entity,,,Harold the Willfully Constant
+DoughsR469_animalZombieVultureRadiated,entityclasses,Entity,,,Carson the Self-centered and Mummified
+DoughsR46_animalDireWolf,entityclasses,Entity,,,Arso the Reproachfully Jaded
+DoughsR470_animalSnake,entityclasses,Entity,,,Texas
+DoughsR471_animalBossGrace,entityclasses,Entity,,,Marley the Coherent and Lightly Backstabbing
+DoughsR472_animalBear,entityclasses,Entity,,,Sheba the Frantically Scented and Cooperative
+DoughsR473_animalZombieVulture,entityclasses,Entity,,,Lala the Cruel Zombie Vulture
+DoughsR474_animalCoyote,entityclasses,Entity,,,Pierce the Impish and Cruel
+DoughsR475_animalZombieDog,entityclasses,Entity,,,Schmoopy the Even Sad Zombie Dog
+DoughsR476_animalMountainLion,entityclasses,Entity,,,Jordyn the Unsteady
+DoughsR477_animalBoar,entityclasses,Entity,,,Little Dove
+DoughsR478_animalDireWolf,entityclasses,Entity,,,Ruth
+DoughsR479_animalWolf,entityclasses,Entity,,,Elaina the Frizzy and Juvenile
+DoughsR47_animalWolf,entityclasses,Entity,,,Avis the Sure-footed and Guilty
+DoughsR480_animalZombieBear,entityclasses,Entity,,,Magnolia
+DoughsR481_animalZombieVultureRadiated,entityclasses,Entity,,,Dennis the Hopefully House-broken and Webbed
+DoughsR482_animalSnake,entityclasses,Entity,,,Minnie the Greatly Childish
+DoughsR483_animalBossGrace,entityclasses,Entity,,,Summer the Furious and Impertinent
+DoughsR484_animalBear,entityclasses,Entity,,,Mooky the Shocking and Needy
+DoughsR485_animalZombieVulture,entityclasses,Entity,,,Pancake the Damaged Zombie Vulture
+DoughsR486_animalCoyote,entityclasses,Entity,,,Onyx the Obviously Furious
+DoughsR487_animalZombieDog,entityclasses,Entity,,,Love Bug
+DoughsR488_animalMountainLion,entityclasses,Entity,,,Maren the Warmly Subsequent
+DoughsR489_animalBoar,entityclasses,Entity,,,Honey Bunny the Likely Reprehensible
+DoughsR48_animalZombieBear,entityclasses,Entity,,,Tinsley the Delayed
+DoughsR490_animalDireWolf,entityclasses,Entity,,,Zayd the Humming and Hyper Miserable
+DoughsR491_animalWolf,entityclasses,Entity,,,Harbor the Mostly Dismal
+DoughsR492_animalZombieBear,entityclasses,Entity,,,Kali the Densely Moronic
+DoughsR493_animalZombieVultureRadiated,entityclasses,Entity,,,Elsa the Slimy
+DoughsR494_animalSnake,entityclasses,Entity,,,Trucker the Colorful
+DoughsR495_animalBossGrace,entityclasses,Entity,,,Eleazar the Crazy and Indolent
+DoughsR496_animalBear,entityclasses,Entity,,,Captain the Very Chauvinistic Bear
+DoughsR497_animalZombieVulture,entityclasses,Entity,,,Bumpkin the Sweaty Zombie Vulture
+DoughsR498_animalCoyote,entityclasses,Entity,,,Lumpy the Lightly Backstabbing
+DoughsR499_animalZombieDog,entityclasses,Entity,,,Trouble the Adamant
+DoughsR49_animalZombieVultureRadiated,entityclasses,Entity,,,Jaycee the Jumbled and Homely
+DoughsR4_animalBear,entityclasses,Entity,,,Joy the Illiterate Bear
+DoughsR500_animalMountainLion,entityclasses,Entity,,,Victory the Hopefully House-broken
+DoughsR501_animalBoar,entityclasses,Entity,,,Pudding the Shyly Insecure and Agile
+DoughsR502_animalDireWolf,entityclasses,Entity,,,Alfredo
+DoughsR503_animalWolf,entityclasses,Entity,,,Bonnie the Fiercely-loyal
+DoughsR504_animalZombieBear,entityclasses,Entity,,,Edward
+DoughsR505_animalZombieVultureRadiated,entityclasses,Entity,,,Lucky the Cheating
+DoughsR506_animalSnake,entityclasses,Entity,,,Cassandra the Mostly Acoustic
+DoughsR507_animalBossGrace,entityclasses,Entity,,,Lonesome the Tenuous and Conscious
+DoughsR508_animalBear,entityclasses,Entity,,,Ducky the Tightly Irritable Bear
+DoughsR509_animalZombieVulture,entityclasses,Entity,,,Dear Heart the Separately Tenuous
+DoughsR50_animalSnake,entityclasses,Entity,,,Romina the Black Metal and Shitty
+DoughsR510_animalCoyote,entityclasses,Entity,,,Brinley the Fully Gruely Boring
+DoughsR511_animalZombieDog,entityclasses,Entity,,,Handsome
+DoughsR512_animalMountainLion,entityclasses,Entity,,,Kyler the Jaunty
+DoughsR513_animalBoar,entityclasses,Entity,,,Bumpkin the Crawly
+DoughsR514_animalDireWolf,entityclasses,Entity,,,Stetson the Insanely Creepy
+DoughsR515_animalWolf,entityclasses,Entity,,,King the Vivaciously Lewd
+DoughsR516_animalZombieBear,entityclasses,Entity,,,Hector the Upward Useless
+DoughsR517_animalZombieVultureRadiated,entityclasses,Entity,,,Avis the Four
+DoughsR518_animalSnake,entityclasses,Entity,,,Connor
+DoughsR519_animalBossGrace,entityclasses,Entity,,,Dusty the Queasily Lowlife
+DoughsR51_animalBossGrace,entityclasses,Entity,,,Sincere the Dumb
+DoughsR520_animalBear,entityclasses,Entity,,,Luv the Seemingly Angry Bear
+DoughsR521_animalZombieVulture,entityclasses,Entity,,,Pretty Girl the Slap Happy and Pure
+DoughsR522_animalCoyote,entityclasses,Entity,,,Natalie the Continually Fiercely Loyal and Unknown
+DoughsR523_animalZombieDog,entityclasses,Entity,,,Cuddles the Knavishly Four
+DoughsR524_animalMountainLion,entityclasses,Entity,,,Daniella the Scared
+DoughsR525_animalBoar,entityclasses,Entity,,,Mia
+DoughsR526_animalDireWolf,entityclasses,Entity,,,Edith
+DoughsR527_animalWolf,entityclasses,Entity,,,Solace the Tame and Annoying
+DoughsR528_animalZombieBear,entityclasses,Entity,,,Dominick
+DoughsR529_animalZombieVultureRadiated,entityclasses,Entity,,,Zendaya the Talented and Freak In the Sheets
+DoughsR52_animalBear,entityclasses,Entity,,,Spark the Tangible Bear
+DoughsR530_animalSnake,entityclasses,Entity,,,Avianna the Vital
+DoughsR531_animalBossGrace,entityclasses,Entity,,,Mingo the Adhoc
+DoughsR532_animalBear,entityclasses,Entity,,,Snugglebuns the Impertinent
+DoughsR533_animalZombieVulture,entityclasses,Entity,,,Lion King the Underhanded and Heavenly
+DoughsR534_animalCoyote,entityclasses,Entity,,,Judah the Impatient
+DoughsR535_animalZombieDog,entityclasses,Entity,,,Baby Boy the Satisfying
+DoughsR536_animalMountainLion,entityclasses,Entity,,,Aryan the Constant
+DoughsR537_animalBoar,entityclasses,Entity,,,Beef Jerkey
+DoughsR538_animalDireWolf,entityclasses,Entity,,,Killian
+DoughsR539_animalWolf,entityclasses,Entity,,,Spook
+DoughsR53_animalZombieVulture,entityclasses,Entity,,,Oscar the Icky Zombie Vulture
+DoughsR540_animalZombieBear,entityclasses,Entity,,,Tippy the Aberrant and Obnoxious
+DoughsR541_animalZombieVultureRadiated,entityclasses,Entity,,,Stevie the Clumsy and Sorta Deceased
+DoughsR542_animalSnake,entityclasses,Entity,,,Amaia the Upward Fragrant and Abashed
+DoughsR543_animalBossGrace,entityclasses,Entity,,,Henley the Squiggly
+DoughsR544_animalBear,entityclasses,Entity,,,Zoey the Very Scary
+DoughsR545_animalZombieVulture,entityclasses,Entity,,,Teardrop the Silent
+DoughsR546_animalCoyote,entityclasses,Entity,,,Daniel
+DoughsR547_animalZombieDog,entityclasses,Entity,,,Sexyness the Superior Zombie Dog
+DoughsR548_animalMountainLion,entityclasses,Entity,,,Willow the Straight
+DoughsR549_animalBoar,entityclasses,Entity,,,Hunk the Haggard
+DoughsR54_animalCoyote,entityclasses,Entity,,,Mckinley the Wrongly Unruly
+DoughsR550_animalDireWolf,entityclasses,Entity,,,Emmett
+DoughsR551_animalWolf,entityclasses,Entity,,,Bandy
+DoughsR552_animalZombieBear,entityclasses,Entity,,,Alondra the Surprisingly United
+DoughsR553_animalZombieVultureRadiated,entityclasses,Entity,,,Wyatt the Reproachfully Cold
+DoughsR554_animalSnake,entityclasses,Entity,,,Alistair the Shocking
+DoughsR555_animalBossGrace,entityclasses,Entity,,,Coco the Indecent
+DoughsR556_animalBear,entityclasses,Entity,,,Lamb the Futuristic and Agreeable
+DoughsR557_animalZombieVulture,entityclasses,Entity,,,Gum Drop the Abominable and Faithful
+DoughsR558_animalCoyote,entityclasses,Entity,,,Addilynn the Vital and Oddly Chauvinistic
+DoughsR559_animalZombieDog,entityclasses,Entity,,,Lubber the Uninterested Zombie Dog
+DoughsR55_animalZombieDog,entityclasses,Entity,,,Snuggley Bear
+DoughsR560_animalMountainLion,entityclasses,Entity,,,Lucia the Scarily Sturdy
+DoughsR561_animalBoar,entityclasses,Entity,,,Kitten the Unselfish Boar
+DoughsR562_animalDireWolf,entityclasses,Entity,,,Lennon the Vengeful
+DoughsR563_animalWolf,entityclasses,Entity,,,Crosby the Dimly Weird
+DoughsR564_animalZombieBear,entityclasses,Entity,,,Dexter the Always Demonic and Self-centered
+DoughsR565_animalZombieVultureRadiated,entityclasses,Entity,,,Carly the Helpfully Tangible
+DoughsR566_animalSnake,entityclasses,Entity,,,Gulliver the Reassuringly Super Lame
+DoughsR567_animalBossGrace,entityclasses,Entity,,,Cassandra
+DoughsR568_animalBear,entityclasses,Entity,,,Gorgeous the Hourly Unselfish
+DoughsR569_animalZombieVulture,entityclasses,Entity,,,Jasper the Deceivingly Moody
+DoughsR56_animalMountainLion,entityclasses,Entity,,,Crimson the Underhanded
+DoughsR570_animalCoyote,entityclasses,Entity,,,Alora the Regularly Serious and Zesty
+DoughsR571_animalZombieDog,entityclasses,Entity,,,Tinkerbell the Slowly Shivering Zombie Dog
+DoughsR572_animalMountainLion,entityclasses,Entity,,,Rocco the Unhealthy and Fragrant
+DoughsR573_animalBoar,entityclasses,Entity,,,Goofy the Steadfast Boar
+DoughsR574_animalDireWolf,entityclasses,Entity,,,Zenia
+DoughsR575_animalWolf,entityclasses,Entity,,,Anita Bath the Humble and Inconclusive
+DoughsR576_animalZombieBear,entityclasses,Entity,,,Jacqueline the Secondary
+DoughsR577_animalZombieVultureRadiated,entityclasses,Entity,,,Alexis the Fiercely-loyal
+DoughsR578_animalSnake,entityclasses,Entity,,,Nalani the Surprisingly Considerate
+DoughsR579_animalBossGrace,entityclasses,Entity,,,Quervo the Scarily Filthy
+DoughsR57_animalBoar,entityclasses,Entity,,,Petal the Humiliating
+DoughsR580_animalBear,entityclasses,Entity,,,Queenie the Quizzically Metal and Thoughtful
+DoughsR581_animalZombieVulture,entityclasses,Entity,,,Jasmine the Furiously Inhuman and Best
+DoughsR582_animalCoyote,entityclasses,Entity,,,Diego
+DoughsR583_animalZombieDog,entityclasses,Entity,,,Loveylove
+DoughsR584_animalMountainLion,entityclasses,Entity,,,Hickory the Violet and Witless
+DoughsR585_animalBoar,entityclasses,Entity,,,Spunky the Properly Squiggly Boar
+DoughsR586_animalDireWolf,entityclasses,Entity,,,Domino the Justly Dearest and Voluminous
+DoughsR587_animalWolf,entityclasses,Entity,,,Partner the Secret
+DoughsR588_animalZombieBear,entityclasses,Entity,,,Professor the Interestingly Blathering
+DoughsR589_animalZombieVultureRadiated,entityclasses,Entity,,,Eliseo the Inquisitive
+DoughsR58_animalDireWolf,entityclasses,Entity,,,Siena
+DoughsR590_animalSnake,entityclasses,Entity,,,Spot the Obviously Friendless
+DoughsR591_animalBossGrace,entityclasses,Entity,,,Blake
+DoughsR592_animalBear,entityclasses,Entity,,,Willow the Unnaturally Impure
+DoughsR593_animalZombieVulture,entityclasses,Entity,,,Cuddle Cakes the Inappropriate Zombie Vulture
+DoughsR594_animalCoyote,entityclasses,Entity,,,Addilynn
+DoughsR595_animalZombieDog,entityclasses,Entity,,,Bubby the Coherent Zombie Dog
+DoughsR596_animalMountainLion,entityclasses,Entity,,,Baker the Offensive
+DoughsR597_animalBoar,entityclasses,Entity,,,Peach the Pissed Boar
+DoughsR598_animalDireWolf,entityclasses,Entity,,,Arlette the Haunted
+DoughsR599_animalWolf,entityclasses,Entity,,,Journi the Icky
+DoughsR59_animalWolf,entityclasses,Entity,,,Dixie the Majestically Unique
+DoughsR5_animalZombieVulture,entityclasses,Entity,,,Muffinhead
+DoughsR600_animalZombieBear,entityclasses,Entity,,,Leia the Defective
+DoughsR601_animalZombieVultureRadiated,entityclasses,Entity,,,Mauricio
+DoughsR60_animalZombieBear,entityclasses,Entity,,,Irene the Fiercely Frightened
+DoughsR61_animalZombieVultureRadiated,entityclasses,Entity,,,Jazlyn the Academic
+DoughsR62_animalSnake,entityclasses,Entity,,,Evan
+DoughsR63_animalBossGrace,entityclasses,Entity,,,Helen the Adaptable
+DoughsR64_animalBear,entityclasses,Entity,,,Bandit the Unapologetic
+DoughsR65_animalZombieVulture,entityclasses,Entity,,,Rum-rum the Thankfully Lowlife and Rescued
+DoughsR66_animalCoyote,entityclasses,Entity,,,Destiny the Howling
+DoughsR67_animalZombieDog,entityclasses,Entity,,,Lilly the Especially Taut Zombie Dog
+DoughsR68_animalMountainLion,entityclasses,Entity,,,Natacha
+DoughsR69_animalBoar,entityclasses,Entity,,,Superstar the Jazzy
+DoughsR6_animalCoyote,entityclasses,Entity,,,Bailee the Stable
+DoughsR70_animalDireWolf,entityclasses,Entity,,,Bowie the Clearly 1970s Tragic
+DoughsR71_animalWolf,entityclasses,Entity,,,Renegade the Aching and Underhanded
+DoughsR72_animalZombieBear,entityclasses,Entity,,,Timber the Squealing and Wandering
+DoughsR73_animalZombieVultureRadiated,entityclasses,Entity,,,Joshua the Serene and Impeccable
+DoughsR74_animalSnake,entityclasses,Entity,,,Kyle the Very Dumb
+DoughsR75_animalBossGrace,entityclasses,Entity,,,Amethyst the Frightful and Unsteady
+DoughsR76_animalBear,entityclasses,Entity,,,Hotness the Cute But Demonic Bear
+DoughsR77_animalZombieVulture,entityclasses,Entity,,,Lover Boy the Jam-packed Zombie Vulture
+DoughsR78_animalCoyote,entityclasses,Entity,,,Nicole the Hopelessly Ideal and Irrational
+DoughsR79_animalZombieDog,entityclasses,Entity,,,Twinkle the Infinitely Sad Zombie Dog
+DoughsR7_animalZombieDog,entityclasses,Entity,,,Moonsine the Ugly Zombie Dog
+DoughsR80_animalMountainLion,entityclasses,Entity,,,Easton the Slap Happy
+DoughsR81_animalBoar,entityclasses,Entity,,,Baby Boy the Knavishly Shameless and Harmonious
+DoughsR82_animalDireWolf,entityclasses,Entity,,,Marengo the Very Spoiled and Aback
+DoughsR83_animalWolf,entityclasses,Entity,,,Eleazar the At-the-ready
+DoughsR84_animalZombieBear,entityclasses,Entity,,,Ishaan the Delightfully Sexy
+DoughsR85_animalZombieVultureRadiated,entityclasses,Entity,,,Kashton the Combative
+DoughsR86_animalSnake,entityclasses,Entity,,,Aileen the Wormy and Insensitive
+DoughsR87_animalBossGrace,entityclasses,Entity,,,Adrien the Cloistered
+DoughsR88_animalBear,entityclasses,Entity,,,Mookie-pookie Bear the Malformed
+DoughsR89_animalZombieVulture,entityclasses,Entity,,,Lubber the Usefully Front
+DoughsR8_animalMountainLion,entityclasses,Entity,,,Nora the Potentially Unknown
+DoughsR90_animalCoyote,entityclasses,Entity,,,Elsie
+DoughsR91_animalZombieDog,entityclasses,Entity,,,Ducky the Highly Abusive and Magnificent
+DoughsR92_animalMountainLion,entityclasses,Entity,,,Johnathan the Infatuated
+DoughsR93_animalBoar,entityclasses,Entity,,,Doobie the Colorfully Painfully Lewd Boar
+DoughsR94_animalDireWolf,entityclasses,Entity,,,Tommy the Grounded
+DoughsR95_animalWolf,entityclasses,Entity,,,Elliott the Far Infuriated and Tangy
+DoughsR96_animalZombieBear,entityclasses,Entity,,,Pawnee the Shady and Boring
+DoughsR97_animalZombieVultureRadiated,entityclasses,Entity,,,Oaklynn the Harmful
+DoughsR98_animalSnake,entityclasses,Entity,,,Brendan the Damaging
+DoughsR99_animalBossGrace,entityclasses,Entity,,,Summer the Welcome and Unkempt
+DoughsR9_animalBoar,entityclasses,Entity,,,Sugar the Broadly Damaging

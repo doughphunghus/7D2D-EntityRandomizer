@@ -1,0 +1,1422 @@
+<Doughs>
+<append xpath="/entitygroups/entitygroup[@name='AnimalsFarm']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='AnimalsSmall']">
+	<entity name="DoughsR101_animalRabbit"/>
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR105_animalRabbit"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR109_animalRabbit"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR113_animalRabbit"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR117_animalRabbit"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR121_animalRabbit"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR125_animalRabbit"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR129_animalRabbit"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR133_animalRabbit"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR137_animalRabbit"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR13_animalRabbit"/>
+	<entity name="DoughsR141_animalRabbit"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR145_animalRabbit"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR149_animalRabbit"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR153_animalRabbit"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR157_animalRabbit"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR161_animalRabbit"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR165_animalRabbit"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR169_animalRabbit"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR173_animalRabbit"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR177_animalRabbit"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR17_animalRabbit"/>
+	<entity name="DoughsR181_animalRabbit"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR185_animalRabbit"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR189_animalRabbit"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR193_animalRabbit"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR197_animalRabbit"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR201_animalRabbit"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR205_animalRabbit"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR209_animalRabbit"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR213_animalRabbit"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR217_animalRabbit"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR21_animalRabbit"/>
+	<entity name="DoughsR221_animalRabbit"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR225_animalRabbit"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR229_animalRabbit"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR233_animalRabbit"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR237_animalRabbit"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR241_animalRabbit"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR245_animalRabbit"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR249_animalRabbit"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR253_animalRabbit"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR257_animalRabbit"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR25_animalRabbit"/>
+	<entity name="DoughsR261_animalRabbit"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR265_animalRabbit"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR269_animalRabbit"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR273_animalRabbit"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR277_animalRabbit"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR281_animalRabbit"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR285_animalRabbit"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR289_animalRabbit"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR293_animalRabbit"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR297_animalRabbit"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR29_animalRabbit"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR301_animalRabbit"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR305_animalRabbit"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR309_animalRabbit"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR313_animalRabbit"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR317_animalRabbit"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR321_animalRabbit"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR325_animalRabbit"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR329_animalRabbit"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR333_animalRabbit"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR337_animalRabbit"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR33_animalRabbit"/>
+	<entity name="DoughsR341_animalRabbit"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR345_animalRabbit"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR349_animalRabbit"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR353_animalRabbit"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR357_animalRabbit"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR361_animalRabbit"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR365_animalRabbit"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR369_animalRabbit"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR373_animalRabbit"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR377_animalRabbit"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR37_animalRabbit"/>
+	<entity name="DoughsR381_animalRabbit"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR385_animalRabbit"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR389_animalRabbit"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR393_animalRabbit"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR397_animalRabbit"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR401_animalRabbit"/>
+	<entity name="DoughsR41_animalRabbit"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR45_animalRabbit"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR49_animalRabbit"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR53_animalRabbit"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR57_animalRabbit"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR5_animalRabbit"/>
+	<entity name="DoughsR61_animalRabbit"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR65_animalRabbit"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR69_animalRabbit"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR73_animalRabbit"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR77_animalRabbit"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR81_animalRabbit"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR85_animalRabbit"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR89_animalRabbit"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR93_animalRabbit"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR97_animalRabbit"/>
+	<entity name="DoughsR98_animalChicken"/>
+	<entity name="DoughsR9_animalRabbit"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='WildGameForest']">
+	<entity name="DoughsR100_animalStag" prob="1"/>
+	<entity name="DoughsR101_animalRabbit" prob="48"/>
+	<entity name="DoughsR102_animalChicken" prob="48"/>
+	<entity name="DoughsR103_animalDoe" prob="1"/>
+	<entity name="DoughsR104_animalStag" prob="1"/>
+	<entity name="DoughsR105_animalRabbit" prob="48"/>
+	<entity name="DoughsR106_animalChicken" prob="48"/>
+	<entity name="DoughsR107_animalDoe" prob="1"/>
+	<entity name="DoughsR108_animalStag" prob="1"/>
+	<entity name="DoughsR109_animalRabbit" prob="48"/>
+	<entity name="DoughsR10_animalChicken" prob="48"/>
+	<entity name="DoughsR110_animalChicken" prob="48"/>
+	<entity name="DoughsR111_animalDoe" prob="1"/>
+	<entity name="DoughsR112_animalStag" prob="1"/>
+	<entity name="DoughsR113_animalRabbit" prob="48"/>
+	<entity name="DoughsR114_animalChicken" prob="48"/>
+	<entity name="DoughsR115_animalDoe" prob="1"/>
+	<entity name="DoughsR116_animalStag" prob="1"/>
+	<entity name="DoughsR117_animalRabbit" prob="48"/>
+	<entity name="DoughsR118_animalChicken" prob="48"/>
+	<entity name="DoughsR119_animalDoe" prob="1"/>
+	<entity name="DoughsR11_animalDoe" prob="1"/>
+	<entity name="DoughsR120_animalStag" prob="1"/>
+	<entity name="DoughsR121_animalRabbit" prob="48"/>
+	<entity name="DoughsR122_animalChicken" prob="48"/>
+	<entity name="DoughsR123_animalDoe" prob="1"/>
+	<entity name="DoughsR124_animalStag" prob="1"/>
+	<entity name="DoughsR125_animalRabbit" prob="48"/>
+	<entity name="DoughsR126_animalChicken" prob="48"/>
+	<entity name="DoughsR127_animalDoe" prob="1"/>
+	<entity name="DoughsR128_animalStag" prob="1"/>
+	<entity name="DoughsR129_animalRabbit" prob="48"/>
+	<entity name="DoughsR12_animalStag" prob="1"/>
+	<entity name="DoughsR130_animalChicken" prob="48"/>
+	<entity name="DoughsR131_animalDoe" prob="1"/>
+	<entity name="DoughsR132_animalStag" prob="1"/>
+	<entity name="DoughsR133_animalRabbit" prob="48"/>
+	<entity name="DoughsR134_animalChicken" prob="48"/>
+	<entity name="DoughsR135_animalDoe" prob="1"/>
+	<entity name="DoughsR136_animalStag" prob="1"/>
+	<entity name="DoughsR137_animalRabbit" prob="48"/>
+	<entity name="DoughsR138_animalChicken" prob="48"/>
+	<entity name="DoughsR139_animalDoe" prob="1"/>
+	<entity name="DoughsR13_animalRabbit" prob="48"/>
+	<entity name="DoughsR140_animalStag" prob="1"/>
+	<entity name="DoughsR141_animalRabbit" prob="48"/>
+	<entity name="DoughsR142_animalChicken" prob="48"/>
+	<entity name="DoughsR143_animalDoe" prob="1"/>
+	<entity name="DoughsR144_animalStag" prob="1"/>
+	<entity name="DoughsR145_animalRabbit" prob="48"/>
+	<entity name="DoughsR146_animalChicken" prob="48"/>
+	<entity name="DoughsR147_animalDoe" prob="1"/>
+	<entity name="DoughsR148_animalStag" prob="1"/>
+	<entity name="DoughsR149_animalRabbit" prob="48"/>
+	<entity name="DoughsR14_animalChicken" prob="48"/>
+	<entity name="DoughsR150_animalChicken" prob="48"/>
+	<entity name="DoughsR151_animalDoe" prob="1"/>
+	<entity name="DoughsR152_animalStag" prob="1"/>
+	<entity name="DoughsR153_animalRabbit" prob="48"/>
+	<entity name="DoughsR154_animalChicken" prob="48"/>
+	<entity name="DoughsR155_animalDoe" prob="1"/>
+	<entity name="DoughsR156_animalStag" prob="1"/>
+	<entity name="DoughsR157_animalRabbit" prob="48"/>
+	<entity name="DoughsR158_animalChicken" prob="48"/>
+	<entity name="DoughsR159_animalDoe" prob="1"/>
+	<entity name="DoughsR15_animalDoe" prob="1"/>
+	<entity name="DoughsR160_animalStag" prob="1"/>
+	<entity name="DoughsR161_animalRabbit" prob="48"/>
+	<entity name="DoughsR162_animalChicken" prob="48"/>
+	<entity name="DoughsR163_animalDoe" prob="1"/>
+	<entity name="DoughsR164_animalStag" prob="1"/>
+	<entity name="DoughsR165_animalRabbit" prob="48"/>
+	<entity name="DoughsR166_animalChicken" prob="48"/>
+	<entity name="DoughsR167_animalDoe" prob="1"/>
+	<entity name="DoughsR168_animalStag" prob="1"/>
+	<entity name="DoughsR169_animalRabbit" prob="48"/>
+	<entity name="DoughsR16_animalStag" prob="1"/>
+	<entity name="DoughsR170_animalChicken" prob="48"/>
+	<entity name="DoughsR171_animalDoe" prob="1"/>
+	<entity name="DoughsR172_animalStag" prob="1"/>
+	<entity name="DoughsR173_animalRabbit" prob="48"/>
+	<entity name="DoughsR174_animalChicken" prob="48"/>
+	<entity name="DoughsR175_animalDoe" prob="1"/>
+	<entity name="DoughsR176_animalStag" prob="1"/>
+	<entity name="DoughsR177_animalRabbit" prob="48"/>
+	<entity name="DoughsR178_animalChicken" prob="48"/>
+	<entity name="DoughsR179_animalDoe" prob="1"/>
+	<entity name="DoughsR17_animalRabbit" prob="48"/>
+	<entity name="DoughsR180_animalStag" prob="1"/>
+	<entity name="DoughsR181_animalRabbit" prob="48"/>
+	<entity name="DoughsR182_animalChicken" prob="48"/>
+	<entity name="DoughsR183_animalDoe" prob="1"/>
+	<entity name="DoughsR184_animalStag" prob="1"/>
+	<entity name="DoughsR185_animalRabbit" prob="48"/>
+	<entity name="DoughsR186_animalChicken" prob="48"/>
+	<entity name="DoughsR187_animalDoe" prob="1"/>
+	<entity name="DoughsR188_animalStag" prob="1"/>
+	<entity name="DoughsR189_animalRabbit" prob="48"/>
+	<entity name="DoughsR18_animalChicken" prob="48"/>
+	<entity name="DoughsR190_animalChicken" prob="48"/>
+	<entity name="DoughsR191_animalDoe" prob="1"/>
+	<entity name="DoughsR192_animalStag" prob="1"/>
+	<entity name="DoughsR193_animalRabbit" prob="48"/>
+	<entity name="DoughsR194_animalChicken" prob="48"/>
+	<entity name="DoughsR195_animalDoe" prob="1"/>
+	<entity name="DoughsR196_animalStag" prob="1"/>
+	<entity name="DoughsR197_animalRabbit" prob="48"/>
+	<entity name="DoughsR198_animalChicken" prob="48"/>
+	<entity name="DoughsR199_animalDoe" prob="1"/>
+	<entity name="DoughsR19_animalDoe" prob="1"/>
+	<entity name="DoughsR200_animalStag" prob="1"/>
+	<entity name="DoughsR201_animalRabbit" prob="48"/>
+	<entity name="DoughsR202_animalChicken" prob="48"/>
+	<entity name="DoughsR203_animalDoe" prob="1"/>
+	<entity name="DoughsR204_animalStag" prob="1"/>
+	<entity name="DoughsR205_animalRabbit" prob="48"/>
+	<entity name="DoughsR206_animalChicken" prob="48"/>
+	<entity name="DoughsR207_animalDoe" prob="1"/>
+	<entity name="DoughsR208_animalStag" prob="1"/>
+	<entity name="DoughsR209_animalRabbit" prob="48"/>
+	<entity name="DoughsR20_animalStag" prob="1"/>
+	<entity name="DoughsR210_animalChicken" prob="48"/>
+	<entity name="DoughsR211_animalDoe" prob="1"/>
+	<entity name="DoughsR212_animalStag" prob="1"/>
+	<entity name="DoughsR213_animalRabbit" prob="48"/>
+	<entity name="DoughsR214_animalChicken" prob="48"/>
+	<entity name="DoughsR215_animalDoe" prob="1"/>
+	<entity name="DoughsR216_animalStag" prob="1"/>
+	<entity name="DoughsR217_animalRabbit" prob="48"/>
+	<entity name="DoughsR218_animalChicken" prob="48"/>
+	<entity name="DoughsR219_animalDoe" prob="1"/>
+	<entity name="DoughsR21_animalRabbit" prob="48"/>
+	<entity name="DoughsR220_animalStag" prob="1"/>
+	<entity name="DoughsR221_animalRabbit" prob="48"/>
+	<entity name="DoughsR222_animalChicken" prob="48"/>
+	<entity name="DoughsR223_animalDoe" prob="1"/>
+	<entity name="DoughsR224_animalStag" prob="1"/>
+	<entity name="DoughsR225_animalRabbit" prob="48"/>
+	<entity name="DoughsR226_animalChicken" prob="48"/>
+	<entity name="DoughsR227_animalDoe" prob="1"/>
+	<entity name="DoughsR228_animalStag" prob="1"/>
+	<entity name="DoughsR229_animalRabbit" prob="48"/>
+	<entity name="DoughsR22_animalChicken" prob="48"/>
+	<entity name="DoughsR230_animalChicken" prob="48"/>
+	<entity name="DoughsR231_animalDoe" prob="1"/>
+	<entity name="DoughsR232_animalStag" prob="1"/>
+	<entity name="DoughsR233_animalRabbit" prob="48"/>
+	<entity name="DoughsR234_animalChicken" prob="48"/>
+	<entity name="DoughsR235_animalDoe" prob="1"/>
+	<entity name="DoughsR236_animalStag" prob="1"/>
+	<entity name="DoughsR237_animalRabbit" prob="48"/>
+	<entity name="DoughsR238_animalChicken" prob="48"/>
+	<entity name="DoughsR239_animalDoe" prob="1"/>
+	<entity name="DoughsR23_animalDoe" prob="1"/>
+	<entity name="DoughsR240_animalStag" prob="1"/>
+	<entity name="DoughsR241_animalRabbit" prob="48"/>
+	<entity name="DoughsR242_animalChicken" prob="48"/>
+	<entity name="DoughsR243_animalDoe" prob="1"/>
+	<entity name="DoughsR244_animalStag" prob="1"/>
+	<entity name="DoughsR245_animalRabbit" prob="48"/>
+	<entity name="DoughsR246_animalChicken" prob="48"/>
+	<entity name="DoughsR247_animalDoe" prob="1"/>
+	<entity name="DoughsR248_animalStag" prob="1"/>
+	<entity name="DoughsR249_animalRabbit" prob="48"/>
+	<entity name="DoughsR24_animalStag" prob="1"/>
+	<entity name="DoughsR250_animalChicken" prob="48"/>
+	<entity name="DoughsR251_animalDoe" prob="1"/>
+	<entity name="DoughsR252_animalStag" prob="1"/>
+	<entity name="DoughsR253_animalRabbit" prob="48"/>
+	<entity name="DoughsR254_animalChicken" prob="48"/>
+	<entity name="DoughsR255_animalDoe" prob="1"/>
+	<entity name="DoughsR256_animalStag" prob="1"/>
+	<entity name="DoughsR257_animalRabbit" prob="48"/>
+	<entity name="DoughsR258_animalChicken" prob="48"/>
+	<entity name="DoughsR259_animalDoe" prob="1"/>
+	<entity name="DoughsR25_animalRabbit" prob="48"/>
+	<entity name="DoughsR260_animalStag" prob="1"/>
+	<entity name="DoughsR261_animalRabbit" prob="48"/>
+	<entity name="DoughsR262_animalChicken" prob="48"/>
+	<entity name="DoughsR263_animalDoe" prob="1"/>
+	<entity name="DoughsR264_animalStag" prob="1"/>
+	<entity name="DoughsR265_animalRabbit" prob="48"/>
+	<entity name="DoughsR266_animalChicken" prob="48"/>
+	<entity name="DoughsR267_animalDoe" prob="1"/>
+	<entity name="DoughsR268_animalStag" prob="1"/>
+	<entity name="DoughsR269_animalRabbit" prob="48"/>
+	<entity name="DoughsR26_animalChicken" prob="48"/>
+	<entity name="DoughsR270_animalChicken" prob="48"/>
+	<entity name="DoughsR271_animalDoe" prob="1"/>
+	<entity name="DoughsR272_animalStag" prob="1"/>
+	<entity name="DoughsR273_animalRabbit" prob="48"/>
+	<entity name="DoughsR274_animalChicken" prob="48"/>
+	<entity name="DoughsR275_animalDoe" prob="1"/>
+	<entity name="DoughsR276_animalStag" prob="1"/>
+	<entity name="DoughsR277_animalRabbit" prob="48"/>
+	<entity name="DoughsR278_animalChicken" prob="48"/>
+	<entity name="DoughsR279_animalDoe" prob="1"/>
+	<entity name="DoughsR27_animalDoe" prob="1"/>
+	<entity name="DoughsR280_animalStag" prob="1"/>
+	<entity name="DoughsR281_animalRabbit" prob="48"/>
+	<entity name="DoughsR282_animalChicken" prob="48"/>
+	<entity name="DoughsR283_animalDoe" prob="1"/>
+	<entity name="DoughsR284_animalStag" prob="1"/>
+	<entity name="DoughsR285_animalRabbit" prob="48"/>
+	<entity name="DoughsR286_animalChicken" prob="48"/>
+	<entity name="DoughsR287_animalDoe" prob="1"/>
+	<entity name="DoughsR288_animalStag" prob="1"/>
+	<entity name="DoughsR289_animalRabbit" prob="48"/>
+	<entity name="DoughsR28_animalStag" prob="1"/>
+	<entity name="DoughsR290_animalChicken" prob="48"/>
+	<entity name="DoughsR291_animalDoe" prob="1"/>
+	<entity name="DoughsR292_animalStag" prob="1"/>
+	<entity name="DoughsR293_animalRabbit" prob="48"/>
+	<entity name="DoughsR294_animalChicken" prob="48"/>
+	<entity name="DoughsR295_animalDoe" prob="1"/>
+	<entity name="DoughsR296_animalStag" prob="1"/>
+	<entity name="DoughsR297_animalRabbit" prob="48"/>
+	<entity name="DoughsR298_animalChicken" prob="48"/>
+	<entity name="DoughsR299_animalDoe" prob="1"/>
+	<entity name="DoughsR29_animalRabbit" prob="48"/>
+	<entity name="DoughsR2_animalChicken" prob="48"/>
+	<entity name="DoughsR300_animalStag" prob="1"/>
+	<entity name="DoughsR301_animalRabbit" prob="48"/>
+	<entity name="DoughsR302_animalChicken" prob="48"/>
+	<entity name="DoughsR303_animalDoe" prob="1"/>
+	<entity name="DoughsR304_animalStag" prob="1"/>
+	<entity name="DoughsR305_animalRabbit" prob="48"/>
+	<entity name="DoughsR306_animalChicken" prob="48"/>
+	<entity name="DoughsR307_animalDoe" prob="1"/>
+	<entity name="DoughsR308_animalStag" prob="1"/>
+	<entity name="DoughsR309_animalRabbit" prob="48"/>
+	<entity name="DoughsR30_animalChicken" prob="48"/>
+	<entity name="DoughsR310_animalChicken" prob="48"/>
+	<entity name="DoughsR311_animalDoe" prob="1"/>
+	<entity name="DoughsR312_animalStag" prob="1"/>
+	<entity name="DoughsR313_animalRabbit" prob="48"/>
+	<entity name="DoughsR314_animalChicken" prob="48"/>
+	<entity name="DoughsR315_animalDoe" prob="1"/>
+	<entity name="DoughsR316_animalStag" prob="1"/>
+	<entity name="DoughsR317_animalRabbit" prob="48"/>
+	<entity name="DoughsR318_animalChicken" prob="48"/>
+	<entity name="DoughsR319_animalDoe" prob="1"/>
+	<entity name="DoughsR31_animalDoe" prob="1"/>
+	<entity name="DoughsR320_animalStag" prob="1"/>
+	<entity name="DoughsR321_animalRabbit" prob="48"/>
+	<entity name="DoughsR322_animalChicken" prob="48"/>
+	<entity name="DoughsR323_animalDoe" prob="1"/>
+	<entity name="DoughsR324_animalStag" prob="1"/>
+	<entity name="DoughsR325_animalRabbit" prob="48"/>
+	<entity name="DoughsR326_animalChicken" prob="48"/>
+	<entity name="DoughsR327_animalDoe" prob="1"/>
+	<entity name="DoughsR328_animalStag" prob="1"/>
+	<entity name="DoughsR329_animalRabbit" prob="48"/>
+	<entity name="DoughsR32_animalStag" prob="1"/>
+	<entity name="DoughsR330_animalChicken" prob="48"/>
+	<entity name="DoughsR331_animalDoe" prob="1"/>
+	<entity name="DoughsR332_animalStag" prob="1"/>
+	<entity name="DoughsR333_animalRabbit" prob="48"/>
+	<entity name="DoughsR334_animalChicken" prob="48"/>
+	<entity name="DoughsR335_animalDoe" prob="1"/>
+	<entity name="DoughsR336_animalStag" prob="1"/>
+	<entity name="DoughsR337_animalRabbit" prob="48"/>
+	<entity name="DoughsR338_animalChicken" prob="48"/>
+	<entity name="DoughsR339_animalDoe" prob="1"/>
+	<entity name="DoughsR33_animalRabbit" prob="48"/>
+	<entity name="DoughsR340_animalStag" prob="1"/>
+	<entity name="DoughsR341_animalRabbit" prob="48"/>
+	<entity name="DoughsR342_animalChicken" prob="48"/>
+	<entity name="DoughsR343_animalDoe" prob="1"/>
+	<entity name="DoughsR344_animalStag" prob="1"/>
+	<entity name="DoughsR345_animalRabbit" prob="48"/>
+	<entity name="DoughsR346_animalChicken" prob="48"/>
+	<entity name="DoughsR347_animalDoe" prob="1"/>
+	<entity name="DoughsR348_animalStag" prob="1"/>
+	<entity name="DoughsR349_animalRabbit" prob="48"/>
+	<entity name="DoughsR34_animalChicken" prob="48"/>
+	<entity name="DoughsR350_animalChicken" prob="48"/>
+	<entity name="DoughsR351_animalDoe" prob="1"/>
+	<entity name="DoughsR352_animalStag" prob="1"/>
+	<entity name="DoughsR353_animalRabbit" prob="48"/>
+	<entity name="DoughsR354_animalChicken" prob="48"/>
+	<entity name="DoughsR355_animalDoe" prob="1"/>
+	<entity name="DoughsR356_animalStag" prob="1"/>
+	<entity name="DoughsR357_animalRabbit" prob="48"/>
+	<entity name="DoughsR358_animalChicken" prob="48"/>
+	<entity name="DoughsR359_animalDoe" prob="1"/>
+	<entity name="DoughsR35_animalDoe" prob="1"/>
+	<entity name="DoughsR360_animalStag" prob="1"/>
+	<entity name="DoughsR361_animalRabbit" prob="48"/>
+	<entity name="DoughsR362_animalChicken" prob="48"/>
+	<entity name="DoughsR363_animalDoe" prob="1"/>
+	<entity name="DoughsR364_animalStag" prob="1"/>
+	<entity name="DoughsR365_animalRabbit" prob="48"/>
+	<entity name="DoughsR366_animalChicken" prob="48"/>
+	<entity name="DoughsR367_animalDoe" prob="1"/>
+	<entity name="DoughsR368_animalStag" prob="1"/>
+	<entity name="DoughsR369_animalRabbit" prob="48"/>
+	<entity name="DoughsR36_animalStag" prob="1"/>
+	<entity name="DoughsR370_animalChicken" prob="48"/>
+	<entity name="DoughsR371_animalDoe" prob="1"/>
+	<entity name="DoughsR372_animalStag" prob="1"/>
+	<entity name="DoughsR373_animalRabbit" prob="48"/>
+	<entity name="DoughsR374_animalChicken" prob="48"/>
+	<entity name="DoughsR375_animalDoe" prob="1"/>
+	<entity name="DoughsR376_animalStag" prob="1"/>
+	<entity name="DoughsR377_animalRabbit" prob="48"/>
+	<entity name="DoughsR378_animalChicken" prob="48"/>
+	<entity name="DoughsR379_animalDoe" prob="1"/>
+	<entity name="DoughsR37_animalRabbit" prob="48"/>
+	<entity name="DoughsR380_animalStag" prob="1"/>
+	<entity name="DoughsR381_animalRabbit" prob="48"/>
+	<entity name="DoughsR382_animalChicken" prob="48"/>
+	<entity name="DoughsR383_animalDoe" prob="1"/>
+	<entity name="DoughsR384_animalStag" prob="1"/>
+	<entity name="DoughsR385_animalRabbit" prob="48"/>
+	<entity name="DoughsR386_animalChicken" prob="48"/>
+	<entity name="DoughsR387_animalDoe" prob="1"/>
+	<entity name="DoughsR388_animalStag" prob="1"/>
+	<entity name="DoughsR389_animalRabbit" prob="48"/>
+	<entity name="DoughsR38_animalChicken" prob="48"/>
+	<entity name="DoughsR390_animalChicken" prob="48"/>
+	<entity name="DoughsR391_animalDoe" prob="1"/>
+	<entity name="DoughsR392_animalStag" prob="1"/>
+	<entity name="DoughsR393_animalRabbit" prob="48"/>
+	<entity name="DoughsR394_animalChicken" prob="48"/>
+	<entity name="DoughsR395_animalDoe" prob="1"/>
+	<entity name="DoughsR396_animalStag" prob="1"/>
+	<entity name="DoughsR397_animalRabbit" prob="48"/>
+	<entity name="DoughsR398_animalChicken" prob="48"/>
+	<entity name="DoughsR399_animalDoe" prob="1"/>
+	<entity name="DoughsR39_animalDoe" prob="1"/>
+	<entity name="DoughsR3_animalDoe" prob="1"/>
+	<entity name="DoughsR400_animalStag" prob="1"/>
+	<entity name="DoughsR401_animalRabbit" prob="48"/>
+	<entity name="DoughsR40_animalStag" prob="1"/>
+	<entity name="DoughsR41_animalRabbit" prob="48"/>
+	<entity name="DoughsR42_animalChicken" prob="48"/>
+	<entity name="DoughsR43_animalDoe" prob="1"/>
+	<entity name="DoughsR44_animalStag" prob="1"/>
+	<entity name="DoughsR45_animalRabbit" prob="48"/>
+	<entity name="DoughsR46_animalChicken" prob="48"/>
+	<entity name="DoughsR47_animalDoe" prob="1"/>
+	<entity name="DoughsR48_animalStag" prob="1"/>
+	<entity name="DoughsR49_animalRabbit" prob="48"/>
+	<entity name="DoughsR4_animalStag" prob="1"/>
+	<entity name="DoughsR50_animalChicken" prob="48"/>
+	<entity name="DoughsR51_animalDoe" prob="1"/>
+	<entity name="DoughsR52_animalStag" prob="1"/>
+	<entity name="DoughsR53_animalRabbit" prob="48"/>
+	<entity name="DoughsR54_animalChicken" prob="48"/>
+	<entity name="DoughsR55_animalDoe" prob="1"/>
+	<entity name="DoughsR56_animalStag" prob="1"/>
+	<entity name="DoughsR57_animalRabbit" prob="48"/>
+	<entity name="DoughsR58_animalChicken" prob="48"/>
+	<entity name="DoughsR59_animalDoe" prob="1"/>
+	<entity name="DoughsR5_animalRabbit" prob="48"/>
+	<entity name="DoughsR60_animalStag" prob="1"/>
+	<entity name="DoughsR61_animalRabbit" prob="48"/>
+	<entity name="DoughsR62_animalChicken" prob="48"/>
+	<entity name="DoughsR63_animalDoe" prob="1"/>
+	<entity name="DoughsR64_animalStag" prob="1"/>
+	<entity name="DoughsR65_animalRabbit" prob="48"/>
+	<entity name="DoughsR66_animalChicken" prob="48"/>
+	<entity name="DoughsR67_animalDoe" prob="1"/>
+	<entity name="DoughsR68_animalStag" prob="1"/>
+	<entity name="DoughsR69_animalRabbit" prob="48"/>
+	<entity name="DoughsR6_animalChicken" prob="48"/>
+	<entity name="DoughsR70_animalChicken" prob="48"/>
+	<entity name="DoughsR71_animalDoe" prob="1"/>
+	<entity name="DoughsR72_animalStag" prob="1"/>
+	<entity name="DoughsR73_animalRabbit" prob="48"/>
+	<entity name="DoughsR74_animalChicken" prob="48"/>
+	<entity name="DoughsR75_animalDoe" prob="1"/>
+	<entity name="DoughsR76_animalStag" prob="1"/>
+	<entity name="DoughsR77_animalRabbit" prob="48"/>
+	<entity name="DoughsR78_animalChicken" prob="48"/>
+	<entity name="DoughsR79_animalDoe" prob="1"/>
+	<entity name="DoughsR7_animalDoe" prob="1"/>
+	<entity name="DoughsR80_animalStag" prob="1"/>
+	<entity name="DoughsR81_animalRabbit" prob="48"/>
+	<entity name="DoughsR82_animalChicken" prob="48"/>
+	<entity name="DoughsR83_animalDoe" prob="1"/>
+	<entity name="DoughsR84_animalStag" prob="1"/>
+	<entity name="DoughsR85_animalRabbit" prob="48"/>
+	<entity name="DoughsR86_animalChicken" prob="48"/>
+	<entity name="DoughsR87_animalDoe" prob="1"/>
+	<entity name="DoughsR88_animalStag" prob="1"/>
+	<entity name="DoughsR89_animalRabbit" prob="48"/>
+	<entity name="DoughsR8_animalStag" prob="1"/>
+	<entity name="DoughsR90_animalChicken" prob="48"/>
+	<entity name="DoughsR91_animalDoe" prob="1"/>
+	<entity name="DoughsR92_animalStag" prob="1"/>
+	<entity name="DoughsR93_animalRabbit" prob="48"/>
+	<entity name="DoughsR94_animalChicken" prob="48"/>
+	<entity name="DoughsR95_animalDoe" prob="1"/>
+	<entity name="DoughsR96_animalStag" prob="1"/>
+	<entity name="DoughsR97_animalRabbit" prob="48"/>
+	<entity name="DoughsR98_animalChicken" prob="48"/>
+	<entity name="DoughsR99_animalDoe" prob="1"/>
+	<entity name="DoughsR9_animalRabbit" prob="48"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='ZombieFarmGroup']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='zombieFarmerGroupGS1']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='zombieFarmerGroupGS100']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='zombieFarmerGroupGS200']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='zombieFarmerGroupGS400']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='zombieFarmerGroupGS50']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+<append xpath="/entitygroups/entitygroup[@name='zombieFarmerGroupGS800']">
+	<entity name="DoughsR102_animalChicken"/>
+	<entity name="DoughsR106_animalChicken"/>
+	<entity name="DoughsR10_animalChicken"/>
+	<entity name="DoughsR110_animalChicken"/>
+	<entity name="DoughsR114_animalChicken"/>
+	<entity name="DoughsR118_animalChicken"/>
+	<entity name="DoughsR122_animalChicken"/>
+	<entity name="DoughsR126_animalChicken"/>
+	<entity name="DoughsR130_animalChicken"/>
+	<entity name="DoughsR134_animalChicken"/>
+	<entity name="DoughsR138_animalChicken"/>
+	<entity name="DoughsR142_animalChicken"/>
+	<entity name="DoughsR146_animalChicken"/>
+	<entity name="DoughsR14_animalChicken"/>
+	<entity name="DoughsR150_animalChicken"/>
+	<entity name="DoughsR154_animalChicken"/>
+	<entity name="DoughsR158_animalChicken"/>
+	<entity name="DoughsR162_animalChicken"/>
+	<entity name="DoughsR166_animalChicken"/>
+	<entity name="DoughsR170_animalChicken"/>
+	<entity name="DoughsR174_animalChicken"/>
+	<entity name="DoughsR178_animalChicken"/>
+	<entity name="DoughsR182_animalChicken"/>
+	<entity name="DoughsR186_animalChicken"/>
+	<entity name="DoughsR18_animalChicken"/>
+	<entity name="DoughsR190_animalChicken"/>
+	<entity name="DoughsR194_animalChicken"/>
+	<entity name="DoughsR198_animalChicken"/>
+	<entity name="DoughsR202_animalChicken"/>
+	<entity name="DoughsR206_animalChicken"/>
+	<entity name="DoughsR210_animalChicken"/>
+	<entity name="DoughsR214_animalChicken"/>
+	<entity name="DoughsR218_animalChicken"/>
+	<entity name="DoughsR222_animalChicken"/>
+	<entity name="DoughsR226_animalChicken"/>
+	<entity name="DoughsR22_animalChicken"/>
+	<entity name="DoughsR230_animalChicken"/>
+	<entity name="DoughsR234_animalChicken"/>
+	<entity name="DoughsR238_animalChicken"/>
+	<entity name="DoughsR242_animalChicken"/>
+	<entity name="DoughsR246_animalChicken"/>
+	<entity name="DoughsR250_animalChicken"/>
+	<entity name="DoughsR254_animalChicken"/>
+	<entity name="DoughsR258_animalChicken"/>
+	<entity name="DoughsR262_animalChicken"/>
+	<entity name="DoughsR266_animalChicken"/>
+	<entity name="DoughsR26_animalChicken"/>
+	<entity name="DoughsR270_animalChicken"/>
+	<entity name="DoughsR274_animalChicken"/>
+	<entity name="DoughsR278_animalChicken"/>
+	<entity name="DoughsR282_animalChicken"/>
+	<entity name="DoughsR286_animalChicken"/>
+	<entity name="DoughsR290_animalChicken"/>
+	<entity name="DoughsR294_animalChicken"/>
+	<entity name="DoughsR298_animalChicken"/>
+	<entity name="DoughsR2_animalChicken"/>
+	<entity name="DoughsR302_animalChicken"/>
+	<entity name="DoughsR306_animalChicken"/>
+	<entity name="DoughsR30_animalChicken"/>
+	<entity name="DoughsR310_animalChicken"/>
+	<entity name="DoughsR314_animalChicken"/>
+	<entity name="DoughsR318_animalChicken"/>
+	<entity name="DoughsR322_animalChicken"/>
+	<entity name="DoughsR326_animalChicken"/>
+	<entity name="DoughsR330_animalChicken"/>
+	<entity name="DoughsR334_animalChicken"/>
+	<entity name="DoughsR338_animalChicken"/>
+	<entity name="DoughsR342_animalChicken"/>
+	<entity name="DoughsR346_animalChicken"/>
+	<entity name="DoughsR34_animalChicken"/>
+	<entity name="DoughsR350_animalChicken"/>
+	<entity name="DoughsR354_animalChicken"/>
+	<entity name="DoughsR358_animalChicken"/>
+	<entity name="DoughsR362_animalChicken"/>
+	<entity name="DoughsR366_animalChicken"/>
+	<entity name="DoughsR370_animalChicken"/>
+	<entity name="DoughsR374_animalChicken"/>
+	<entity name="DoughsR378_animalChicken"/>
+	<entity name="DoughsR382_animalChicken"/>
+	<entity name="DoughsR386_animalChicken"/>
+	<entity name="DoughsR38_animalChicken"/>
+	<entity name="DoughsR390_animalChicken"/>
+	<entity name="DoughsR394_animalChicken"/>
+	<entity name="DoughsR398_animalChicken"/>
+	<entity name="DoughsR42_animalChicken"/>
+	<entity name="DoughsR46_animalChicken"/>
+	<entity name="DoughsR50_animalChicken"/>
+	<entity name="DoughsR54_animalChicken"/>
+	<entity name="DoughsR58_animalChicken"/>
+	<entity name="DoughsR62_animalChicken"/>
+	<entity name="DoughsR66_animalChicken"/>
+	<entity name="DoughsR6_animalChicken"/>
+	<entity name="DoughsR70_animalChicken"/>
+	<entity name="DoughsR74_animalChicken"/>
+	<entity name="DoughsR78_animalChicken"/>
+	<entity name="DoughsR82_animalChicken"/>
+	<entity name="DoughsR86_animalChicken"/>
+	<entity name="DoughsR90_animalChicken"/>
+	<entity name="DoughsR94_animalChicken"/>
+	<entity name="DoughsR98_animalChicken"/>
+</append>
+</Doughs>
