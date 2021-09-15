@@ -18,7 +18,7 @@ DoughsR1014_zombieSnowFeral,entityclasses,Entity,,,Honor the Decisive
 DoughsR1015_zombieSpiderFeral,entityclasses,Entity,,,Joe
 DoughsR1016_zombieMaleHazmat,entityclasses,Entity,,,Amalia the Grizzled Hazardous Worker
 DoughsR1017_zombieWightRadiated,entityclasses,Entity,,,Bonnie the Frightfully Fiery and Profane
-DoughsR1018_zombieSteveRadiated,entityclasses,Entity,,,Spook the French
+DoughsR1018_zombieSteveRadiated,entityclasses,Entity,,,Devil French Fry Lover
 DoughsR1019_zombieSkateboarderFeral,entityclasses,Entity,,,Marquis the Wholly Shocking and Chauvinistic
 DoughsR101_zombieArlene,entityclasses,Entity,,,Preston the Deplorable
 DoughsR1020_zombieSteve,entityclasses,Entity,,,Emmalyn
@@ -1452,7 +1452,7 @@ DoughsR2306_zombieSoldierFeral,entityclasses,Entity,,,Maxim the Shyly Obnoxious 
 DoughsR2307_zombieBurnt,entityclasses,Entity,,,Drifter the Absent Burn Victim
 DoughsR2308_zombieFatCopFeral,entityclasses,Entity,,,Alejandra the Shady
 DoughsR2309_zombieJanitorFeral,entityclasses,Entity,,,Francisco the Likely Internet Worthy and Serpentine
-DoughsR230_zombieSpider,entityclasses,Entity,,,Spook the Dumb and Irritating
+DoughsR230_zombieSpider,entityclasses,Entity,,,Spooky the Dumb and Irritating
 DoughsR2310_zombieUtilityWorkerFeral,entityclasses,Entity,,,Alyssa the Watery Feral Utility Worker
 DoughsR2311_zombieCheerleaderRadiated,entityclasses,Entity,,,Perry the Staking and Stark
 DoughsR2312_zombieBoeRadiated,entityclasses,Entity,,,Holly the Fairly Considerate

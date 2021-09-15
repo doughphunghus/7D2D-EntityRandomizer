@@ -3692,7 +3692,7 @@ DoughsR4322_zombieOldTimer,entityclasses,Entity,,,Edgar the Carelessly Embarrass
 DoughsR4323_zombieYo,entityclasses,Entity,,,Gideon the Kinda Deadly and Grotesque
 DoughsR4324_zombieCheerleader,entityclasses,Entity,,,Rascal the Loftily Ungodly and Fruitful
 DoughsR4325_zombieFatCopRadiated,entityclasses,Entity,,,Marcel the Safely Unsuitable and Lurid
-DoughsR4326_zombieSkateboarderFeral,entityclasses,Entity,,,Spook the Unlawful
+DoughsR4326_zombieSkateboarderFeral,entityclasses,Entity,,,The Unlawful
 DoughsR4327_zombieSkateboarder,entityclasses,Entity,,,Marengo the Queerly Imported and Strident
 DoughsR4328_zombieFarmer,entityclasses,Entity,,,Baker the Self-assured Zombie Farmer
 DoughsR4329_zombieJoeRadiated,entityclasses,Entity,,,Arya the Immaculate and Obviously Furious

@@ -484,7 +484,7 @@ DoughsR535_animalZombieDog,entityclasses,Entity,,,Baby Boy the Satisfying
 DoughsR536_animalMountainLion,entityclasses,Entity,,,Aryan the Constant
 DoughsR537_animalBoar,entityclasses,Entity,,,Beef Jerkey
 DoughsR538_animalDireWolf,entityclasses,Entity,,,Killian
-DoughsR539_animalWolf,entityclasses,Entity,,,Spook
+DoughsR539_animalWolf,entityclasses,Entity,,,Silent Killer
 DoughsR53_animalZombieVulture,entityclasses,Entity,,,Oscar the Icky Zombie Vulture
 DoughsR540_animalZombieBear,entityclasses,Entity,,,Tippy the Aberrant and Obnoxious
 DoughsR541_animalZombieVultureRadiated,entityclasses,Entity,,,Stevie the Clumsy and Sorta Deceased

@@ -444,7 +444,7 @@ DoughsR49_animalSnake,entityclasses,Entity,,,Blossom the Highly Hopeful
 DoughsR4_animalDireWolf,entityclasses,Entity,,,Gael
 DoughsR500_animalZombieBear,entityclasses,Entity,,,Angelica the Insubstantial
 DoughsR501_animalBossGrace,entityclasses,Entity,,,Jaxx
-DoughsR502_animalWolf,entityclasses,Entity,,,Spook the Terribly Wacky and Fruitful
+DoughsR502_animalWolf,entityclasses,Entity,,,Spooky the Terribly Wacky and Fruitful
 DoughsR503_animalCoyote,entityclasses,Entity,,,Song the Irritating and Funny
 DoughsR504_animalMountainLion,entityclasses,Entity,,,Rowen the Afflicted and Juicy
 DoughsR505_animalSnake,entityclasses,Entity,,,Brylee

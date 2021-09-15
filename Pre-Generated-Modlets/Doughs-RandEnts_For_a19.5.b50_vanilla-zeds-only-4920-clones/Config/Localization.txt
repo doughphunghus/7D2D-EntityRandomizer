@@ -2187,7 +2187,7 @@ DoughsR2969_zombieSkateboarder,entityclasses,Entity,,,Donald the Extra Frightful
 DoughsR296_zombieCheerleaderFeral,entityclasses,Entity,,,Forrest the Reasonably Ungrateful and Vivid
 DoughsR2970_zombieSoldier,entityclasses,Entity,,,Gabriel the Jumbled
 DoughsR2971_zombieSteveCrawlerFeral,entityclasses,Entity,,,Chodak the Ugly
-DoughsR2972_zombieArleneFeral,entityclasses,Entity,,,Spook the Distressed Feral Putrid Girl
+DoughsR2972_zombieArleneFeral,entityclasses,Entity,,,Distressed Feral Putrid Girl
 DoughsR2973_legendaryZombieLab,entityclasses,Entity,,,Lane the Speedily Profane
 DoughsR2974_zombieSteveFeral,entityclasses,Entity,,,Jalen
 DoughsR2975_zombieSkateboarderRadiated,entityclasses,Entity,,,Spirit the Way Too Controlling
@@ -2253,7 +2253,7 @@ DoughsR3027_zombieBusinessMan,entityclasses,Entity,,,Lucero the Bewitching
 DoughsR3028_zombieLabFeral,entityclasses,Entity,,,Kannon the Up-to-no-good and Internet Worthy
 DoughsR3029_zombieSpiderRadiated,entityclasses,Entity,,,Madden the Funny
 DoughsR302_zombieFatHawaiian,entityclasses,Entity,,,Leon the Thoroughly Very Tactful Disturbed Tourist
-DoughsR3030_zombieBiker,entityclasses,Entity,,,Spook the Freak In the Sheets Zombie Biker
+DoughsR3030_zombieBiker,entityclasses,Entity,,,The Freak In the Sheets Zombie Biker
 DoughsR3031_zombieYo,entityclasses,Entity,,,Cohen the Dismal
 DoughsR3032_zombieSnow,entityclasses,Entity,,,Harley the Sedate Frozen Lumberjack
 DoughsR3033_zombieFatCop,entityclasses,Entity,,,Aldo the Cheating and Lame
@@ -3873,7 +3873,7 @@ DoughsR4486_zombieBikerFeral,entityclasses,Entity,,,Avah the Mysteriously Acclai
 DoughsR4487_zombieYoRadiated,entityclasses,Entity,,,Edgar
 DoughsR4488_zombieCheerleader,entityclasses,Entity,,,Stormy the Merciless
 DoughsR4489_zombieFootballPlayer,entityclasses,Entity,,,Lennon the Absolute
-DoughsR448_zombieBoe,entityclasses,Entity,,,Spook
+DoughsR448_zombieBoe,entityclasses,Entity,,,Farfegnugen
 DoughsR4490_zombieFatCopRadiated,entityclasses,Entity,,,Sariah the Adaptable Radiated Policeman
 DoughsR4491_zombieNurse,entityclasses,Entity,,,Yaretzi the Wandering and Moronic
 DoughsR4492_zombieFemaleFat,entityclasses,Entity,,,Malakai the Subtle and Grim

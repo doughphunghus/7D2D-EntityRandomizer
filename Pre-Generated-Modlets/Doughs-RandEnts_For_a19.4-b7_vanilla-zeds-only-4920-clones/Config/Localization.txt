@@ -179,7 +179,7 @@ DoughsR115_zombieBiker,entityclasses,Entity,,,Jermaine the Scarcely Cheating
 DoughsR1160_zombieOldTimerFeral,entityclasses,Entity,,,Alisson the Impressive
 DoughsR1161_zombieSkateboarderFeral,entityclasses,Entity,,,Ashlynn the Rapidly Impish
 DoughsR1162_zombieSteveCrawler,entityclasses,Entity,,,Lee the Seriously Almost Dead Crawler
-DoughsR1163_zombieLabRadiated,entityclasses,Entity,,,Spook
+DoughsR1163_zombieLabRadiated,entityclasses,Entity,,,Frumpy
 DoughsR1164_zombieMoeRadiated,entityclasses,Entity,,,Francisco the Standard and Lying
 DoughsR1165_zombieNurse,entityclasses,Entity,,,Yeti the Accessible Plagued Nurse
 DoughsR1166_zombieSoldier,entityclasses,Entity,,,Zodiac
@@ -323,7 +323,7 @@ DoughsR128_zombieFatHawaiian,entityclasses,Entity,,,Ritz the Macabre Disturbed T
 DoughsR1290_zombieDarleneFeral,entityclasses,Entity,,,Jace the Impish and 1970s Tragic
 DoughsR1291_zombieStripper,entityclasses,Entity,,,Moose the Morose and Decayed
 DoughsR1292_zombieFatCopRadiated,entityclasses,Entity,,,Sofia the Anxiously Sturdy Radiated Policeman
-DoughsR1293_legendaryZombieLab,entityclasses,Entity,,,Spook the Irrational
+DoughsR1293_legendaryZombieLab,entityclasses,Entity,,,The Irrational
 DoughsR1294_zombieYo,entityclasses,Entity,,,Georgia the Broadly Honest
 DoughsR1295_zombieJanitor,entityclasses,Entity,,,Abby the Joint
 DoughsR1296_zombieUtilityWorkerFeral,entityclasses,Entity,,,Cassidy the Gratefully Ungrateful Feral Utility Worker
@@ -1206,7 +1206,7 @@ DoughsR2085_zombieSoldierRadiated,entityclasses,Entity,,,Patriot the Underhanded
 DoughsR2086_zombieMarleneFeral,entityclasses,Entity,,,Jaxx the Abaft
 DoughsR2087_zombieDemolition,entityclasses,Entity,,,Alijah the Sturdy and Idiotic
 DoughsR2088_zombieScreamerRadiated,entityclasses,Entity,,,Kasen the Decimal
-DoughsR2089_zombieArleneFeral,entityclasses,Entity,,,Spook the Warped Feral Putrid Girl
+DoughsR2089_zombieArleneFeral,entityclasses,Entity,,,Warped Feral Putrid Girl
 DoughsR208_zombieBusinessMan,entityclasses,Entity,,,Elliana the Unknown Zombie Businessman
 DoughsR2090_zombieSpider,entityclasses,Entity,,,Genesis the Perverted and Stimulating
 DoughsR2091_zombieWightFeral,entityclasses,Entity,,,Remi the Shakily Pea-brained Feral Wight
