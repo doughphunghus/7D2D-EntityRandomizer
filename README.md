@@ -5,7 +5,9 @@ The script currently can randomize Zombie and animal entities.
 The randomizer script that generates the modlet *is still very experimental* BUT modlets generated from it are being put here for use/comments to help polish the script for release.
 
 # SEE ALSO: Other randomizer mods
-- :clap: [trubs-variants](https://github.com/trub64/trubs-variants): An entity randomizer for a20 and has new/other features like AI randomization.
+- :clap: [trubs-variants](https://github.com/trub64/trubs-variants): An entity randomizer for a20 and has new/other features like AI randomization. I just ran across it, haven't tried it, but definitely give it a try if you're looking for random zeds for a20+
+
+
 
 
 ### I highly recommend using one of the pre-generated modlets below before attempting to use the script!  These pre-genrated modlets have been tested to prove they work in game.
