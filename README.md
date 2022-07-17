@@ -4,12 +4,6 @@ The script currently can randomize Zombie and animal entities.
 
 The randomizer script that generates the modlet *is still very experimental* BUT modlets generated from it are being put here for use/comments to help polish the script for release.
 
-# SEE ALSO: Other randomizer mods
-- :clap: [trubs-variants](https://github.com/trub64/trubs-variants): An entity randomizer for a20 and has new/other features like AI randomization. I just ran across it, haven't tried it, but definitely give it a try if you're looking for random zeds for a20+
-
-
-
-
 ### I highly recommend using one of the pre-generated modlets below before attempting to use the script!  These pre-genrated modlets have been tested to prove they work in game.
 
 ### WARNING: You can trash/break your computer if you are not familiar with properly installing perl (some OS's have a built in perl and you DO NOT want to modify or remove it)
@@ -28,9 +22,7 @@ If you are using a pre-generated modlet below, load the modlets in the table bel
 
 | Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
-| Doughs-RandEnts_For_a20.5-b2_vanilla-enemy-animals-only-600-clones | 600 clones of vanilla zombie animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!) |
-| Doughs-RandEnts_For_a20.5-b2_vanilla-friendly-animals-only-400-clones | 400 clones of vanilla friendly/wild animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!)|
-| Doughs-RandEnts_For_a20.5-b2_vanilla-zeds-only-5160-clones | 5160 clones of vanilla zombies (Recommend loading an enemy health bar viewer modlet to see the names!)|
+
 | Doughs-RandEnts_For_a19.5-b50_vanilla-enemy-animals-only-600-clones | 600 clones of vanilla zombie animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!) |
 | Doughs-RandEnts_For_a19.5-b50_vanilla-friendly-animals-only-400-clones | 400 clones of vanilla friendly/wild animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!)|
 | Doughs-RandEnts_For_a19.5-b50_vanilla-zeds-only-4920-clones | 4920 clones of vanilla zombies (Recommend loading an enemy health bar viewer modlet to see the names!)|
