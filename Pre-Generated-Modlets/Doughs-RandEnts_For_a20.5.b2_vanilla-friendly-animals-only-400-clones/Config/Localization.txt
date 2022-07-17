@@ -1,0 +1,401 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+DoughsR100_animalChicken,entityclasses,Entity,,,Zoe the Abrasive and Pure
+DoughsR101_animalStag,entityclasses,Entity,,,Mittens the Supposedly Informal Stag
+DoughsR102_animalRabbit,entityclasses,Entity,,,Sweetsie the Terribly Whiny
+DoughsR103_animalDoe,entityclasses,Entity,,,Sweets the Slap Happy Doe
+DoughsR104_animalChicken,entityclasses,Entity,,,Soda Pop the Immediate
+DoughsR105_animalStag,entityclasses,Entity,,,Sun Beam the Grotesque Stag
+DoughsR106_animalRabbit,entityclasses,Entity,,,Poopie the Blathering and Sleepy
+DoughsR107_animalDoe,entityclasses,Entity,,,Sailor the Soon Irrational Doe
+DoughsR108_animalChicken,entityclasses,Entity,,,Pepper the Possessed Chicken
+DoughsR109_animalStag,entityclasses,Entity,,,Lucky the Defenseless Stag
+DoughsR10_animalRabbit,entityclasses,Entity,,,Tator-tot the Slightly Damned and Knobby
+DoughsR110_animalRabbit,entityclasses,Entity,,,Superman the Cleverly Malformed Rabbit
+DoughsR111_animalDoe,entityclasses,Entity,,,Handsome the Warmhearted and Awe-inspiring
+DoughsR112_animalChicken,entityclasses,Entity,,,Pussy Cat
+DoughsR113_animalStag,entityclasses,Entity,,,Zoey
+DoughsR114_animalRabbit,entityclasses,Entity,,,Sparky the Shrilly Loose and Sightly
+DoughsR115_animalDoe,entityclasses,Entity,,,Milo the Unfortunately Symptomatic and Superb
+DoughsR116_animalChicken,entityclasses,Entity,,,Lion King the Husky and Childlike
+DoughsR117_animalStag,entityclasses,Entity,,,Darling the Jubilantly Lame
+DoughsR118_animalRabbit,entityclasses,Entity,,,Jelly Bean the Reassuringly Obviously Bitter Rabbit
+DoughsR119_animalDoe,entityclasses,Entity,,,Darling O Mine the Repeatedly Fussy and Huggable
+DoughsR11_animalDoe,entityclasses,Entity,,,Twinkle Toes the Upright Abounding and Bewitching
+DoughsR120_animalChicken,entityclasses,Entity,,,Prince Charming the Incompetent and Fashionable
+DoughsR121_animalStag,entityclasses,Entity,,,Sweet Potato the Spooky and Statuesque
+DoughsR122_animalRabbit,entityclasses,Entity,,,Pop Tart the Strictly Fumbling
+DoughsR123_animalDoe,entityclasses,Entity,,,My World the Acrid and Ravishing
+DoughsR124_animalChicken,entityclasses,Entity,,,Bees Knees the Jovially Shitty and Fatherly
+DoughsR125_animalStag,entityclasses,Entity,,,Buster the Aboriginal
+DoughsR126_animalRabbit,entityclasses,Entity,,,Tootsie the Mentally Impaired Rabbit
+DoughsR127_animalDoe,entityclasses,Entity,,,Spunky the Childish Doe
+DoughsR128_animalChicken,entityclasses,Entity,,,Pretty Princess the Defenseless Chicken
+DoughsR129_animalStag,entityclasses,Entity,,,Tiger Toes
+DoughsR12_animalChicken,entityclasses,Entity,,,Heart Throb the Crazy
+DoughsR130_animalRabbit,entityclasses,Entity,,,Superman the Impractical Rabbit
+DoughsR131_animalDoe,entityclasses,Entity,,,Girlfriend the Mean
+DoughsR132_animalChicken,entityclasses,Entity,,,Cherub the Disturbingly Nasty
+DoughsR133_animalStag,entityclasses,Entity,,,Amazing the Freely Grown Stag
+DoughsR134_animalRabbit,entityclasses,Entity,,,Cutie the Punctually Fruitful and Altruistic
+DoughsR135_animalDoe,entityclasses,Entity,,,Dumpling the Truthfully Crappy
+DoughsR136_animalChicken,entityclasses,Entity,,,Butter Babe the Scholarly
+DoughsR137_animalStag,entityclasses,Entity,,,Muffy the Relatively Abnormal
+DoughsR138_animalRabbit,entityclasses,Entity,,,Boo Boo the Convincing
+DoughsR139_animalDoe,entityclasses,Entity,,,Teady Bear the Decorous
+DoughsR13_animalStag,entityclasses,Entity,,,Precious
+DoughsR140_animalChicken,entityclasses,Entity,,,Dearie
+DoughsR141_animalStag,entityclasses,Entity,,,Chester the Fretful Stag
+DoughsR142_animalRabbit,entityclasses,Entity,,,Baby Boy the Sunny and Crazy
+DoughsR143_animalDoe,entityclasses,Entity,,,Lovie the Surprisingly Zesty
+DoughsR144_animalChicken,entityclasses,Entity,,,Big Daddy the Recklessly Screeching
+DoughsR145_animalStag,entityclasses,Entity,,,Loveylove the Highly Vengeful Stag
+DoughsR146_animalRabbit,entityclasses,Entity,,,Luv Puppies the Barbed
+DoughsR147_animalDoe,entityclasses,Entity,,,Sweetsie the Bonkers Doe
+DoughsR148_animalChicken,entityclasses,Entity,,,Frou-frou the Shameless Chicken
+DoughsR149_animalStag,entityclasses,Entity,,,Muffin the Furry and Early
+DoughsR14_animalRabbit,entityclasses,Entity,,,Shmoopsie Poo the Distressed
+DoughsR150_animalRabbit,entityclasses,Entity,,,Charlie
+DoughsR151_animalDoe,entityclasses,Entity,,,Sailor
+DoughsR152_animalChicken,entityclasses,Entity,,,Baby Angel
+DoughsR153_animalStag,entityclasses,Entity,,,Bailey the Infinitely Sad Stag
+DoughsR154_animalRabbit,entityclasses,Entity,,,Giggles the Dankest Rabbit
+DoughsR155_animalDoe,entityclasses,Entity,,,Teddy the Confrontational Doe
+DoughsR156_animalChicken,entityclasses,Entity,,,Socks the Debonair Chicken
+DoughsR157_animalStag,entityclasses,Entity,,,Babes the Demonic
+DoughsR158_animalRabbit,entityclasses,Entity,,,Buster the Stinky
+DoughsR159_animalDoe,entityclasses,Entity,,,Pretty Princess the Arrogantly Futuristic Doe
+DoughsR15_animalDoe,entityclasses,Entity,,,Punk
+DoughsR160_animalChicken,entityclasses,Entity,,,Mcdreamy the Conventional Chicken
+DoughsR161_animalStag,entityclasses,Entity,,,Cleo
+DoughsR162_animalRabbit,entityclasses,Entity,,,Pinup
+DoughsR163_animalDoe,entityclasses,Entity,,,Sasha the Haunted
+DoughsR164_animalChicken,entityclasses,Entity,,,Muffin
+DoughsR165_animalStag,entityclasses,Entity,,,Cuddly-wuddly the Unnecessarily Furious Stag
+DoughsR166_animalRabbit,entityclasses,Entity,,,Patches the Stupendous and Taking
+DoughsR167_animalDoe,entityclasses,Entity,,,Cutie Pootie the Zestfully Convincing
+DoughsR168_animalChicken,entityclasses,Entity,,,Cleo the Clumsy Chicken
+DoughsR169_animalStag,entityclasses,Entity,,,Puddin Head the Hilarious
+DoughsR16_animalChicken,entityclasses,Entity,,,Babes the Unlined Chicken
+DoughsR170_animalRabbit,entityclasses,Entity,,,Champ the Tearful
+DoughsR171_animalDoe,entityclasses,Entity,,,Lady Love the Profane Doe
+DoughsR172_animalChicken,entityclasses,Entity,,,Muncie
+DoughsR173_animalStag,entityclasses,Entity,,,Cuteness the Absentmindedly Vital
+DoughsR174_animalRabbit,entityclasses,Entity,,,Shorty the Only Hurt and Generous
+DoughsR175_animalDoe,entityclasses,Entity,,,Doll the Irrational
+DoughsR176_animalChicken,entityclasses,Entity,,,Honey Bunny the Sneaky and Goofy
+DoughsR177_animalStag,entityclasses,Entity,,,Angel the Resentful Stag
+DoughsR178_animalRabbit,entityclasses,Entity,,,Lover Pie the Upbeat Irritable
+DoughsR179_animalDoe,entityclasses,Entity,,,Sadie the Gruesome and Emaciated
+DoughsR17_animalStag,entityclasses,Entity,,,Rosie the Slap Happy Stag
+DoughsR180_animalChicken,entityclasses,Entity,,,Superman the Domesticated
+DoughsR181_animalStag,entityclasses,Entity,,,Pudding the Insistent
+DoughsR182_animalRabbit,entityclasses,Entity,,,Eyecandy the Striped and Chivalrous
+DoughsR183_animalDoe,entityclasses,Entity,,,Smoochie the Obnoxiously Noxious
+DoughsR184_animalChicken,entityclasses,Entity,,,Flame the Stealthily Illegal and Mystical
+DoughsR185_animalStag,entityclasses,Entity,,,Misty the Contemptible
+DoughsR186_animalRabbit,entityclasses,Entity,,,Rose
+DoughsR187_animalDoe,entityclasses,Entity,,,Bumpa the Slightly Hideous
+DoughsR188_animalChicken,entityclasses,Entity,,,Dummy the Slightly Cruel Chicken
+DoughsR189_animalStag,entityclasses,Entity,,,Princess the Gently Steadfast Stag
+DoughsR18_animalRabbit,entityclasses,Entity,,,Star the Way Too Cocky and Energetic
+DoughsR190_animalRabbit,entityclasses,Entity,,,Gummy Bear the Adventurously Narrow-minded Rabbit
+DoughsR191_animalDoe,entityclasses,Entity,,,Heart Throb the Reckless Doe
+DoughsR192_animalChicken,entityclasses,Entity,,,Duckling the Majorly Corpselike Chicken
+DoughsR193_animalStag,entityclasses,Entity,,,Pudding Pop the Ill-tempered and Treasured
+DoughsR194_animalRabbit,entityclasses,Entity,,,Bumpa the Active and Cute
+DoughsR195_animalDoe,entityclasses,Entity,,,Duckling the Screwed-up Doe
+DoughsR196_animalChicken,entityclasses,Entity,,,Muffy the Unsung Chicken
+DoughsR197_animalStag,entityclasses,Entity,,,Fairbanks the No-good
+DoughsR198_animalRabbit,entityclasses,Entity,,,Hot Mama the Longingly Promiscuous and Fetching
+DoughsR199_animalDoe,entityclasses,Entity,,,Buddy the Quickly Irritating
+DoughsR19_animalDoe,entityclasses,Entity,,,Main Squeeze the Scrawny and Perfectly Formed
+DoughsR200_animalChicken,entityclasses,Entity,,,Casanova the Righteously Stylish Chicken
+DoughsR201_animalStag,entityclasses,Entity,,,Soldier the Obviously Friendless and Musical
+DoughsR202_animalRabbit,entityclasses,Entity,,,Precious the Painfully Very Abandoned Rabbit
+DoughsR203_animalDoe,entityclasses,Entity,,,Leo the Jealous Doe
+DoughsR204_animalChicken,entityclasses,Entity,,,Sweet Prince the Corpselike and Spoiled
+DoughsR205_animalStag,entityclasses,Entity,,,Prince Charming
+DoughsR206_animalRabbit,entityclasses,Entity,,,Doobie the Doubtfully Definite Rabbit
+DoughsR207_animalDoe,entityclasses,Entity,,,Samantha
+DoughsR208_animalChicken,entityclasses,Entity,,,Bella the Really Shameless and Rare
+DoughsR209_animalStag,entityclasses,Entity,,,Loki the Chauvinistic
+DoughsR20_animalChicken,entityclasses,Entity,,,Muggles the Frilly
+DoughsR210_animalRabbit,entityclasses,Entity,,,Maggie the Helpfully Alcoholic Rabbit
+DoughsR211_animalDoe,entityclasses,Entity,,,Kit Kat the Talented Doe
+DoughsR212_animalChicken,entityclasses,Entity,,,Super Woman the Decayed
+DoughsR213_animalStag,entityclasses,Entity,,,Lucy the Actually and Silly
+DoughsR214_animalRabbit,entityclasses,Entity,,,Nala the Psycho and In Agreement
+DoughsR215_animalDoe,entityclasses,Entity,,,Missy
+DoughsR216_animalChicken,entityclasses,Entity,,,Huggy Bear the Welcome
+DoughsR217_animalStag,entityclasses,Entity,,,Chubby Bunny the Infinitely Smelly Stag
+DoughsR218_animalRabbit,entityclasses,Entity,,,Heisenberg the Readily Twisted
+DoughsR219_animalDoe,entityclasses,Entity,,,Chubby Bunny the Scandalous Doe
+DoughsR21_animalStag,entityclasses,Entity,,,Hot Mama the Crazed
+DoughsR220_animalChicken,entityclasses,Entity,,,Sweetheart the Malicious
+DoughsR221_animalStag,entityclasses,Entity,,,Bubby the Cloistered
+DoughsR222_animalRabbit,entityclasses,Entity,,,Rascal the Kindheartedly Self-absorbed Rabbit
+DoughsR223_animalDoe,entityclasses,Entity,,,Buster
+DoughsR224_animalChicken,entityclasses,Entity,,,Alliebear the Instinctive Chicken
+DoughsR225_animalStag,entityclasses,Entity,,,Cleo
+DoughsR226_animalRabbit,entityclasses,Entity,,,Kit Kat the Crushing Rabbit
+DoughsR227_animalDoe,entityclasses,Entity,,,Gizmo the Spoiled Doe
+DoughsR228_animalChicken,entityclasses,Entity,,,Smoochie the Irrational and Sculptured
+DoughsR229_animalStag,entityclasses,Entity,,,Sugar Mama the Hopefully House-broken Stag
+DoughsR22_animalRabbit,entityclasses,Entity,,,Little Dove the Wasteful
+DoughsR230_animalRabbit,entityclasses,Entity,,,Girlfriend the Shivering
+DoughsR231_animalDoe,entityclasses,Entity,,,Pancake the Tall Doe
+DoughsR232_animalChicken,entityclasses,Entity,,,Num Nums the Generously Crappy and Sophisticated
+DoughsR233_animalStag,entityclasses,Entity,,,Dream Girl the Sharply Irate Stag
+DoughsR234_animalRabbit,entityclasses,Entity,,,Knockout the Yawningly Spoiled and Joyful
+DoughsR235_animalDoe,entityclasses,Entity,,,Sexyness
+DoughsR236_animalChicken,entityclasses,Entity,,,Captain the Incompatible Chicken
+DoughsR237_animalStag,entityclasses,Entity,,,Pretty Girl the Weepy and Bawdy
+DoughsR238_animalRabbit,entityclasses,Entity,,,Toby the Ultimately Rude and Huggable
+DoughsR239_animalDoe,entityclasses,Entity,,,Cutie Pootie the Weak
+DoughsR23_animalDoe,entityclasses,Entity,,,Salem the Hushed
+DoughsR240_animalChicken,entityclasses,Entity,,,Mcsteamy the Verbally Abusive Chicken
+DoughsR241_animalStag,entityclasses,Entity,,,Bella the Underhanded and Romantic
+DoughsR242_animalRabbit,entityclasses,Entity,,,Beef Jerkey the Softly Super and Understanding
+DoughsR243_animalDoe,entityclasses,Entity,,,Loverboy
+DoughsR244_animalChicken,entityclasses,Entity,,,Lubber the Boastfully Stupid and Caring
+DoughsR245_animalStag,entityclasses,Entity,,,Harley the Anxiously Scant and Ravishing
+DoughsR246_animalRabbit,entityclasses,Entity,,,Jasmine the Trembling
+DoughsR247_animalDoe,entityclasses,Entity,,,Sweetheart the Careless Doe
+DoughsR248_animalChicken,entityclasses,Entity,,,Sweet Prince
+DoughsR249_animalStag,entityclasses,Entity,,,Hero the Wearily Scintillating Stag
+DoughsR24_animalChicken,entityclasses,Entity,,,Dove
+DoughsR250_animalRabbit,entityclasses,Entity,,,Honey Bunny the Wealthy
+DoughsR251_animalDoe,entityclasses,Entity,,,Midnight the Daring Doe
+DoughsR252_animalChicken,entityclasses,Entity,,,Sunshine
+DoughsR253_animalStag,entityclasses,Entity,,,Goldie the Positively Very Mean
+DoughsR254_animalRabbit,entityclasses,Entity,,,Superman the Fiercely Loyal and Responsive
+DoughsR255_animalDoe,entityclasses,Entity,,,Bon-bon the Sedate and Dedicated
+DoughsR256_animalChicken,entityclasses,Entity,,,Cuddlebug the Infinite
+DoughsR257_animalStag,entityclasses,Entity,,,Baby Kins the Uninterested
+DoughsR258_animalRabbit,entityclasses,Entity,,,Button the Contemplative
+DoughsR259_animalDoe,entityclasses,Entity,,,Giggles
+DoughsR25_animalStag,entityclasses,Entity,,,Sugar the Too Highly Disappointing
+DoughsR260_animalChicken,entityclasses,Entity,,,Treasure
+DoughsR261_animalStag,entityclasses,Entity,,,Sweet Cakes the Scornful and Ecstatic
+DoughsR262_animalRabbit,entityclasses,Entity,,,Socks the Extremely Ultra Hellish and Belle
+DoughsR263_animalDoe,entityclasses,Entity,,,Baby Love the Jovial
+DoughsR264_animalChicken,entityclasses,Entity,,,Alliebear the Broadly Unnerving
+DoughsR265_animalStag,entityclasses,Entity,,,Apple the Frightfully Shadowy Stag
+DoughsR266_animalRabbit,entityclasses,Entity,,,Sweetness the Nervously Interesting
+DoughsR267_animalDoe,entityclasses,Entity,,,Casper the Seeping
+DoughsR268_animalChicken,entityclasses,Entity,,,Dream Boat the Accurate and Fanatical
+DoughsR269_animalStag,entityclasses,Entity,,,Snickers the Justly Jazzy and Joyful
+DoughsR26_animalRabbit,entityclasses,Entity,,,Golden the Shady and Klutzy
+DoughsR270_animalRabbit,entityclasses,Entity,,,Blossom the Dully Annoying and Kindly
+DoughsR271_animalDoe,entityclasses,Entity,,,Cuddly the Yearningly Disappointing
+DoughsR272_animalChicken,entityclasses,Entity,,,Lover Girl the Scaly
+DoughsR273_animalStag,entityclasses,Entity,,,Romeo the Adamant
+DoughsR274_animalRabbit,entityclasses,Entity,,,Dreamy Eyes the Far Irritating and Mutual
+DoughsR275_animalDoe,entityclasses,Entity,,,Shadow the Dazzling and Forgiving
+DoughsR276_animalChicken,entityclasses,Entity,,,Boo Boo
+DoughsR277_animalStag,entityclasses,Entity,,,Giggles
+DoughsR278_animalRabbit,entityclasses,Entity,,,Snicker Doodle the Sexy and Appreciative
+DoughsR279_animalDoe,entityclasses,Entity,,,Apple the Sedately Abhorrent
+DoughsR27_animalDoe,entityclasses,Entity,,,Lady Killer
+DoughsR280_animalChicken,entityclasses,Entity,,,Sweetthang the Aback Chicken
+DoughsR281_animalStag,entityclasses,Entity,,,Kiddo the Awkwardly Foolish and Fertile
+DoughsR282_animalRabbit,entityclasses,Entity,,,Sweetthang the Second-hand Rabbit
+DoughsR283_animalDoe,entityclasses,Entity,,,Bubba the Frequent
+DoughsR284_animalChicken,entityclasses,Entity,,,Shorty
+DoughsR285_animalStag,entityclasses,Entity,,,Bubba the Inexcusable
+DoughsR286_animalRabbit,entityclasses,Entity,,,Studley the Ugly
+DoughsR287_animalDoe,entityclasses,Entity,,,Pancake
+DoughsR288_animalChicken,entityclasses,Entity,,,Amazing the Aboard
+DoughsR289_animalStag,entityclasses,Entity,,,Puddin Head the Acid Stag
+DoughsR28_animalChicken,entityclasses,Entity,,,Tater Tot the Superficial
+DoughsR290_animalRabbit,entityclasses,Entity,,,Amazing the Guarded and Unusual
+DoughsR291_animalDoe,entityclasses,Entity,,,Lion King the Shut Doe
+DoughsR292_animalChicken,entityclasses,Entity,,,Puddin Head the Damp Chicken
+DoughsR293_animalStag,entityclasses,Entity,,,Funny Hunny the Queasily Mummified
+DoughsR294_animalRabbit,entityclasses,Entity,,,Sweetness the Zany Rabbit
+DoughsR295_animalDoe,entityclasses,Entity,,,Doll Baby the Way Too Cocky and Economic
+DoughsR296_animalChicken,entityclasses,Entity,,,Baby Doll the Spine-chilling Chicken
+DoughsR297_animalStag,entityclasses,Entity,,,Smoochie the Tart Stag
+DoughsR298_animalRabbit,entityclasses,Entity,,,Adorable the Delectable
+DoughsR299_animalDoe,entityclasses,Entity,,,Winky Dink the Morose
+DoughsR29_animalStag,entityclasses,Entity,,,Haven
+DoughsR2_animalRabbit,entityclasses,Entity,,,Shmoops the Scholarly
+DoughsR300_animalChicken,entityclasses,Entity,,,Fruit Cake
+DoughsR301_animalStag,entityclasses,Entity,,,Snuggems the Mean Stag
+DoughsR302_animalRabbit,entityclasses,Entity,,,Lovely the Wasteful Rabbit
+DoughsR303_animalDoe,entityclasses,Entity,,,Goldie the Stained and Agile
+DoughsR304_animalChicken,entityclasses,Entity,,,Sweetthang the Sadistic and Touching
+DoughsR305_animalStag,entityclasses,Entity,,,Kiddo the Surprisingly Futuristic and Undying
+DoughsR306_animalRabbit,entityclasses,Entity,,,Cookie Monster the Starry
+DoughsR307_animalDoe,entityclasses,Entity,,,Chubby Bunny the Unnatural
+DoughsR308_animalChicken,entityclasses,Entity,,,Peach the Out Of Control Chicken
+DoughsR309_animalStag,entityclasses,Entity,,,Cutie Pootie the Vastly Secretive Stag
+DoughsR30_animalRabbit,entityclasses,Entity,,,Muffin the Abstracted Rabbit
+DoughsR310_animalRabbit,entityclasses,Entity,,,All-star the Urgently Honest
+DoughsR311_animalDoe,entityclasses,Entity,,,Super Stud
+DoughsR312_animalChicken,entityclasses,Entity,,,Hero
+DoughsR313_animalStag,entityclasses,Entity,,,Tigger the Spooky
+DoughsR314_animalRabbit,entityclasses,Entity,,,Kiya the Short and Honest
+DoughsR315_animalDoe,entityclasses,Entity,,,Cutie Patootie
+DoughsR316_animalChicken,entityclasses,Entity,,,Boo the Resentful Chicken
+DoughsR317_animalStag,entityclasses,Entity,,,Joy the Decorous and Long-lasting
+DoughsR318_animalRabbit,entityclasses,Entity,,,Sparky the Tempting
+DoughsR319_animalDoe,entityclasses,Entity,,,Cherub the Honestly Inappropriate Doe
+DoughsR31_animalDoe,entityclasses,Entity,,,Cookie the Very Bad Doe
+DoughsR320_animalChicken,entityclasses,Entity,,,Little Dove the Shakily Painfully Honest and Easy-going
+DoughsR321_animalStag,entityclasses,Entity,,,Sexy Dork the Most Dank and Hot
+DoughsR322_animalRabbit,entityclasses,Entity,,,Smokey the Spiteful and Uplifting
+DoughsR323_animalDoe,entityclasses,Entity,,,Lovey Dovey
+DoughsR324_animalChicken,entityclasses,Entity,,,Darling the Territorial
+DoughsR325_animalStag,entityclasses,Entity,,,Wonderful the Accomplished and Crafty
+DoughsR326_animalRabbit,entityclasses,Entity,,,Sweetstuff
+DoughsR327_animalDoe,entityclasses,Entity,,,Little the Hateful
+DoughsR328_animalChicken,entityclasses,Entity,,,Sunny
+DoughsR329_animalStag,entityclasses,Entity,,,Teady Bear the Helpfully Revolting
+DoughsR32_animalChicken,entityclasses,Entity,,,Luna the Xenophobic and Splendorous
+DoughsR330_animalRabbit,entityclasses,Entity,,,Sheba the Gross
+DoughsR331_animalDoe,entityclasses,Entity,,,Muncie the Sympathetically Slimy and Pretty
+DoughsR332_animalChicken,entityclasses,Entity,,,Cleo the Very Dumb Chicken
+DoughsR333_animalStag,entityclasses,Entity,,,Lilly the Hateful Stag
+DoughsR334_animalRabbit,entityclasses,Entity,,,My Lucky Charm the Quaintly Submissive Rabbit
+DoughsR335_animalDoe,entityclasses,Entity,,,Hunny the Bad and Affectionate
+DoughsR336_animalChicken,entityclasses,Entity,,,Cupcake the Warmly Very Complex Chicken
+DoughsR337_animalStag,entityclasses,Entity,,,Beany the Tangible Stag
+DoughsR338_animalRabbit,entityclasses,Entity,,,Pinky the Twisted Rabbit
+DoughsR339_animalDoe,entityclasses,Entity,,,Chick the Complicated and Earnest
+DoughsR33_animalStag,entityclasses,Entity,,,Pretty Princess the Submissive and Unforgettable
+DoughsR340_animalChicken,entityclasses,Entity,,,Oliver
+DoughsR341_animalStag,entityclasses,Entity,,,Pretty Princess the Wanting
+DoughsR342_animalRabbit,entityclasses,Entity,,,Dewdrop the Concrete
+DoughsR343_animalDoe,entityclasses,Entity,,,King the Joyful
+DoughsR344_animalChicken,entityclasses,Entity,,,Flower Child the Colorless and Bawdy
+DoughsR345_animalStag,entityclasses,Entity,,,Oscar the Corrupt
+DoughsR346_animalRabbit,entityclasses,Entity,,,Doll the Upbeat Bitchy and Feisty
+DoughsR347_animalDoe,entityclasses,Entity,,,Rose the Fatally Indolent
+DoughsR348_animalChicken,entityclasses,Entity,,,Lambkin the Foolish
+DoughsR349_animalStag,entityclasses,Entity,,,Lovie
+DoughsR34_animalRabbit,entityclasses,Entity,,,Darling O Mine the Haunted Rabbit
+DoughsR350_animalRabbit,entityclasses,Entity,,,Baby Boy the Guttural
+DoughsR351_animalDoe,entityclasses,Entity,,,Looker the Jolly Doe
+DoughsR352_animalChicken,entityclasses,Entity,,,Lover Girl the Tangible
+DoughsR353_animalStag,entityclasses,Entity,,,Flower the Impressionable and Tasteful
+DoughsR354_animalRabbit,entityclasses,Entity,,,Sugar Smacks the Nervously Vulgar and Uncommon
+DoughsR355_animalDoe,entityclasses,Entity,,,Short Cake
+DoughsR356_animalChicken,entityclasses,Entity,,,Mimi the Rotten
+DoughsR357_animalStag,entityclasses,Entity,,,Dearestone the Interesting
+DoughsR358_animalRabbit,entityclasses,Entity,,,Sugar Pie the Majorly Corpselike
+DoughsR359_animalDoe,entityclasses,Entity,,,Super Stud the Pungent and Furry
+DoughsR35_animalDoe,entityclasses,Entity,,,Stud the Unnatural
+DoughsR360_animalChicken,entityclasses,Entity,,,Sweetsie the Cold-hearted
+DoughsR361_animalStag,entityclasses,Entity,,,Baby Bear the Startled Stag
+DoughsR362_animalRabbit,entityclasses,Entity,,,Snuka Bear the 1970s Tragic Rabbit
+DoughsR363_animalDoe,entityclasses,Entity,,,Shmoopsie Poo the Zigzag
+DoughsR364_animalChicken,entityclasses,Entity,,,Luv
+DoughsR365_animalStag,entityclasses,Entity,,,Dearie the Scratchy
+DoughsR366_animalRabbit,entityclasses,Entity,,,Pandabear the Shamefully Careless
+DoughsR367_animalDoe,entityclasses,Entity,,,Moonsine
+DoughsR368_animalChicken,entityclasses,Entity,,,Luna the Hastily Slimy Chicken
+DoughsR369_animalStag,entityclasses,Entity,,,Whiskers
+DoughsR36_animalChicken,entityclasses,Entity,,,Lamb the Innocently Acrobatic Chicken
+DoughsR370_animalRabbit,entityclasses,Entity,,,Lily the Conniving Rabbit
+DoughsR371_animalDoe,entityclasses,Entity,,,Diamond the Infuriated and Committed
+DoughsR372_animalChicken,entityclasses,Entity,,,Honey Bunch the Ultra Hateful
+DoughsR373_animalStag,entityclasses,Entity,,,Cutie Patootie
+DoughsR374_animalRabbit,entityclasses,Entity,,,Anchor the Certainly Mean Rabbit
+DoughsR375_animalDoe,entityclasses,Entity,,,Smokey the Shyly Frosty and Picturesque
+DoughsR376_animalChicken,entityclasses,Entity,,,Pepper
+DoughsR377_animalStag,entityclasses,Entity,,,Snuggles the Wholly Gregarious Stag
+DoughsR378_animalRabbit,entityclasses,Entity,,,Big Daddy the Uninterested
+DoughsR379_animalDoe,entityclasses,Entity,,,Hun Bun
+DoughsR37_animalStag,entityclasses,Entity,,,Bon-bon the Submissive Stag
+DoughsR380_animalChicken,entityclasses,Entity,,,Tum-tums the Starchy Chicken
+DoughsR381_animalStag,entityclasses,Entity,,,Huggy Bear the Roughly Frisky Stag
+DoughsR382_animalRabbit,entityclasses,Entity,,,Callie
+DoughsR383_animalDoe,entityclasses,Entity,,,Better Half
+DoughsR384_animalChicken,entityclasses,Entity,,,Cuddles the Damaged Chicken
+DoughsR385_animalStag,entityclasses,Entity,,,Sailor the Thoughtfully Bull-headed Stag
+DoughsR386_animalRabbit,entityclasses,Entity,,,Hunky the Fruitful
+DoughsR387_animalDoe,entityclasses,Entity,,,My Lucky Charm the Considerate
+DoughsR388_animalChicken,entityclasses,Entity,,,Angel
+DoughsR389_animalStag,entityclasses,Entity,,,Honey Bunny the Willfully Honest and Big
+DoughsR38_animalRabbit,entityclasses,Entity,,,Girlfriend the Unsuitable and Batty
+DoughsR390_animalRabbit,entityclasses,Entity,,,Bees Knees the Grim Rabbit
+DoughsR391_animalDoe,entityclasses,Entity,,,Sheba the Fondly Very Tacky and Far-flung
+DoughsR392_animalChicken,entityclasses,Entity,,,Maggie the Deplorable
+DoughsR393_animalStag,entityclasses,Entity,,,Sweet Potato the Very Awful
+DoughsR394_animalRabbit,entityclasses,Entity,,,Missy the Dangerous and Dazzling
+DoughsR395_animalDoe,entityclasses,Entity,,,Sweetthang the Swarthy Haunted
+DoughsR396_animalChicken,entityclasses,Entity,,,Bambi the Heavily Prickly
+DoughsR397_animalStag,entityclasses,Entity,,,Prince the Always Demonic Stag
+DoughsR398_animalRabbit,entityclasses,Entity,,,Peach the Moronic and Spoiled Rotten
+DoughsR399_animalDoe,entityclasses,Entity,,,Juliet the Weepy
+DoughsR39_animalDoe,entityclasses,Entity,,,Hot Stuff the Cluttered
+DoughsR3_animalDoe,entityclasses,Entity,,,Num Nums the Impish Doe
+DoughsR400_animalChicken,entityclasses,Entity,,,Hun the Closed
+DoughsR401_animalStag,entityclasses,Entity,,,Muffy the Abundant Stag
+DoughsR40_animalChicken,entityclasses,Entity,,,Captain the Gripping and Bent
+DoughsR41_animalStag,entityclasses,Entity,,,Sweets the Innocently Tasty
+DoughsR42_animalRabbit,entityclasses,Entity,,,Babes the Readily Shamefully Careless
+DoughsR43_animalDoe,entityclasses,Entity,,,Shmoops the Fiercely-loyal Doe
+DoughsR44_animalChicken,entityclasses,Entity,,,Cutie Head the Moderately Hot
+DoughsR45_animalStag,entityclasses,Entity,,,Love Bug the Arrogantly Abusive and Registered
+DoughsR46_animalRabbit,entityclasses,Entity,,,Flower Child the Jovial
+DoughsR47_animalDoe,entityclasses,Entity,,,Lovely the Lying Doe
+DoughsR48_animalChicken,entityclasses,Entity,,,Bunbuns the Tasteful and Ancient
+DoughsR49_animalStag,entityclasses,Entity,,,Love Muffin the Squeaky Stag
+DoughsR4_animalChicken,entityclasses,Entity,,,Annie the Ever So Dismal
+DoughsR50_animalRabbit,entityclasses,Entity,,,Bubbies
+DoughsR51_animalDoe,entityclasses,Entity,,,Fruit Cake the Yearningly Fart Juggling Doe
+DoughsR52_animalChicken,entityclasses,Entity,,,Baby Boy
+DoughsR53_animalStag,entityclasses,Entity,,,Kitten the Mockingly Infinitely Sad
+DoughsR54_animalRabbit,entityclasses,Entity,,,Sasha
+DoughsR55_animalDoe,entityclasses,Entity,,,Captain the Completely Inhuman Doe
+DoughsR56_animalChicken,entityclasses,Entity,,,Pickle Pie the Really Shameless Chicken
+DoughsR57_animalStag,entityclasses,Entity,,,Dork the Hair-raising Stag
+DoughsR58_animalRabbit,entityclasses,Entity,,,Scooter the Tacit and Warmhearted
+DoughsR59_animalDoe,entityclasses,Entity,,,Snicker Doodle
+DoughsR5_animalStag,entityclasses,Entity,,,Snuggems the Furiously Grim Stag
+DoughsR60_animalChicken,entityclasses,Entity,,,Winky Dink the Fear-inspiring Chicken
+DoughsR61_animalStag,entityclasses,Entity,,,Doodle Bug the Watery Stag
+DoughsR62_animalRabbit,entityclasses,Entity,,,Daisy the Fear-inspiring
+DoughsR63_animalDoe,entityclasses,Entity,,,Sheba
+DoughsR64_animalChicken,entityclasses,Entity,,,Wonderful the Ungodly Chicken
+DoughsR65_animalStag,entityclasses,Entity,,,Ducky the Deficient Stag
+DoughsR66_animalRabbit,entityclasses,Entity,,,Love Boodle the Wormy Rabbit
+DoughsR67_animalDoe,entityclasses,Entity,,,Jujube
+DoughsR68_animalChicken,entityclasses,Entity,,,Kitty
+DoughsR69_animalStag,entityclasses,Entity,,,Sparky the Queasily Future Stag
+DoughsR6_animalRabbit,entityclasses,Entity,,,Tater Tot the Self-centered and Turd Discovering
+DoughsR70_animalRabbit,entityclasses,Entity,,,Baby Angel the Verbally Satisfying Rabbit
+DoughsR71_animalDoe,entityclasses,Entity,,,Love Face the Straight Doe
+DoughsR72_animalChicken,entityclasses,Entity,,,Sugar Britches
+DoughsR73_animalStag,entityclasses,Entity,,,Chick the Mad
+DoughsR74_animalRabbit,entityclasses,Entity,,,Little the Quizzically Extra Frightful and Belligerent
+DoughsR75_animalDoe,entityclasses,Entity,,,Joy the Slightly Hideous and Kindly
+DoughsR76_animalChicken,entityclasses,Entity,,,Sweetness the Cute But Demonic
+DoughsR77_animalStag,entityclasses,Entity,,,Cutie the Readily Disturbing Stag
+DoughsR78_animalRabbit,entityclasses,Entity,,,Chloe the Godawful Rabbit
+DoughsR79_animalDoe,entityclasses,Entity,,,Peach the Nicely Jobless and Amused
+DoughsR7_animalDoe,entityclasses,Entity,,,Hun the Itchy Doe
+DoughsR80_animalChicken,entityclasses,Entity,,,Love Face the Gracefully Infatuated
+DoughsR81_animalStag,entityclasses,Entity,,,Kitty the Really Rank and Loving
+DoughsR82_animalRabbit,entityclasses,Entity,,,Sweetum the Frigid Rabbit
+DoughsR83_animalDoe,entityclasses,Entity,,,Teardrop the Perverted
+DoughsR84_animalChicken,entityclasses,Entity,,,Baby Boo the Unimpressively Sorta Deceased
+DoughsR85_animalStag,entityclasses,Entity,,,Muffy the Rarely Growling and Brotherly
+DoughsR86_animalRabbit,entityclasses,Entity,,,Whiskers the Never Abortive and Clean
+DoughsR87_animalDoe,entityclasses,Entity,,,Sexyness
+DoughsR88_animalChicken,entityclasses,Entity,,,Bees Knees
+DoughsR89_animalStag,entityclasses,Entity,,,Mcdreamy
+DoughsR8_animalChicken,entityclasses,Entity,,,Sugar Lips the Several Chicken
+DoughsR90_animalRabbit,entityclasses,Entity,,,Zoey the Weak and Good
+DoughsR91_animalDoe,entityclasses,Entity,,,Baby Boy the Visible and Coveted
+DoughsR92_animalChicken,entityclasses,Entity,,,Charming the Dashing and Educated
+DoughsR93_animalStag,entityclasses,Entity,,,Super Woman the Lightly Uninterested
+DoughsR94_animalRabbit,entityclasses,Entity,,,Slick the Properly Humongous
+DoughsR95_animalDoe,entityclasses,Entity,,,Darling
+DoughsR96_animalChicken,entityclasses,Entity,,,Kiki the Frothy and Queenly
+DoughsR97_animalStag,entityclasses,Entity,,,Lady Love the Idealistic and Fair
+DoughsR98_animalRabbit,entityclasses,Entity,,,Doobie the Warped
+DoughsR99_animalDoe,entityclasses,Entity,,,Big Daddy the Really Lousy Doe
+DoughsR9_animalStag,entityclasses,Entity,,,Short Cake the Careless and Decorative

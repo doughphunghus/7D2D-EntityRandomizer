@@ -593,21 +593,25 @@ sub Randomize_PercentAroundGivenNumber { # well , no 0
   # print "Randomize_PercentAroundGivenNumber: $num -> $round_type\n";
   # TODO: Sems like we have numbers that have spaces prededing them
   # AND numbers that are arrays? "0,0"
+  #print "DEBUG: Randomize_PercentAroundGivenNumber START: num:$num,pct:$pct,num_decimals:$num_decimals\n";
   my $rand_pct_whole = int(rand($pct)); # 0 -> pct
+  #print "DEBUG: Randomize_PercentAroundGivenNumber: rand_pct_whole:$rand_pct_whole\n";
   $rand_pct_whole++; # 1 -> pct (don't allow 0)
   my $rand_pct_float = $rand_pct_whole/100; # decimal
-
+  #print "DEBUG: Randomize_PercentAroundGivenNumber: rand_pct_float:$rand_pct_float\n";
   my $rand_pct_diff_float = $rand_pct_float * $num; # have +pct number
 
   my $new_num_float = $num + $rand_pct_diff_float;
-  if(int(floor(rand(1)))) { # 1 or 0.....
+  if(int(rand(1)*10) > 5) { # 0..10.....
     $new_num_float = $num - $rand_pct_diff_float;
+    #print "DEBUG: Randomize_PercentAroundGivenNumber: SUBTRACT! ---------------------------\n";
   }
 
   # ok, we finally have the ran +/- percent.  How to round?
   $new_num_float = sprintf("%.".$num_decimals."f", $new_num_float);
 
-  # print "Randomize_PercentAroundGivenNumber: $num -> $round_type = $new_num_float\n";
+  #print "DEBUG: Randomize_PercentAroundGivenNumber FINISH: num:$num -> new_num_float:$new_num_float\n";
+
   return $new_num_float;
 
 }
@@ -685,11 +689,14 @@ sub Randomize_SetOrCreate_GenericPropertyAndVal {
     my $val = $node->getAttribute('value');
 
     my $new_val = Randomize_PercentAroundGivenNumber($val,$pct_random,Determine_NumDecimals($val));
+   print "DEBUG: Randomize_SetOrCreate_GenericPropertyAndVal: $property_name FOUND! $val (RAND: $pct_random)-> $new_val\n";
+
     $node->setAttribute(q|value|,$new_val); # random this
   }
 
   # ok, we did NOT find a "size" attribute
   if(!$found) { # gotta make a new one
+    #print "DEBUG: Randomize_SetOrCreate_GenericPropertyAndVal: $property_name NOT FOUND!\n";
     my $property = XML::LibXML::Element->new( 'property' );
     $property->setAttribute(q|name|,$property_name);
     my $new_val = Randomize_PercentAroundGivenNumber($val_if_empty,$pct_random,Determine_NumDecimals($val_if_empty));
@@ -808,7 +815,9 @@ sub Randomize_MassAndWeightAndSizeScale {
 
   # <property name="SizeScale" value="1.08"/>
   # Make them slightly smaller on avg because larger zeds cant go through doors ;). 1 = normal size
-  $rand_change_pct = Randomize_PercentAroundGivenNumber($sizescale_default,$rand_change_pct,Determine_NumDecimals(0.01));
+  # $rand_change_pct = Randomize_PercentAroundGivenNumber($sizescale_default,$rand_change_pct,Determine_NumDecimals(0.01));
+  $rand_change_pct = Randomize_PercentAroundGivenNumber($sizescale_default,$rand_change_pct,2);
+  print "DEBUG: sizescale_default: $sizescale_default, rand_change_pct: $rand_change_pct\n";
   $zed = Randomize_SetOrCreate_GenericPropertyAndVal($zed,
     'SizeScale',
     { pct_random_int => $rand_change_pct, default => $sizescale_default }
@@ -1011,11 +1020,15 @@ sub LoadVanillaLocalization {
      my $line = $_;
 
      my($entity,$type_info1,$type_info2,$type_info3,$type_info4,$name) = split(',', $line);
+    # When this throws errors like: Use of uninitialized value $type_info1 in concatenation (.) or string at ./randomizer.pl line 1017, <$LOC_FILE> line
+    # and you uncomment this, its liekly because the Twitch integration has newlines and "blank lines" to parse. UGH!
     # print "LOCALIZATION: $entity,$type_info1,$type_info2,$type_info3,$type_info4,$name\n";
+     if(defined $type_info1 && defined $type_info2 && defined $type_info3 && defined $type_info4) {
+       # Filter? Nah. Its a pretty small data set
+       $LOCALIZATION{$entity}{'type_info'} = "$type_info1,$type_info2,$type_info3,$type_info4";
 
-     # Filter? Nah. Its a pretty small data set
-     $LOCALIZATION{$entity}{'type_info'} = "$type_info1,$type_info2,$type_info3,$type_info4";
-     $LOCALIZATION{$entity}{'name'} = $name;
+       $LOCALIZATION{$entity}{'name'} = $name;
+    }
   }
 
   close($LOC_FILE);

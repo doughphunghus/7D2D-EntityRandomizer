@@ -22,6 +22,9 @@ If you are using a pre-generated modlet below, load the modlets in the table bel
 
 | Current Pre-generated Modlets  | Notes |
 | ------------- | ------------- |
+| Doughs-RandEnts_For_a20.5-b2_vanilla-enemy-animals-only-600-clones | 600 clones of vanilla zombie animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!) |
+| Doughs-RandEnts_For_a20.5-b2_vanilla-friendly-animals-only-400-clones | 400 clones of vanilla friendly/wild animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!)|
+| Doughs-RandEnts_For_a20.5-b2_vanilla-zeds-only-5160-clones | 5160 clones of vanilla zombies (Recommend loading an enemy health bar viewer modlet to see the names!)|
 | Doughs-RandEnts_For_a19.5-b50_vanilla-enemy-animals-only-600-clones | 600 clones of vanilla zombie animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!) |
 | Doughs-RandEnts_For_a19.5-b50_vanilla-friendly-animals-only-400-clones | 400 clones of vanilla friendly/wild animals, with localization (Recommend loading an enemy health bar viewer modlet to see the names!)|
 | Doughs-RandEnts_For_a19.5-b50_vanilla-zeds-only-4920-clones | 4920 clones of vanilla zombies (Recommend loading an enemy health bar viewer modlet to see the names!)|
