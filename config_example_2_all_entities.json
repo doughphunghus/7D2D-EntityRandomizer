@@ -5,7 +5,7 @@
   "game_version":"a20.5.b2",
   "author":"Doughphunghus",
   "modlet_name_prefix":"Doughs-RandEnts",
-  "modlet_name_tag":"vanilla-enemy-animals-only-600-clones",
+  "modlet_name_tag":"vanilla-zeds-only-3000-clones",
   "log_level":"2",
   "config_file_format":"v1",
   "unique_entity_prefix":"DoughsR",
@@ -195,7 +195,7 @@
     }
   },
   "ConfigEntityEnemyAnimal": {
-    "disable_randomizer":"0",
+    "disable_randomizer":"1",
     "num_generation_loops":"50",
     "ignore_entity_list":{},
     "MassAndWeightAndSizeScale": {
@@ -250,9 +250,9 @@
     "MaxTurnSpeed": {}
   },
   "ConfigEntityZombie": {
-    "disable_randomizer":"1",
-    "num_generation_loops":"60",
-    "enable_walktype_crawler_limit":"5",
+    "disable_randomizer":"0",
+    "num_generation_loops":"40",
+    "enable_walktype_crawler_limit":"4",
     "ignore_entity_list":{
       "animalRabbit2":"Example how to not randomize an entity named animalRabbit2",
       "animalDoe2":"Example how to not randomize an entity named animalDoe2"
