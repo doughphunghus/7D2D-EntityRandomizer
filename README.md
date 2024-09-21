@@ -1,3 +1,5 @@
+# 2024-09-21: Deprecating project. No future updates.
+
 # 7D2D-EntityRandomizer
 A 7 Days to Die modlet generator that makes copies of Entities and randomizes them.
 The script currently can randomize Zombie and animal entities.
